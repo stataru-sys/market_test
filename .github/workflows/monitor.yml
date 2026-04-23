@@ -1,0 +1,48 @@
+name: fade-the-shock monitor
+
+on:
+  schedule:
+    # Every hour at :07 to avoid contention at :00
+    - cron: '7 * * * *'
+  workflow_dispatch:  # allow manual trigger
+
+permissions:
+  contents: write  # needed to commit state back to the repo
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    concurrency:
+      group: monitor
+      cancel-in-progress: false
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          # monitor_live.py only needs requests for Polymarket reads
+          pip install requests>=2.31.0
+
+      - name: Run monitor
+        run: python monitor_live.py
+
+      - name: Commit state
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/paper_positions.json data/monitor_log.jsonl
+          if git diff --cached --quiet; then
+            echo "no state change"
+          else
+            git commit -m "monitor: hourly update $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          fi

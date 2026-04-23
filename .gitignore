@@ -1,0 +1,23 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+.env.local
+*.parquet
+*.db
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# data/ — by default exclude everything, then explicitly allow state files
+data/*
+!data/.gitkeep
+!data/paper_positions.json
+!data/monitor_log.jsonl
+!data/forecast_history.jsonl
+!data/forecast_round*_full.json
+!data/forecast_round*_predictions.json

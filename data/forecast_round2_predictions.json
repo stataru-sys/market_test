@@ -1,0 +1,58 @@
+{
+  "_meta": {
+    "forecaster": "claude-opus-4-7",
+    "predicted_at_utc": "2026-04-23",
+    "training_cutoff": "2026-01",
+    "methodology": "Blind predictions. WebSearch for current Iran/Pakistan/World Cup context. Probabilities clamped to [0.02, 0.98]."
+  },
+  "PqSQpPyqER": {
+    "prob": 0.04,
+    "confidence": "high",
+    "rationale": "Current Hormuz traffic is 3-8 ships/day per April 22 CNBC data. Trump ordered Navy on Apr 23 to destroy Iranian mine-laying boats. Blockade continues. 60 ships/day requires near-normal operations; functionally impossible without signed deal in 7 days."
+  },
+  "Uy556NdlPg": {
+    "prob": 0.08,
+    "confidence": "medium",
+    "rationale": "Market closes Apr 26 (3 days). Trump EXTENDED ceasefire Apr 21 with more conditions, gave Iran 3-5 days to unify. On Apr 23 he ordered Navy to destroy Iranian boats and threatened infrastructure. That's not 'abandoning' — that's active escalation within a fragile truce. Unless market interprets 'abandon' loosely (e.g., 'no new large-scale campaign'), NO is clear."
+  },
+  "22dA0cEypN": {
+    "prob": 0.10,
+    "confidence": "medium",
+    "rationale": "Trump said he 'might visit' Pakistan IF peace deal signed there. Vance trip (lower level) is on hold; Iran has not responded to latest US proposals per NYT Apr 22. Trump personally visiting in 7 days conditional on breakthrough that currently looks stalled. 10% leaves room for surprise announcement."
+  },
+  "ZUyOquuQEg": {
+    "prob": 0.06,
+    "confidence": "high",
+    "rationale": "Permanent peace in 7 days is extraordinary. Both sides still deadlocked on sanctions, enrichment limits, blockade. IRGC vs civilian factions in Iran openly split. Only 'temporary ceasefire' exists — explicitly NOT permanent peace."
+  },
+  "zb7emCF2a6": {
+    "prob": 0.50,
+    "confidence": "low",
+    "rationale": "Self-referential meta market — title is 'Do you like 8% odds?'. No visible resolution criteria I can reason about from the question alone. Manifold joke markets are unpredictable without platform context. 50% is honest coin flip."
+  },
+  "9dtlApd8yn": {
+    "prob": 0.22,
+    "confidence": "low",
+    "rationale": "Depends on definition of 'infamous' and whether market gets notable attention. 24h volume is only M$2 with 39 bettors — market is already trafficked but not clearly by 'infamous' users. Light base rate for random small markets."
+  },
+  "qZZ6gnuPRg": {
+    "prob": 0.03,
+    "confidence": "high",
+    "rationale": "Trump envoy Paolo Zampolli DID propose this to FIFA (FT Apr 23). Italy's sports minister flatly rejected: 'Not appropriate, you qualify on the pitch'. FIFA's Infantino said 'Iranian team will be participating for sure, sports should be outside politics'. Both Italy and FIFA publicly killed the idea within hours of the proposal. Only a drastic reversal in 6 days could resolve YES."
+  },
+  "8Ph8lpNzSc": {
+    "prob": 0.02,
+    "confidence": "high",
+    "rationale": "BTC currently $78-80k (verified from live Polymarket earlier). Needing close below $65k on Apr 25 = -18% in 2 days. That magnitude weekly drop happens ~1-2% of time historically, requires major black swan. No current catalyst."
+  },
+  "g0ROQQIyz0": {
+    "prob": 0.38,
+    "confidence": "low",
+    "rationale": "Subjective question, resolves to creator's own judgment. Hindsight bias typically pushes people to rationalize their decisions (bias toward NO, 'not a mistake'). M$3,786 volume with 61 bettors is moderate interest. No specific signal on the personal situation — slight lean below 50%."
+  },
+  "S9lCRLUNgL": {
+    "prob": 0.25,
+    "confidence": "medium",
+    "rationale": "Window is 2 days. Ceasefire technically holds, but Apr 23 events included 'key bases hit' in Gulf of Oman (some may be on Iranian coast/territory = soil). Trump threatening infrastructure strikes if no progress. Ambiguity in resolution: if 'key bases hit' already counts, could resolve YES. If strictly new airstrike campaign on land, less likely. ~25% reflects both conditional escalation risk and resolution ambiguity."
+  }
+}

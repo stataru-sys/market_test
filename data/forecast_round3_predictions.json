@@ -1,0 +1,58 @@
+{
+  "_meta": {
+    "forecaster": "claude-opus-4-7",
+    "predicted_at_utc": "2026-04-23",
+    "training_cutoff": "2026-01",
+    "methodology": "Blind predictions. WebSearch used for each concrete event. Sport/political/financial mix in round 3."
+  },
+  "Uzs8PNOANz": {
+    "prob": 0.80,
+    "confidence": "medium",
+    "rationale": "Uar Bernard (Nigerian DT, IPP program) is projected as Day 3 NFL pick per multiple scouting reports (Yahoo, NFL.com, Pewter Plank). Elite testing (4.63 40yd, 39-in vert, 10.0 RAS). 'Day 3' = rounds 4-7 = he gets drafted. Risk: team might sign him UDFA instead if they want exclusive dev rights. 80% reflects projection consensus but not certainty."
+  },
+  "ASngSERUPP": {
+    "prob": 0.85,
+    "confidence": "high",
+    "rationale": "Brent crude $103.67/barrel at 9am ET on Apr 23 (Oneindia, Fortune). Question asks Apr 24 close above $100. From current $103+ level, a drop below $100 in one day requires ~3.5% decline — possible but not base case. Hormuz blockade continuing pushes price up. 85% reflects strong base rate above $100 holding."
+  },
+  "cL6LzcdSOs": {
+    "prob": 0.80,
+    "confidence": "medium",
+    "rationale": "EU defense spending trajectory: 1.6% (2023) -> 1.9% (2024) -> 2.1% projected (2025) per Consilium/Euronews/Defense News. Middle East war and Ukraine pressure throughout 2025. Main uncertainty: market resolves Apr 28 — is 2025 final data published/available by then, or are these still projections? Projections point to YES but data lag could push toward ambiguity."
+  },
+  "nLPdZR2d5d": {
+    "prob": 0.05,
+    "confidence": "high",
+    "rationale": "Buckingham Palace publicly confirmed the state visit Apr 27-30 will go ahead despite cancellation calls (PBS, Time, multiple outlets). PM Starmer insists visit proceeds. Visit starts Apr 27 (before market closes Apr 27 16:52 UTC). 5% reserves for last-minute unexpected cancellation."
+  },
+  "CEIUnpQL26": {
+    "prob": 0.40,
+    "confidence": "low",
+    "rationale": "Subjective self-tracking market. Platform-insider market with 28 bettors probably know creator's follow-through rate. My base rate without personal info: ~40% for 'will complete all of a self-defined list in a week'. Low confidence."
+  },
+  "RLdy8AAZt5": {
+    "prob": 0.02,
+    "confidence": "high",
+    "rationale": "76ers ALREADY resolved to #7 seed via Play-In Tournament (beat Magic per CBS/Yahoo coverage of 2026 playoff bracket). Top-6 seed = NO. Market is pending resolution, should resolve NO at 2%."
+  },
+  "pI2OcZQ6Eg": {
+    "prob": 0.43,
+    "confidence": "low",
+    "rationale": "Leg 1 PSG @ home vs Bayern. Polymarket UCL match odds: PSG 42.5%, Bayern 34.5%, Draw 24.5%. Assuming YES = PSG wins Leg 1 (most common binary framing for home-team-first titles): ~43%. Uncertainty: resolution criteria unclear from title alone, could mean 'PSG advances on aggregate' (60%+) or something else. Low confidence flag."
+  },
+  "S05Q0AOctQ": {
+    "prob": 0.35,
+    "confidence": "low",
+    "rationale": "Leg 1 Atletico @ home vs Arsenal. No polymarket odds in my search. Form: Arsenal beat Atletico 4-0 in league phase (Oct 2025). Atletico just beat Barcelona 3-2 agg in QF. Home advantage for Atletico ~10pp. Approx Atletico 32-38% win, Arsenal 40-45%, draw 22-28%. If YES=Atletico wins: 35%. Same ambiguity as PSG market."
+  },
+  "nnsCuggdhU": {
+    "prob": 0.97,
+    "confidence": "high",
+    "rationale": "Wembanyama was ALREADY named 2025-26 DPOY, unanimously (100/100 first-place votes), announced Monday Apr 20 per ESPN/CBS/NBA.com. Market closes Apr 25, awaiting resolution. This is essentially resolved YES."
+  },
+  "hIINpz0PdR": {
+    "prob": 0.50,
+    "confidence": "low",
+    "rationale": "Math/probability question about repeated random reduction. Without knowing the starting number, reduction mechanism, number of steps, or stopping rule, cannot compute. 50% reflects honest ignorance. Platform users who read the description may have sharp answer."
+  }
+}

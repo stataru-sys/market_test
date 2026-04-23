@@ -1,0 +1,58 @@
+{
+  "_meta": {
+    "forecaster": "claude-opus-4-7",
+    "predicted_at_utc": "2026-04-23",
+    "training_cutoff": "2026-01",
+    "methodology": "Blind predictions made without seeing Manifold probability. Used WebSearch for current news where needed. Probabilities clamped to [0.02, 0.98]."
+  },
+  "l5ttgczEut": {
+    "prob": 0.65,
+    "confidence": "medium",
+    "rationale": "US gas price was $4.18 week of Apr 20 per AAA. Trending up (~$4.06 Apr 1 to $4.18 Apr 20). Need $4.30 by Apr 30 = +$0.12 in 10 days at roughly current pace. Hormuz blockade ongoing, oil elevated, no resolution imminent. Base trajectory reaches $4.30; downside is only if ceasefire or strait reopening causes sharp retrace."
+  },
+  "OlQq8h8qOh": {
+    "prob": 0.02,
+    "confidence": "high",
+    "rationale": "Hormuz traffic at 3-8 ships/day vs pre-war 100+. Trump: 'strait does not open until final deal signed'. Iran demands US lift blockade first. Both sides deadlocked. 7 days to Apr 30. Functionally impossible to reach 'normal' in this window."
+  },
+  "Iq0OnOp0At": {
+    "prob": 0.04,
+    "confidence": "high",
+    "rationale": "Surrender of enriched uranium stockpile is maximalist US demand, full strategic capitulation for Iran. Ceasefire extended but still fragile. Even if agreed in principle, physical surrender and verification in 7 days not credible."
+  },
+  "y2ZIUOq0ZC": {
+    "prob": 0.12,
+    "confidence": "medium",
+    "rationale": "Trump explicitly tied blockade lift to signed deal. Negotiations active (CNN Apr 21 ceasefire extension), but a signed full deal in 7 days seems tight. Some chance of partial announcement to test market — Trump often pivots. ~10-15% seems right."
+  },
+  "gZbgFM1nLNUjtP2CfJee": {
+    "prob": 0.88,
+    "confidence": "medium",
+    "rationale": "Redwood Research is a well-funded AI safety org (Anthropic-adjacent, has Open Philanthropy funding). Base rate: established research orgs with stable funding survive 3 years with ~85-90% probability. Resolution date suggests market owner resolves based on consensus, not actual 3yr wait — so current sentiment matters more than long-run base rate, both high."
+  },
+  "pUCZPnhO66": {
+    "prob": 0.55,
+    "confidence": "low",
+    "rationale": "Managram = Manifold gift transfer, tracks creator's social capital. 24h volume M$19,571 is unusually high vs only 22 bettors — suggests momentum/meme dynamic or whale activity. 1500 mana threshold is low for an active Manifold user. No specific signal either way; slight lean YES given activity. Wide uncertainty."
+  },
+  "zACQ82SQd6": {
+    "prob": 0.02,
+    "confidence": "high",
+    "rationale": "BTC is currently between $78k-$80k (verified from live Polymarket 'above $78k' at YES 1.000, 'above $80k' at NO 1.000 earlier today). Reaching $60k in 7 days = -22% weekly drop. Historical base rate for BTC weekly drops >=20% is ~1-2% (few occurrences per decade). No current catalyst of that magnitude."
+  },
+  "CqptuuhR5c": {
+    "prob": 0.03,
+    "confidence": "high",
+    "rationale": "Same reasoning as $60k market. $64k requires -18% in 7 days. Base rate slightly higher than $60k but still very rare. Capped at 0.03."
+  },
+  "cqpLP0PAZn": {
+    "prob": 0.025,
+    "confidence": "high",
+    "rationale": "Between $60k (0.02) and $64k (0.03). Need -20% week."
+  },
+  "pCdqOngC6E": {
+    "prob": 0.92,
+    "confidence": "medium",
+    "rationale": "Delcy Rodríguez sworn in Jan 5 after US captured Maduro. 90-day limit exceeded, yet she remains with explicit US backing (Treasury lifted sanctions, State Dept recognized her as 'sole Head of State'). No signs of imminent ouster 11 days out. Main risk: Maduro return, coup, or resignation — all low base rate for acting heads of state with foreign great-power support."
+  }
+}
