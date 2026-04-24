@@ -334,8 +334,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1777066446,
-    "status": "open",
-    "opened_at_run_ts": 1776980053
+    "status": "closed",
+    "opened_at_run_ts": 1776980053,
+    "close_ts": 1777072269,
+    "close_price": 0.34,
+    "gross_pnl": 0.33
   },
   {
     "id": "106305674910_1776980045",
@@ -368,8 +371,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1777066445,
-    "status": "open",
-    "opened_at_run_ts": 1776980053
+    "status": "closed",
+    "opened_at_run_ts": 1776980053,
+    "close_ts": 1777072155,
+    "close_price": 0.745,
+    "gross_pnl": 0.26
   },
   {
     "id": "967976560311_1777011545",
@@ -965,5 +971,22 @@
     "target_close_ts": 1777149123,
     "status": "open",
     "opened_at_run_ts": 1777062724
+  },
+  {
+    "id": "106991198980_1777072265",
+    "token_id": "106991198980042294297651789082294997007843510765681763269951414375248804606580",
+    "market_id": "1763817",
+    "question": "Will CA Rosario Central win on 2026-04-24?",
+    "slug": "arg-aae-ros-2026-04-24-ros",
+    "open_ts": 1777072265,
+    "open_price": 0.8,
+    "six_h_ago_ts": 1777050004,
+    "six_h_ago_price": 0.435,
+    "dp_6h": 0.36500000000000005,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1777158665,
+    "status": "open",
+    "opened_at_run_ts": 1777072275
   }
 ]
