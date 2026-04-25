@@ -391,8 +391,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1777097945,
-    "status": "open",
-    "opened_at_run_ts": 1777011580
+    "status": "closed",
+    "opened_at_run_ts": 1777011580,
+    "close_ts": 1777111649,
+    "close_price": 0.6065,
+    "gross_pnl": 0.15050000000000002
   },
   {
     "id": "227196805472_1777011544",
@@ -1005,5 +1008,39 @@
     "target_close_ts": 1777183684,
     "status": "open",
     "opened_at_run_ts": 1777097310
+  },
+  {
+    "id": "269516229169_1777111648",
+    "token_id": "26951622916923257557501258952695757313041710563210120961488305086049218225475",
+    "market_id": "2060925",
+    "question": "Madrid Open: Laura Samson vs Anna Bondar",
+    "slug": "wta-samson-bondar-2026-04-25",
+    "open_ts": 1777111648,
+    "open_price": 0.57,
+    "six_h_ago_ts": 1777089604,
+    "six_h_ago_price": 0.265,
+    "dp_6h": 0.30499999999999994,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1777198048,
+    "status": "open",
+    "opened_at_run_ts": 1777111650
+  },
+  {
+    "id": "446523262498_1777111650",
+    "token_id": "44652326249875783921701290208684152191938509222797898402706364057554175324402",
+    "market_id": "2014331",
+    "question": "Game Handicap: DK (-1.5) vs DN SOOPers (+1.5)",
+    "slug": "lol-dk-dnf-2026-04-25-game-handicap-away-1pt5",
+    "open_ts": 1777111650,
+    "open_price": 0.775,
+    "six_h_ago_ts": 1777089604,
+    "six_h_ago_price": 0.59,
+    "dp_6h": 0.18500000000000005,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1777198050,
+    "status": "open",
+    "opened_at_run_ts": 1777111650
   }
 ]
