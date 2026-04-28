@@ -2932,8 +2932,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1777392665,
-    "status": "open",
-    "opened_at_run_ts": 1777306317
+    "status": "closed",
+    "opened_at_run_ts": 1777306317,
+    "close_ts": 1777393864,
+    "close_price": 0.645,
+    "gross_pnl": -0.11499999999999999
   },
   {
     "id": "316755116071_1777306324",
@@ -2983,8 +2986,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1777392723,
-    "status": "open",
-    "opened_at_run_ts": 1777306317
+    "status": "closed",
+    "opened_at_run_ts": 1777306317,
+    "close_ts": 1777393863,
+    "close_price": 0.13,
+    "gross_pnl": 0.21499999999999997
   },
   {
     "id": "487499346745_1777306323",
@@ -3034,8 +3040,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1777392723,
-    "status": "open",
-    "opened_at_run_ts": 1777306317
+    "status": "closed",
+    "opened_at_run_ts": 1777306317,
+    "close_ts": 1777393864,
+    "close_price": 0.395,
+    "gross_pnl": 0.14500000000000002
   },
   {
     "id": "403262984029_1777306323",
@@ -3051,8 +3060,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1777392723,
-    "status": "open",
-    "opened_at_run_ts": 1777306317
+    "status": "closed",
+    "opened_at_run_ts": 1777306317,
+    "close_ts": 1777393863,
+    "close_price": 0.565,
+    "gross_pnl": 0.1100000000000001
   },
   {
     "id": "855414543954_1777322523",
@@ -3410,5 +3422,73 @@
     "target_close_ts": 1777455484,
     "status": "open",
     "opened_at_run_ts": 1777369093
+  },
+  {
+    "id": "768635621132_1777393864",
+    "token_id": "76863562113258120403749250917784295694544035195946556036078144355825991681672",
+    "market_id": "2086982",
+    "question": "Saint-Malo: Leolia Jeanjean vs Talia Gibson",
+    "slug": "wta-jeanjea-gibson-2026-04-28",
+    "open_ts": 1777393864,
+    "open_price": 0.795,
+    "six_h_ago_ts": 1777374005,
+    "six_h_ago_price": 0.615,
+    "dp_6h": 0.18000000000000005,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1777480264,
+    "status": "open",
+    "opened_at_run_ts": 1777393890
+  },
+  {
+    "id": "882120015352_1777393863",
+    "token_id": "88212001535264325719196944295669750949558696932176198372236987473342302768779",
+    "market_id": "2097873",
+    "question": "La Bisbal: Varvara Lepchenko vs Laura Pigossi",
+    "slug": "wta-lepchen-pigossi-2026-04-28",
+    "open_ts": 1777393863,
+    "open_price": 0.245,
+    "six_h_ago_ts": 1777374003,
+    "six_h_ago_price": 0.635,
+    "dp_6h": -0.39,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1777480263,
+    "status": "open",
+    "opened_at_run_ts": 1777393890
+  },
+  {
+    "id": "112327887861_1777393864",
+    "token_id": "112327887861847407242244148248855189764997485796475239433467819535929497986042",
+    "market_id": "2098050",
+    "question": "Ostrava: Jonas Forejtek vs Hynek Barton",
+    "slug": "atp-forejte-barton-2026-04-28",
+    "open_ts": 1777393864,
+    "open_price": 0.25,
+    "six_h_ago_ts": 1777374005,
+    "six_h_ago_price": 0.455,
+    "dp_6h": -0.20500000000000002,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1777480264,
+    "status": "open",
+    "opened_at_run_ts": 1777393890
+  },
+  {
+    "id": "108453078074_1777393803",
+    "token_id": "108453078074640492951624440823665763602216355412090510846010145788612312805013",
+    "market_id": "1423717",
+    "question": "Will Elon Musk post 1040-1079 tweets in April 2026?",
+    "slug": "elon-musk-of-tweets-april-2026-1040-1079",
+    "open_ts": 1777393803,
+    "open_price": 0.3895,
+    "six_h_ago_ts": 1777370403,
+    "six_h_ago_price": 0.152,
+    "dp_6h": 0.23750000000000002,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1777480203,
+    "status": "open",
+    "opened_at_run_ts": 1777393890
   }
 ]
