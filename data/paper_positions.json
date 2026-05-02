@@ -5684,5 +5684,39 @@
     "target_close_ts": 1777766888,
     "status": "open",
     "opened_at_run_ts": 1777680487
+  },
+  {
+    "id": "784146141958_1777705984",
+    "token_id": "78414614195830455484802863479385778601711918059504485699938857609407526918827",
+    "market_id": "2015747",
+    "question": "NBA Playoffs: Who Will Win Series? - Pistons vs. Magic ",
+    "slug": "nba-playoffs-who-will-win-series-pistons-vs-magic",
+    "open_ts": 1777705984,
+    "open_price": 0.759,
+    "six_h_ago_ts": 1777683606,
+    "six_h_ago_price": 0.156,
+    "dp_6h": 0.603,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1777792384,
+    "status": "open",
+    "opened_at_run_ts": 1777706002
+  },
+  {
+    "id": "586088568333_1777705983",
+    "token_id": "586088568333376748089640888223050649218631373406273551043898499595757438799",
+    "market_id": "2122363",
+    "question": "Will the highest temperature in Hong Kong be 26°C on May 2?",
+    "slug": "highest-temperature-in-hong-kong-on-may-2-2026-26c",
+    "open_ts": 1777705983,
+    "open_price": 0.6045,
+    "six_h_ago_ts": 1777683604,
+    "six_h_ago_price": 0.0095,
+    "dp_6h": 0.5950000000000001,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1777792383,
+    "status": "open",
+    "opened_at_run_ts": 1777706002
   }
 ]
