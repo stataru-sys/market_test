@@ -7149,5 +7149,39 @@
     "target_close_ts": 1777937406,
     "status": "open",
     "opened_at_run_ts": 1777851015
+  },
+  {
+    "id": "108873986555_1777885624",
+    "token_id": "108873986555955175979310887019721848323369864554416084349994696204575939975959",
+    "market_id": "2097944",
+    "question": "Will the price of Bitcoin be above $80,000 on May 4?",
+    "slug": "bitcoin-above-80k-on-may-4",
+    "open_ts": 1777885624,
+    "open_price": 0.365,
+    "six_h_ago_ts": 1777863620,
+    "six_h_ago_price": 0.565,
+    "dp_6h": -0.19999999999999996,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1777972024,
+    "status": "open",
+    "opened_at_run_ts": 1777885655
+  },
+  {
+    "id": "458094296883_1777885624",
+    "token_id": "45809429688355239543145132453750394165184421453815406309892000061380303003667",
+    "market_id": "2125909",
+    "question": "Will Elon Musk post 65-89 tweets from May 2 to May 4, 2026?",
+    "slug": "elon-musk-of-tweets-may-2-may-4-65-89",
+    "open_ts": 1777885624,
+    "open_price": 0.1055,
+    "six_h_ago_ts": 1777863621,
+    "six_h_ago_price": 0.2845,
+    "dp_6h": -0.179,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1777972024,
+    "status": "open",
+    "opened_at_run_ts": 1777885655
   }
 ]
