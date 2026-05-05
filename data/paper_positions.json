@@ -7204,8 +7204,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1777998125,
-    "status": "open",
-    "opened_at_run_ts": 1777911749
+    "status": "closed",
+    "opened_at_run_ts": 1777911749,
+    "close_ts": 1778004064,
+    "close_price": 0.155,
+    "gross_pnl": 0.265
   },
   {
     "id": "270047241687_1777911725",
@@ -7221,8 +7224,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1777998125,
-    "status": "open",
-    "opened_at_run_ts": 1777911749
+    "status": "closed",
+    "opened_at_run_ts": 1777911749,
+    "close_ts": 1778004184,
+    "close_price": 0.755,
+    "gross_pnl": 0.11499999999999999
   },
   {
     "id": "332858989020_1777911665",
@@ -7255,8 +7261,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1777998064,
-    "status": "open",
-    "opened_at_run_ts": 1777911749
+    "status": "closed",
+    "opened_at_run_ts": 1777911749,
+    "close_ts": 1778004123,
+    "close_price": 0.42,
+    "gross_pnl": 0.22500000000000003
   },
   {
     "id": "101683760525_1777911665",
@@ -7954,5 +7963,39 @@
     "target_close_ts": 1778069766,
     "status": "open",
     "opened_at_run_ts": 1777983391
+  },
+  {
+    "id": "776765715765_1778004124",
+    "token_id": "77676571576526113811189851564188229644758259685021146767734121856575091394281",
+    "market_id": "2155901",
+    "question": "Internazionali BNL d'Italia: Martina Trevisan vs Talia Gibson",
+    "slug": "wta-trevisa-gibson-2026-05-05",
+    "open_ts": 1778004124,
+    "open_price": 0.595,
+    "six_h_ago_ts": 1777982410,
+    "six_h_ago_price": 0.355,
+    "dp_6h": 0.24,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1778090524,
+    "status": "open",
+    "opened_at_run_ts": 1778004175
+  },
+  {
+    "id": "397748816905_1778004123",
+    "token_id": "39774881690599274831256948316704230315686714164711770432497834627399548195554",
+    "market_id": "2155888",
+    "question": "Internazionali BNL d'Italia: Ann Li vs Shuai Zhang",
+    "slug": "wta-annli-zhang-2026-05-05",
+    "open_ts": 1778004123,
+    "open_price": 0.605,
+    "six_h_ago_ts": 1777982404,
+    "six_h_ago_price": 0.765,
+    "dp_6h": -0.16000000000000003,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1778090523,
+    "status": "open",
+    "opened_at_run_ts": 1778004175
   }
 ]
