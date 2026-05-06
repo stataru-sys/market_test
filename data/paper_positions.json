@@ -7604,8 +7604,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1778026206,
-    "status": "open",
-    "opened_at_run_ts": 1777939889
+    "status": "closed",
+    "opened_at_run_ts": 1777939889,
+    "close_ts": 1778082906,
+    "close_price": 0.205,
+    "gross_pnl": 0.009999999999999981
   },
   {
     "id": "716340472189_1777939806",
@@ -8048,5 +8051,39 @@
     "target_close_ts": 1778103724,
     "status": "open",
     "opened_at_run_ts": 1778017304
+  },
+  {
+    "id": "352741026365_1778082906",
+    "token_id": "35274102636501801159188647003725866664797637900880051007914385526552082544664",
+    "market_id": "2168966",
+    "question": "Internazionali BNL d'Italia: Aleksandar Vukic vs Patrick Kypson",
+    "slug": "atp-vukic-kypson-2026-05-06",
+    "open_ts": 1778082906,
+    "open_price": 0.805,
+    "six_h_ago_ts": 1778061608,
+    "six_h_ago_price": 0.235,
+    "dp_6h": 0.5700000000000001,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1778169306,
+    "status": "open",
+    "opened_at_run_ts": 1778082901
+  },
+  {
+    "id": "103149700553_1778082906",
+    "token_id": "103149700553245011215872765760275305407021000867344882145240154485674191037822",
+    "market_id": "2170960",
+    "question": "Will Bitcoin reach $83,000 on May 6?",
+    "slug": "will-bitcoin-reach-83k-on-may-6",
+    "open_ts": 1778082906,
+    "open_price": 0.195,
+    "six_h_ago_ts": 1778061608,
+    "six_h_ago_price": 0.435,
+    "dp_6h": -0.24,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1778169306,
+    "status": "open",
+    "opened_at_run_ts": 1778082901
   }
 ]
