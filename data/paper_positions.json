@@ -9212,8 +9212,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1778358964,
-    "status": "open",
-    "opened_at_run_ts": 1778272678
+    "status": "closed",
+    "opened_at_run_ts": 1778272678,
+    "close_ts": 1778365566,
+    "close_price": 0.7235,
+    "gross_pnl": -0.02750000000000008
   },
   {
     "id": "257140079602_1778272625",
@@ -9229,8 +9232,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1778359025,
-    "status": "open",
-    "opened_at_run_ts": 1778272678
+    "status": "closed",
+    "opened_at_run_ts": 1778272678,
+    "close_ts": 1778365513,
+    "close_price": 0.36,
+    "gross_pnl": 0.16500000000000004
   },
   {
     "id": "921208963825_1778272624",
@@ -10064,5 +10070,73 @@
     "target_close_ts": 1778442306,
     "status": "open",
     "opened_at_run_ts": 1778355940
+  },
+  {
+    "id": "472159870138_1778365445",
+    "token_id": "4721598701385505260557192418193703552652406901053559889428341521311068141346",
+    "market_id": "2055101",
+    "question": "UFC 328: Pat Sabatini vs. William Gomis (Featherweight, Early Prelims)",
+    "slug": "ufc-pat2-wil5-2026-05-09",
+    "open_ts": 1778365445,
+    "open_price": 0.865,
+    "six_h_ago_ts": 1778342407,
+    "six_h_ago_price": 0.605,
+    "dp_6h": 0.26,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1778451845,
+    "status": "open",
+    "opened_at_run_ts": 1778365570
+  },
+  {
+    "id": "109763616413_1778365514",
+    "token_id": "109763616413237058086051806660684327740262416202736462497985722286073650784230",
+    "market_id": "1959556",
+    "question": "Will CF Montréal win on 2026-05-09?",
+    "slug": "mls-mim-orl-2026-05-09-mim",
+    "open_ts": 1778365514,
+    "open_price": 0.165,
+    "six_h_ago_ts": 1778342417,
+    "six_h_ago_price": 0.485,
+    "dp_6h": -0.31999999999999995,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1778451914,
+    "status": "open",
+    "opened_at_run_ts": 1778365570
+  },
+  {
+    "id": "247559572645_1778365566",
+    "token_id": "24755957264593753911446990804876160638122116257497012279853271638692355657199",
+    "market_id": "2192034",
+    "question": "Athletics vs. Baltimore Orioles: O/U 9.5",
+    "slug": "mlb-oak-bal-2026-05-09-total-9pt5",
+    "open_ts": 1778365566,
+    "open_price": 0.16,
+    "six_h_ago_ts": 1778342407,
+    "six_h_ago_price": 0.505,
+    "dp_6h": -0.345,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1778451966,
+    "status": "open",
+    "opened_at_run_ts": 1778365570
+  },
+  {
+    "id": "119784040442_1778365567",
+    "token_id": "11978404044282160239943833503183832066959963417594411487713344046920113766014",
+    "market_id": "2155668",
+    "question": "LoL: Disguised vs Dignitas (BO3) - LCS Regular Season",
+    "slug": "lol-dsg-dig-2026-05-09",
+    "open_ts": 1778365567,
+    "open_price": 0.765,
+    "six_h_ago_ts": 1778342410,
+    "six_h_ago_price": 0.505,
+    "dp_6h": 0.26,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1778451967,
+    "status": "open",
+    "opened_at_run_ts": 1778365570
   }
 ]
