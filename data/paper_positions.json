@@ -8784,8 +8784,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1778273525,
-    "status": "open",
-    "opened_at_run_ts": 1778187195
+    "status": "closed",
+    "opened_at_run_ts": 1778187195,
+    "close_ts": 1778573467,
+    "close_price": 0.405,
+    "gross_pnl": -0.16999999999999993
   },
   {
     "id": "742126720381_1778187124",
@@ -10760,8 +10763,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1778538668,
-    "status": "open",
-    "opened_at_run_ts": 1778452325
+    "status": "closed",
+    "opened_at_run_ts": 1778452325,
+    "close_ts": 1778573405,
+    "close_price": 0.275,
+    "gross_pnl": -0.02999999999999997
   },
   {
     "id": "781404584321_1778452267",
@@ -10777,8 +10783,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1778538667,
-    "status": "open",
-    "opened_at_run_ts": 1778452325
+    "status": "closed",
+    "opened_at_run_ts": 1778452325,
+    "close_ts": 1778573466,
+    "close_price": 0.14,
+    "gross_pnl": 0.0050000000000000044
   },
   {
     "id": "716340472189_1778452268",
@@ -10811,8 +10820,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1778538667,
-    "status": "open",
-    "opened_at_run_ts": 1778452325
+    "status": "closed",
+    "opened_at_run_ts": 1778452325,
+    "close_ts": 1778573345,
+    "close_price": 0.26,
+    "gross_pnl": 0.025000000000000022
   },
   {
     "id": "799246310202_1778452268",
@@ -11153,5 +11165,22 @@
     "target_close_ts": 1778622909,
     "status": "open",
     "opened_at_run_ts": 1778536543
+  },
+  {
+    "id": "104444058434_1778573405",
+    "token_id": "104444058434848869898317406393341604069757201542702298158378049362250329346369",
+    "market_id": "2136980",
+    "question": "Will Elon Musk post 120-139 tweets from May 5 to May 12, 2026?",
+    "slug": "elon-musk-of-tweets-may-5-may-12-120-139",
+    "open_ts": 1778573405,
+    "open_price": 0.1395,
+    "six_h_ago_ts": 1778551207,
+    "six_h_ago_price": 0.2965,
+    "dp_6h": -0.15699999999999997,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1778659805,
+    "status": "open",
+    "opened_at_run_ts": 1778573465
   }
 ]
