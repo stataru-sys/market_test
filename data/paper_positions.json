@@ -10803,8 +10803,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1778538668,
-    "status": "open",
-    "opened_at_run_ts": 1778452325
+    "status": "closed",
+    "opened_at_run_ts": 1778452325,
+    "close_ts": 1778625425,
+    "close_price": 0.855,
+    "gross_pnl": 0.010000000000000009
   },
   {
     "id": "926377706175_1778452267",
@@ -10959,8 +10962,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1778609057,
-    "status": "open",
-    "opened_at_run_ts": 1778522715
+    "status": "closed",
+    "opened_at_run_ts": 1778522715,
+    "close_ts": 1778625425,
+    "close_price": 0.305,
+    "gross_pnl": -0.06
   },
   {
     "id": "783663827012_1778522587",
@@ -11027,8 +11033,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1778608987,
-    "status": "open",
-    "opened_at_run_ts": 1778522715
+    "status": "closed",
+    "opened_at_run_ts": 1778522715,
+    "close_ts": 1778625425,
+    "close_price": 0.325,
+    "gross_pnl": 0.26999999999999996
   },
   {
     "id": "693807470812_1778522707",
@@ -11095,8 +11104,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1778622903,
-    "status": "open",
-    "opened_at_run_ts": 1778536543
+    "status": "closed",
+    "opened_at_run_ts": 1778536543,
+    "close_ts": 1778625484,
+    "close_price": 0.635,
+    "gross_pnl": 0.18999999999999995
   },
   {
     "id": "985191664683_1778536511",
@@ -11146,8 +11158,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1778622845,
-    "status": "open",
-    "opened_at_run_ts": 1778536543
+    "status": "closed",
+    "opened_at_run_ts": 1778536543,
+    "close_ts": 1778625424,
+    "close_price": 0.205,
+    "gross_pnl": 0.39
   },
   {
     "id": "209510286421_1778536509",
@@ -11250,5 +11265,73 @@
     "target_close_ts": 1778692925,
     "status": "open",
     "opened_at_run_ts": 1778606531
+  },
+  {
+    "id": "602030258004_1778625424",
+    "token_id": "60203025800479908481768532816297494129144024748793071156142912611601043911205",
+    "market_id": "2161596",
+    "question": "Will Elon Musk post 80-99 tweets from May 8 to May 15, 2026?",
+    "slug": "elon-musk-of-tweets-may-8-may-15-80-99",
+    "open_ts": 1778625424,
+    "open_price": 0.144,
+    "six_h_ago_ts": 1778605227,
+    "six_h_ago_price": 0.2945,
+    "dp_6h": -0.1505,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1778711824,
+    "status": "open",
+    "opened_at_run_ts": 1778625494
+  },
+  {
+    "id": "402103146609_1778625485",
+    "token_id": "40210314660981170937953906591889125395854154388030561261874764760344017317694",
+    "market_id": "2214718",
+    "question": "Will Elon Musk post <40 tweets from May 11 to May 13, 2026?",
+    "slug": "elon-musk-of-tweets-may-11-may-13-0-39",
+    "open_ts": 1778625485,
+    "open_price": 0.5,
+    "six_h_ago_ts": 1778605231,
+    "six_h_ago_price": 0.855,
+    "dp_6h": -0.355,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1778711885,
+    "status": "open",
+    "opened_at_run_ts": 1778625494
+  },
+  {
+    "id": "967786017810_1778625485",
+    "token_id": "96778601781061888845996455345677979574740972062247269082838046045768703592318",
+    "market_id": "2214721",
+    "question": "Will Elon Musk post 40-64 tweets from May 11 to May 13, 2026?",
+    "slug": "elon-musk-of-tweets-may-11-may-13-40-64",
+    "open_ts": 1778625485,
+    "open_price": 0.435,
+    "six_h_ago_ts": 1778605232,
+    "six_h_ago_price": 0.14,
+    "dp_6h": 0.295,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1778711885,
+    "status": "open",
+    "opened_at_run_ts": 1778625494
+  },
+  {
+    "id": "688312986760_1778625485",
+    "token_id": "68831298676012358257457276520529064295927482513315413890520477734324153741202",
+    "market_id": "2231495",
+    "question": "Bitcoin Up or Down on May 13?",
+    "slug": "bitcoin-up-or-down-on-may-13-2026",
+    "open_ts": 1778625485,
+    "open_price": 0.635,
+    "six_h_ago_ts": 1778605227,
+    "six_h_ago_price": 0.425,
+    "dp_6h": 0.21000000000000002,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1778711885,
+    "status": "open",
+    "opened_at_run_ts": 1778625494
   }
 ]
