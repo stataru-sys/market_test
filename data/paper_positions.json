@@ -13770,8 +13770,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1779145986,
-    "status": "open",
-    "opened_at_run_ts": 1779059684
+    "status": "closed",
+    "opened_at_run_ts": 1779059684,
+    "close_ts": 1779148085,
+    "close_price": 0.855,
+    "gross_pnl": -0.20499999999999996
   },
   {
     "id": "998803237877_1779059647",
@@ -14265,5 +14268,39 @@
     "target_close_ts": 1779217210,
     "status": "open",
     "opened_at_run_ts": 1779131674
+  },
+  {
+    "id": "489672969653_1779148089",
+    "token_id": "48967296965389497467093079611383429737206637738944992155446378553138241083457",
+    "market_id": "2240818",
+    "question": "New York Mets vs. Washington Nationals",
+    "slug": "mlb-nym-wsh-2026-05-18",
+    "open_ts": 1779148089,
+    "open_price": 0.245,
+    "six_h_ago_ts": 1779127211,
+    "six_h_ago_price": 0.545,
+    "dp_6h": -0.30000000000000004,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1779234489,
+    "status": "open",
+    "opened_at_run_ts": 1779148110
+  },
+  {
+    "id": "606798516793_1779148087",
+    "token_id": "60679851679342896638813596831346681399383459900484670605043439502334152166059",
+    "market_id": "2288535",
+    "question": "Boston Red Sox vs. Kansas City Royals: O/U 8.5",
+    "slug": "mlb-bos-kc-2026-05-18-total-8pt5",
+    "open_ts": 1779148087,
+    "open_price": 0.305,
+    "six_h_ago_ts": 1779127207,
+    "six_h_ago_price": 0.575,
+    "dp_6h": -0.26999999999999996,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1779234487,
+    "status": "open",
+    "opened_at_run_ts": 1779148110
   }
 ]
