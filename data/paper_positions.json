@@ -14853,8 +14853,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1779392106,
-    "status": "open",
-    "opened_at_run_ts": 1779305748
+    "status": "closed",
+    "opened_at_run_ts": 1779305748,
+    "close_ts": 1779399786,
+    "close_price": 0.26,
+    "gross_pnl": 0.04500000000000001
   },
   {
     "id": "315455608728_1779305645",
@@ -14870,8 +14873,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1779392045,
-    "status": "open",
-    "opened_at_run_ts": 1779305748
+    "status": "closed",
+    "opened_at_run_ts": 1779305748,
+    "close_ts": 1779399844,
+    "close_price": 0.5385,
+    "gross_pnl": -0.14799999999999996
   },
   {
     "id": "226898881570_1779305706",
@@ -14887,8 +14893,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1779392106,
-    "status": "open",
-    "opened_at_run_ts": 1779305748
+    "status": "closed",
+    "opened_at_run_ts": 1779305748,
+    "close_ts": 1779399845,
+    "close_price": 0.795,
+    "gross_pnl": -0.06000000000000005
   },
   {
     "id": "726793090930_1779305707",
@@ -14938,8 +14947,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1779392106,
-    "status": "open",
-    "opened_at_run_ts": 1779305748
+    "status": "closed",
+    "opened_at_run_ts": 1779305748,
+    "close_ts": 1779399786,
+    "close_price": 0.57,
+    "gross_pnl": -0.0
   },
   {
     "id": "679865223671_1779305706",
@@ -14955,8 +14967,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1779392106,
-    "status": "open",
-    "opened_at_run_ts": 1779305748
+    "status": "closed",
+    "opened_at_run_ts": 1779305748,
+    "close_ts": 1779399845,
+    "close_price": 0.675,
+    "gross_pnl": -0.020000000000000018
   },
   {
     "id": "718627153434_1779305764",
@@ -15501,5 +15516,73 @@
     "target_close_ts": 1779476824,
     "status": "open",
     "opened_at_run_ts": 1779390449
+  },
+  {
+    "id": "494403154590_1779399786",
+    "token_id": "49440315459003252283613170463903940221464827110227253449990055864256361671323",
+    "market_id": "2268390",
+    "question": "New York Mets vs. Washington Nationals",
+    "slug": "mlb-nym-wsh-2026-05-21",
+    "open_ts": 1779399786,
+    "open_price": 0.735,
+    "six_h_ago_ts": 1779379208,
+    "six_h_ago_price": 0.505,
+    "dp_6h": 0.22999999999999998,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1779486186,
+    "status": "open",
+    "opened_at_run_ts": 1779399860
+  },
+  {
+    "id": "553116882648_1779399844",
+    "token_id": "55311688264830762703730948905897210558443087233735930239957104024321630505432",
+    "market_id": "2314803",
+    "question": "New York Mets vs. Washington Nationals: O/U 8.5",
+    "slug": "mlb-nym-wsh-2026-05-21-total-8pt5",
+    "open_ts": 1779399844,
+    "open_price": 0.13,
+    "six_h_ago_ts": 1779379209,
+    "six_h_ago_price": 0.445,
+    "dp_6h": -0.315,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1779486244,
+    "status": "open",
+    "opened_at_run_ts": 1779399860
+  },
+  {
+    "id": "537617114120_1779399844",
+    "token_id": "53761711412084341627208956441416088113743867911397468836933394698241206111244",
+    "market_id": "2315917",
+    "question": "New York Mets vs. Washington Nationals: O/U 7.5",
+    "slug": "mlb-nym-wsh-2026-05-21-total-7pt5",
+    "open_ts": 1779399844,
+    "open_price": 0.2,
+    "six_h_ago_ts": 1779379208,
+    "six_h_ago_price": 0.535,
+    "dp_6h": -0.335,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1779486244,
+    "status": "open",
+    "opened_at_run_ts": 1779399860
+  },
+  {
+    "id": "172995603644_1779399844",
+    "token_id": "17299560364461086330963462712269372705332866186652282727254731090379558150308",
+    "market_id": "2256038",
+    "question": "Will Figure's F.03 robots push at least 250,000 packages by 10:00 PM on May 21?",
+    "slug": "will-figures-f03-robots-push-at-least-250000-packages-by-1000-pm-on-may-21-671-585",
+    "open_ts": 1779399844,
+    "open_price": 0.27,
+    "six_h_ago_ts": 1779379208,
+    "six_h_ago_price": 0.88,
+    "dp_6h": -0.61,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1779486244,
+    "status": "open",
+    "opened_at_run_ts": 1779399860
   }
 ]
