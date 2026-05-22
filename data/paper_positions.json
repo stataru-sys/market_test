@@ -15322,8 +15322,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1779466923,
-    "status": "open",
-    "opened_at_run_ts": 1779380523
+    "status": "closed",
+    "opened_at_run_ts": 1779380523,
+    "close_ts": 1779472743,
+    "close_price": 0.535,
+    "gross_pnl": 0.2
   },
   {
     "id": "297594568077_1779380524",
