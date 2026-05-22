@@ -14272,8 +14272,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1779217210,
-    "status": "open",
-    "opened_at_run_ts": 1779131674
+    "status": "closed",
+    "opened_at_run_ts": 1779131674,
+    "close_ts": 1779438544,
+    "close_price": 0.295,
+    "gross_pnl": 0.34500000000000003
   },
   {
     "id": "489672969653_1779148089",
@@ -15740,5 +15743,56 @@
     "target_close_ts": 1779510187,
     "status": "open",
     "opened_at_run_ts": 1779423825
+  },
+  {
+    "id": "429157801554_1779438544",
+    "token_id": "4291578015549368499058148456142108579402179342719425665442540335903175629357",
+    "market_id": "2268786",
+    "question": "LoL: DN SOOPers vs Kiwoom DRX - Game 1 Winner",
+    "slug": "lol-dnf-drx-2026-05-22-game1",
+    "open_ts": 1779438544,
+    "open_price": 0.145,
+    "six_h_ago_ts": 1779415205,
+    "six_h_ago_price": 0.355,
+    "dp_6h": -0.21,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1779524944,
+    "status": "open",
+    "opened_at_run_ts": 1779438568
+  },
+  {
+    "id": "675000888224_1779438544",
+    "token_id": "67500088822425193611028555717491802967214637594198331061571697869465035016178",
+    "market_id": "2169751",
+    "question": "Will Trump announce a tariff reduction on China?",
+    "slug": "will-trump-announce-a-tariff-reduction-on-china",
+    "open_ts": 1779438544,
+    "open_price": 0.2925,
+    "six_h_ago_ts": 1779415206,
+    "six_h_ago_price": 0.0465,
+    "dp_6h": 0.246,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1779524944,
+    "status": "open",
+    "opened_at_run_ts": 1779438568
+  },
+  {
+    "id": "403110453732_1779438543",
+    "token_id": "40311045373226908200421711502896577812093640438455594223194306855201878637658",
+    "market_id": "2234693",
+    "question": "Valorant: Rex Regum Qeon vs DRX (BO3) - Esports World Cup Pacific Qualifier Stage 2",
+    "slug": "val-rrq1-drx1-2026-05-22",
+    "open_ts": 1779438543,
+    "open_price": 0.255,
+    "six_h_ago_ts": 1779415203,
+    "six_h_ago_price": 0.455,
+    "dp_6h": -0.2,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1779524943,
+    "status": "open",
+    "opened_at_run_ts": 1779438568
   }
 ]
