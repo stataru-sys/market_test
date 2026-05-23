@@ -16724,5 +16724,39 @@
     "target_close_ts": 1779613699,
     "status": "open",
     "opened_at_run_ts": 1779527318
+  },
+  {
+    "id": "267430176142_1779535280",
+    "token_id": "26743017614270305511442713277493746064150645035394791603177471382951804666019",
+    "market_id": "2289099",
+    "question": "LoL: Invictus Gaming vs ThunderTalk Gaming - Game 1 Winner",
+    "slug": "lol-ig1-tt-2026-05-23-game1",
+    "open_ts": 1779535280,
+    "open_price": 0.285,
+    "six_h_ago_ts": 1779512405,
+    "six_h_ago_price": 0.735,
+    "dp_6h": -0.45,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1779621680,
+    "status": "open",
+    "opened_at_run_ts": 1779535289
+  },
+  {
+    "id": "263868682105_1779535280",
+    "token_id": "26386868210582197627542588592551496963765970654898451035791291398801439709360",
+    "market_id": "2289105",
+    "question": "Game Handicap: IG (-1.5) vs ThunderTalk Gaming (+1.5)",
+    "slug": "lol-ig1-tt-2026-05-23-game-handicap-away-1pt5",
+    "open_ts": 1779535280,
+    "open_price": 0.49,
+    "six_h_ago_ts": 1779512405,
+    "six_h_ago_price": 0.645,
+    "dp_6h": -0.15500000000000003,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1779621680,
+    "status": "open",
+    "opened_at_run_ts": 1779535289
   }
 ]
