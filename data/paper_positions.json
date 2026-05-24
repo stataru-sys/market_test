@@ -16366,8 +16366,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1779578044,
-    "status": "open",
-    "opened_at_run_ts": 1779491661
+    "status": "closed",
+    "opened_at_run_ts": 1779491661,
+    "close_ts": 1779581287,
+    "close_price": 0.775,
+    "gross_pnl": 0.33
   },
   {
     "id": "123312580934_1779491595",
@@ -16434,8 +16437,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1779578044,
-    "status": "open",
-    "opened_at_run_ts": 1779491661
+    "status": "closed",
+    "opened_at_run_ts": 1779491661,
+    "close_ts": 1779581224,
+    "close_price": 0.66,
+    "gross_pnl": 0.32
   },
   {
     "id": "351529342144_1779491644",
@@ -17779,5 +17785,56 @@
     "target_close_ts": 1779663844,
     "status": "open",
     "opened_at_run_ts": 1779577440
+  },
+  {
+    "id": "264513785071_1779581287",
+    "token_id": "26451378507126774682657806096258863141955105629944135142133659205937126842389",
+    "market_id": "2284220",
+    "question": "Los Angeles Dodgers vs. Milwaukee Brewers",
+    "slug": "mlb-lad-mil-2026-05-23",
+    "open_ts": 1779581287,
+    "open_price": 0.155,
+    "six_h_ago_ts": 1779559205,
+    "six_h_ago_price": 0.515,
+    "dp_6h": -0.36,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1779667687,
+    "status": "open",
+    "opened_at_run_ts": 1779581296
+  },
+  {
+    "id": "100908591883_1779581287",
+    "token_id": "100908591883819936055197348924261051691111832911329162096147836183386449626868",
+    "market_id": "2284198",
+    "question": "Tampa Bay Rays vs. New York Yankees",
+    "slug": "mlb-tb-nyy-2026-05-23",
+    "open_ts": 1779581287,
+    "open_price": 0.315,
+    "six_h_ago_ts": 1779559205,
+    "six_h_ago_price": 0.47,
+    "dp_6h": -0.15499999999999997,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1779667687,
+    "status": "open",
+    "opened_at_run_ts": 1779581296
+  },
+  {
+    "id": "636980885097_1779581224",
+    "token_id": "63698088509747794855998517903228013251565805075897415962769623016008553729299",
+    "market_id": "2086860",
+    "question": "Will D.C. United SC win on 2026-05-23?",
+    "slug": "mls-dcu-mim-2026-05-23-dcu",
+    "open_ts": 1779581224,
+    "open_price": 0.655,
+    "six_h_ago_ts": 1779559205,
+    "six_h_ago_price": 0.475,
+    "dp_6h": 0.18000000000000005,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1779667624,
+    "status": "open",
+    "opened_at_run_ts": 1779581296
   }
 ]
