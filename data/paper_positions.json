@@ -16474,8 +16474,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1779595384,
-    "status": "open",
-    "opened_at_run_ts": 1779509005
+    "status": "closed",
+    "opened_at_run_ts": 1779509005,
+    "close_ts": 1779599284,
+    "close_price": 0.1525,
+    "gross_pnl": -0.003500000000000003
   },
   {
     "id": "495002998568_1779508985",
@@ -16491,8 +16494,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1779595385,
-    "status": "open",
-    "opened_at_run_ts": 1779509005
+    "status": "closed",
+    "opened_at_run_ts": 1779509005,
+    "close_ts": 1779599285,
+    "close_price": 0.635,
+    "gross_pnl": 0.015000000000000013
   },
   {
     "id": "899034281043_1779508924",
@@ -16525,8 +16531,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1779595324,
-    "status": "open",
-    "opened_at_run_ts": 1779509005
+    "status": "closed",
+    "opened_at_run_ts": 1779509005,
+    "close_ts": 1779599224,
+    "close_price": 0.775,
+    "gross_pnl": 0.010000000000000009
   },
   {
     "id": "684204767082_1779508924",
@@ -16542,8 +16551,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1779595324,
-    "status": "open",
-    "opened_at_run_ts": 1779509005
+    "status": "closed",
+    "opened_at_run_ts": 1779509005,
+    "close_ts": 1779599344,
+    "close_price": 0.2325,
+    "gross_pnl": 0.012500000000000011
   },
   {
     "id": "679415704750_1779508985",
@@ -17836,5 +17848,22 @@
     "target_close_ts": 1779667624,
     "status": "open",
     "opened_at_run_ts": 1779581296
+  },
+  {
+    "id": "156845868934_1779599344",
+    "token_id": "15684586893414105046651954168699318899411795932713212340182179726370102895016",
+    "market_id": "2111562",
+    "question": "Will Trump agree to Iranian oil sanction relief by May 31?",
+    "slug": "will-trump-agree-to-iranian-oil-sanction-relief-by-may-31",
+    "open_ts": 1779599344,
+    "open_price": 0.61,
+    "six_h_ago_ts": 1779577206,
+    "six_h_ago_price": 0.435,
+    "dp_6h": 0.175,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1779685744,
+    "status": "open",
+    "opened_at_run_ts": 1779599353
   }
 ]
