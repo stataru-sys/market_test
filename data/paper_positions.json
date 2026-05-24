@@ -16403,8 +16403,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1779577996,
-    "status": "open",
-    "opened_at_run_ts": 1779491661
+    "status": "closed",
+    "opened_at_run_ts": 1779491661,
+    "close_ts": 1779619624,
+    "close_price": 0.11,
+    "gross_pnl": 0.34500000000000003
   },
   {
     "id": "830504389869_1779491644",
@@ -16693,8 +16696,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1779613700,
-    "status": "open",
-    "opened_at_run_ts": 1779527318
+    "status": "closed",
+    "opened_at_run_ts": 1779527318,
+    "close_ts": 1779619564,
+    "close_price": 0.1165,
+    "gross_pnl": -0.341
   },
   {
     "id": "367769258982_1779527223",
@@ -16710,8 +16716,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1779613623,
-    "status": "open",
-    "opened_at_run_ts": 1779527318
+    "status": "closed",
+    "opened_at_run_ts": 1779527318,
+    "close_ts": 1779619564,
+    "close_price": 0.186,
+    "gross_pnl": -0.324
   },
   {
     "id": "981596101508_1779527299",
@@ -18004,5 +18013,56 @@
     "target_close_ts": 1779698523,
     "status": "open",
     "opened_at_run_ts": 1779612158
+  },
+  {
+    "id": "961292326397_1779619624",
+    "token_id": "96129232639782797952534012335412469665155565655347075825916216756987558065900",
+    "market_id": "2328108",
+    "question": "Roland Garros WTA: Ajla Tomljanovic vs Caty McNally",
+    "slug": "wta-tomljan-mcnally-2026-05-24",
+    "open_ts": 1779619624,
+    "open_price": 0.425,
+    "six_h_ago_ts": 1779598806,
+    "six_h_ago_price": 0.265,
+    "dp_6h": 0.15999999999999998,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1779706024,
+    "status": "open",
+    "opened_at_run_ts": 1779619665
+  },
+  {
+    "id": "111382396566_1779619624",
+    "token_id": "111382396566320302148986952967256993833091224731712382567933615036715877212808",
+    "market_id": "2328095",
+    "question": "Roland Garros WTA: Lilli Tagger vs Xinyu Wang",
+    "slug": "wta-tagger-wa-2026-05-24",
+    "open_ts": 1779619624,
+    "open_price": 0.385,
+    "six_h_ago_ts": 1779598806,
+    "six_h_ago_price": 0.595,
+    "dp_6h": -0.20999999999999996,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1779706024,
+    "status": "open",
+    "opened_at_run_ts": 1779619665
+  },
+  {
+    "id": "371133530261_1779619624",
+    "token_id": "37113353026121002055746327896964449027568625901619777569209516096339746938369",
+    "market_id": "2269608",
+    "question": "Game Handicap: T1 (-1.5) vs HANJIN BRION (+1.5)",
+    "slug": "lol-bro2-t1-2026-05-24-game-handicap-home-1pt5",
+    "open_ts": 1779619624,
+    "open_price": 0.35,
+    "six_h_ago_ts": 1779598805,
+    "six_h_ago_price": 0.575,
+    "dp_6h": -0.22499999999999998,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1779706024,
+    "status": "open",
+    "opened_at_run_ts": 1779619665
   }
 ]
