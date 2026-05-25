@@ -16912,8 +16912,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1779635523,
-    "status": "open",
-    "opened_at_run_ts": 1779549171
+    "status": "closed",
+    "opened_at_run_ts": 1779549171,
+    "close_ts": 1779684364,
+    "close_price": 0.77,
+    "gross_pnl": -0.05500000000000005
   },
   {
     "id": "558905277416_1779549123",
@@ -17796,8 +17799,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1779660184,
-    "status": "open",
-    "opened_at_run_ts": 1779573809
+    "status": "closed",
+    "opened_at_run_ts": 1779573809,
+    "close_ts": 1779684364,
+    "close_price": 0.59,
+    "gross_pnl": 0.08500000000000008
   },
   {
     "id": "860340183963_1779573785",
@@ -19317,5 +19323,73 @@
     "target_close_ts": 1779750665,
     "status": "open",
     "opened_at_run_ts": 1779664247
+  },
+  {
+    "id": "253757221402_1779684364",
+    "token_id": "25375722140224840844097489094490119658729226209300298650658619688533110576887",
+    "market_id": "2340209",
+    "question": "Bitcoin Up or Down on May 25?",
+    "slug": "bitcoin-up-or-down-on-may-25-2026",
+    "open_ts": 1779684364,
+    "open_price": 0.855,
+    "six_h_ago_ts": 1779663607,
+    "six_h_ago_price": 0.655,
+    "dp_6h": 0.19999999999999996,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1779770764,
+    "status": "open",
+    "opened_at_run_ts": 1779684367
+  },
+  {
+    "id": "762918737923_1779684244",
+    "token_id": "76291873792349170213134342845993203084751189996987007478124784241894692062922",
+    "market_id": "2321929",
+    "question": "Will Elon Musk post 65-89 tweets from May 23 to May 25, 2026?",
+    "slug": "elon-musk-of-tweets-may-23-may-25-65-89",
+    "open_ts": 1779684244,
+    "open_price": 0.12,
+    "six_h_ago_ts": 1779663607,
+    "six_h_ago_price": 0.295,
+    "dp_6h": -0.175,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1779770644,
+    "status": "open",
+    "opened_at_run_ts": 1779684367
+  },
+  {
+    "id": "501595945629_1779684365",
+    "token_id": "50159594562995946489082572084618497878080171076279182071094706874430061245610",
+    "market_id": "629111",
+    "question": "Will the Colorado Avalanche win the Western Conference?",
+    "slug": "will-the-colorado-avalanche-win-the-western-conference-993",
+    "open_ts": 1779684365,
+    "open_price": 0.11,
+    "six_h_ago_ts": 1779663608,
+    "six_h_ago_price": 0.315,
+    "dp_6h": -0.20500000000000002,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1779770765,
+    "status": "open",
+    "opened_at_run_ts": 1779684367
+  },
+  {
+    "id": "418286035010_1779684365",
+    "token_id": "41828603501070300799083491950110928569904816783644709468561065681139771044686",
+    "market_id": "2318686",
+    "question": "Solstice FDV above $150M one day after launch?",
+    "slug": "solstice-fdv-above-150m-one-day-after-launch",
+    "open_ts": 1779684365,
+    "open_price": 0.635,
+    "six_h_ago_ts": 1779663608,
+    "six_h_ago_price": 0.46,
+    "dp_6h": 0.175,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1779770765,
+    "status": "open",
+    "opened_at_run_ts": 1779684367
   }
 ]
