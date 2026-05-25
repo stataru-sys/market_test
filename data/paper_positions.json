@@ -18367,8 +18367,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1779720063,
-    "status": "open",
-    "opened_at_run_ts": 1779633692
+    "status": "closed",
+    "opened_at_run_ts": 1779633692,
+    "close_ts": 1779724444,
+    "close_price": 0.4,
+    "gross_pnl": -0.15500000000000003
   },
   {
     "id": "518511390302_1779633663",
@@ -18418,8 +18421,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1779720064,
-    "status": "open",
-    "opened_at_run_ts": 1779633692
+    "status": "closed",
+    "opened_at_run_ts": 1779633692,
+    "close_ts": 1779724444,
+    "close_price": 0.175,
+    "gross_pnl": -0.21000000000000002
   },
   {
     "id": "753687739247_1779633663",
@@ -18435,8 +18441,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1779720063,
-    "status": "open",
-    "opened_at_run_ts": 1779633692
+    "status": "closed",
+    "opened_at_run_ts": 1779633692,
+    "close_ts": 1779724503,
+    "close_price": 0.675,
+    "gross_pnl": -0.019999999999999907
   },
   {
     "id": "110545219743_1779638886",
@@ -19474,5 +19483,73 @@
     "target_close_ts": 1779799278,
     "status": "open",
     "opened_at_run_ts": 1779712897
+  },
+  {
+    "id": "432439293231_1779724563",
+    "token_id": "43243929323182979004917152392590890457696997918975418281551979579777932399004",
+    "market_id": "2348012",
+    "question": "LoL: G2 Esports vs Movistar KOI (BO5) - LEC Playoffs",
+    "slug": "lol-g2-mkoi-2026-05-25",
+    "open_ts": 1779724563,
+    "open_price": 0.565,
+    "six_h_ago_ts": 1779703206,
+    "six_h_ago_price": 0.735,
+    "dp_6h": -0.17000000000000004,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1779810963,
+    "status": "open",
+    "opened_at_run_ts": 1779724585
+  },
+  {
+    "id": "373423388594_1779724563",
+    "token_id": "3734233885946792517763037932117231428505129209492704953970068857123344776428",
+    "market_id": "2327983",
+    "question": "Roland Garros ATP: Jaume Munar vs Hubert Hurkacz",
+    "slug": "atp-munar-hurkacz-2026-05-24",
+    "open_ts": 1779724563,
+    "open_price": 0.17,
+    "six_h_ago_ts": 1779703206,
+    "six_h_ago_price": 0.435,
+    "dp_6h": -0.265,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1779810963,
+    "status": "open",
+    "opened_at_run_ts": 1779724585
+  },
+  {
+    "id": "449019416667_1779724563",
+    "token_id": "44901941666739276624795547891386327926120270430301537011359654326702215108631",
+    "market_id": "2348019",
+    "question": "Game Handicap: G2 (-1.5) vs Movistar KOI (+1.5)",
+    "slug": "lol-g2-mkoi-2026-05-25-game-handicap-away-1pt5",
+    "open_ts": 1779724563,
+    "open_price": 0.265,
+    "six_h_ago_ts": 1779703205,
+    "six_h_ago_price": 0.525,
+    "dp_6h": -0.26,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1779810963,
+    "status": "open",
+    "opened_at_run_ts": 1779724585
+  },
+  {
+    "id": "161876347684_1779724564",
+    "token_id": "16187634768457525034684215439108734283111625107336996886774923899778113222861",
+    "market_id": "2341694",
+    "question": "Vicenza: Tristan Boyer vs Miguel Damas",
+    "slug": "atp-boyer-damas-2026-05-25",
+    "open_ts": 1779724564,
+    "open_price": 0.885,
+    "six_h_ago_ts": 1779703206,
+    "six_h_ago_price": 0.655,
+    "dp_6h": 0.22999999999999998,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1779810964,
+    "status": "open",
+    "opened_at_run_ts": 1779724585
   }
 ]
