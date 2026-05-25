@@ -19181,8 +19181,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1779746644,
-    "status": "open",
-    "opened_at_run_ts": 1779660284
+    "status": "closed",
+    "opened_at_run_ts": 1779660284,
+    "close_ts": 1779750964,
+    "close_price": 0.1455,
+    "gross_pnl": 0.10400000000000001
   },
   {
     "id": "645525737385_1779660303",
@@ -19283,8 +19286,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1779750543,
-    "status": "open",
-    "opened_at_run_ts": 1779664247
+    "status": "closed",
+    "opened_at_run_ts": 1779664247,
+    "close_ts": 1779750963,
+    "close_price": 0.3635,
+    "gross_pnl": 0.135
   },
   {
     "id": "597139632392_1779664206",
@@ -19897,5 +19903,22 @@
     "target_close_ts": 1779830344,
     "status": "open",
     "opened_at_run_ts": 1779743979
+  },
+  {
+    "id": "316506345434_1779751024",
+    "token_id": "31650634543461920179069443532185394593527025428567943585139957283822965875022",
+    "market_id": "2303427",
+    "question": "Will the price of Bitcoin be above $78,000 on May 26?",
+    "slug": "bitcoin-above-78k-on-may-26-2026",
+    "open_ts": 1779751024,
+    "open_price": 0.205,
+    "six_h_ago_ts": 1779728410,
+    "six_h_ago_price": 0.385,
+    "dp_6h": -0.18000000000000002,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1779837424,
+    "status": "open",
+    "opened_at_run_ts": 1779751019
   }
 ]
