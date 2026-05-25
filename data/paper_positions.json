@@ -16685,8 +16685,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1779604865,
-    "status": "open",
-    "opened_at_run_ts": 1779518498
+    "status": "closed",
+    "opened_at_run_ts": 1779518498,
+    "close_ts": 1779712923,
+    "close_price": 0.402,
+    "gross_pnl": -0.0635
   },
   {
     "id": "285932155343_1779527300",
@@ -17944,8 +17947,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1779685744,
-    "status": "open",
-    "opened_at_run_ts": 1779599353
+    "status": "closed",
+    "opened_at_run_ts": 1779599353,
+    "close_ts": 1779712803,
+    "close_price": 0.245,
+    "gross_pnl": 0.365
   },
   {
     "id": "252486625820_1779612123",
@@ -17961,8 +17967,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1779698523,
-    "status": "open",
-    "opened_at_run_ts": 1779612158
+    "status": "closed",
+    "opened_at_run_ts": 1779612158,
+    "close_ts": 1779712803,
+    "close_price": 0.1165,
+    "gross_pnl": -0.0024999999999999883
   },
   {
     "id": "732005310914_1779612063",
@@ -17995,8 +18004,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1779698463,
-    "status": "open",
-    "opened_at_run_ts": 1779612158
+    "status": "closed",
+    "opened_at_run_ts": 1779612158,
+    "close_ts": 1779712804,
+    "close_price": 0.265,
+    "gross_pnl": 0.09000000000000002
   },
   {
     "id": "322803931181_1779612063",
@@ -18046,8 +18058,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1779698524,
-    "status": "open",
-    "opened_at_run_ts": 1779612158
+    "status": "closed",
+    "opened_at_run_ts": 1779612158,
+    "close_ts": 1779712804,
+    "close_price": 0.455,
+    "gross_pnl": -0.08000000000000002
   },
   {
     "id": "255258868389_1779612123",
@@ -19391,5 +19406,73 @@
     "target_close_ts": 1779770765,
     "status": "open",
     "opened_at_run_ts": 1779684367
+  },
+  {
+    "id": "501968938271_1779712879",
+    "token_id": "50196893827100688345989550777508412760922203462727669564750152661197600060788",
+    "market_id": "2327989",
+    "question": "Roland Garros ATP: Eliot Spizzirri vs Frances Tiafoe",
+    "slug": "atp-spizzir-tiafoe-2026-05-24",
+    "open_ts": 1779712879,
+    "open_price": 0.285,
+    "six_h_ago_ts": 1779692410,
+    "six_h_ago_price": 0.105,
+    "dp_6h": 0.18,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1779799279,
+    "status": "open",
+    "opened_at_run_ts": 1779712897
+  },
+  {
+    "id": "662739354866_1779712878",
+    "token_id": "66273935486678789210513765952278559941715622032256004092106686128592364880918",
+    "market_id": "2302395",
+    "question": "Game Handicap: HLE (-1.5) vs Nongshim Red Force (+1.5)",
+    "slug": "lol-ns-hle1-2026-05-25-game-handicap-home-1pt5",
+    "open_ts": 1779712878,
+    "open_price": 0.79,
+    "six_h_ago_ts": 1779692410,
+    "six_h_ago_price": 0.61,
+    "dp_6h": 0.18000000000000005,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1779799278,
+    "status": "open",
+    "opened_at_run_ts": 1779712897
+  },
+  {
+    "id": "853018480728_1779712878",
+    "token_id": "85301848072806237614074569981200873244247175042606949616768632481902833019",
+    "market_id": "1459614",
+    "question": "Will George Pickens play for Cleveland Browns in 2026-27?",
+    "slug": "will-george-pickens-play-for-cleveland-browns-in-2026-27",
+    "open_ts": 1779712878,
+    "open_price": 0.1925,
+    "six_h_ago_ts": 1779692406,
+    "six_h_ago_price": 0.0365,
+    "dp_6h": 0.156,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1779799278,
+    "status": "open",
+    "opened_at_run_ts": 1779712897
+  },
+  {
+    "id": "983457334016_1779712878",
+    "token_id": "98345733401652419504804336887904689336423988878061621976596217772138174268721",
+    "market_id": "2335278",
+    "question": "Will 0 world records be broken at the 2026 Enhanced Games?",
+    "slug": "will-0-world-records-be-broken-at-the-2026-enhanced-games",
+    "open_ts": 1779712878,
+    "open_price": 0.179,
+    "six_h_ago_ts": 1779692408,
+    "six_h_ago_price": 0.028,
+    "dp_6h": 0.151,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1779799278,
+    "status": "open",
+    "opened_at_run_ts": 1779712897
   }
 ]
