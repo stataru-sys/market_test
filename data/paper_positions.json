@@ -19920,5 +19920,22 @@
     "target_close_ts": 1779837424,
     "status": "open",
     "opened_at_run_ts": 1779751019
+  },
+  {
+    "id": "459470369172_1779769204",
+    "token_id": "45947036917242974564682530004207965431577812193734249879678780258130651457614",
+    "market_id": "2347203",
+    "question": "Bitcoin Up or Down on May 26?",
+    "slug": "bitcoin-up-or-down-on-may-26-2026",
+    "open_ts": 1779769204,
+    "open_price": 0.135,
+    "six_h_ago_ts": 1779746404,
+    "six_h_ago_price": 0.395,
+    "dp_6h": -0.26,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1779855604,
+    "status": "open",
+    "opened_at_run_ts": 1779769229
   }
 ]
