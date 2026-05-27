@@ -20075,8 +20075,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1779871084,
-    "status": "open",
-    "opened_at_run_ts": 1779784791
+    "status": "closed",
+    "opened_at_run_ts": 1779784791,
+    "close_ts": 1779871563,
+    "close_price": 0.73,
+    "gross_pnl": 0.03500000000000003
   },
   {
     "id": "756153837163_1779814144",
@@ -20553,5 +20556,56 @@
     "target_close_ts": 1779943384,
     "status": "open",
     "opened_at_run_ts": 1779857023
+  },
+  {
+    "id": "875003260573_1779871444",
+    "token_id": "87500326057364440141112203036262720943769486315150426537097605287652543128683",
+    "market_id": "2364120",
+    "question": "Dota 2: LGD Gaming vs Aurora (BO1) - BLAST Slam Group Stage",
+    "slug": "dota2-lgd-aur1-2026-05-27",
+    "open_ts": 1779871444,
+    "open_price": 0.725,
+    "six_h_ago_ts": 1779850805,
+    "six_h_ago_price": 0.345,
+    "dp_6h": 0.38,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1779957844,
+    "status": "open",
+    "opened_at_run_ts": 1779871543
+  },
+  {
+    "id": "695125112631_1779871504",
+    "token_id": "69512511263141792715164755825615881198284556255057793328644923928056695349492",
+    "market_id": "2342482",
+    "question": "LoL: Gen.G vs Hanwha Life Esports - Game 1 Winner",
+    "slug": "lol-gen-hle1-2026-05-27-game1",
+    "open_ts": 1779871504,
+    "open_price": 0.415,
+    "six_h_ago_ts": 1779850803,
+    "six_h_ago_price": 0.575,
+    "dp_6h": -0.15999999999999998,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1779957904,
+    "status": "open",
+    "opened_at_run_ts": 1779871543
+  },
+  {
+    "id": "860340183963_1779871444",
+    "token_id": "86034018396316864334138913511525602436733048291433516446412741918476169492025",
+    "market_id": "2132637",
+    "question": "Will WTI Crude Oil (WTI) hit (LOW) $85 in May?",
+    "slug": "will-wti-crude-oil-wti-hit-low-85-in-may-266-388-493-155-935-263-225-869-296-224-342-748-678",
+    "open_ts": 1779871444,
+    "open_price": 0.415,
+    "six_h_ago_ts": 1779850807,
+    "six_h_ago_price": 0.245,
+    "dp_6h": 0.16999999999999998,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1779957844,
+    "status": "open",
+    "opened_at_run_ts": 1779871543
   }
 ]
