@@ -19048,8 +19048,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1779739923,
-    "status": "open",
-    "opened_at_run_ts": 1779653597
+    "status": "closed",
+    "opened_at_run_ts": 1779653597,
+    "close_ts": 1779857044,
+    "close_price": 0.465,
+    "gross_pnl": 0.12999999999999995
   },
   {
     "id": "431906174327_1779653523",
@@ -20499,5 +20502,56 @@
     "target_close_ts": 1779923886,
     "status": "open",
     "opened_at_run_ts": 1779837492
+  },
+  {
+    "id": "684204767082_1779856984",
+    "token_id": "6842047670820419171425914468337077680927367717837404858652329372722501774629",
+    "market_id": "564218",
+    "question": "Will the San Antonio Spurs win the NBA Western Conference Finals?",
+    "slug": "will-the-san-antonio-spurs-win-the-nba-western-conference-finals",
+    "open_ts": 1779856984,
+    "open_price": 0.2235,
+    "six_h_ago_ts": 1779836404,
+    "six_h_ago_price": 0.422,
+    "dp_6h": -0.19849999999999998,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1779943384,
+    "status": "open",
+    "opened_at_run_ts": 1779857023
+  },
+  {
+    "id": "105874436620_1779856924",
+    "token_id": "105874436620923713168019020245858616944322383958692280683224180064376992665538",
+    "market_id": "564210",
+    "question": "Will the Oklahoma City Thunder win the NBA Western Conference Finals?",
+    "slug": "will-the-oklahoma-city-thunder-win-the-nba-western-conference-finals",
+    "open_ts": 1779856924,
+    "open_price": 0.775,
+    "six_h_ago_ts": 1779836405,
+    "six_h_ago_price": 0.585,
+    "dp_6h": 0.19000000000000006,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1779943324,
+    "status": "open",
+    "opened_at_run_ts": 1779857023
+  },
+  {
+    "id": "552222166268_1779856984",
+    "token_id": "55222216626803055388122861485045528998557518341404823447164078684666448558439",
+    "market_id": "2350608",
+    "question": "Will the highest temperature in London be 24°C on May 27?",
+    "slug": "highest-temperature-in-london-on-may-27-2026-24c",
+    "open_ts": 1779856984,
+    "open_price": 0.2545,
+    "six_h_ago_ts": 1779836404,
+    "six_h_ago_price": 0.1,
+    "dp_6h": 0.1545,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1779943384,
+    "status": "open",
+    "opened_at_run_ts": 1779857023
   }
 ]
