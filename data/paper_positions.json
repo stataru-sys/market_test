@@ -20537,8 +20537,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1779943324,
-    "status": "open",
-    "opened_at_run_ts": 1779857023
+    "status": "closed",
+    "opened_at_run_ts": 1779857023,
+    "close_ts": 1779958264,
+    "close_price": 0.765,
+    "gross_pnl": 0.010000000000000009
   },
   {
     "id": "552222166268_1779856984",
@@ -20605,8 +20608,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1779957844,
-    "status": "open",
-    "opened_at_run_ts": 1779871543
+    "status": "closed",
+    "opened_at_run_ts": 1779871543,
+    "close_ts": 1779958204,
+    "close_price": 0.195,
+    "gross_pnl": 0.21999999999999997
   },
   {
     "id": "179330628779_1779884943",
@@ -21474,5 +21480,56 @@
     "target_close_ts": 1780028525,
     "status": "open",
     "opened_at_run_ts": 1779942221
+  },
+  {
+    "id": "810352233333_1779958204",
+    "token_id": "81035223333378100984235487370844524800744944619307388145892022562544625149835",
+    "market_id": "2342527",
+    "question": "LoL: DN SOOPers vs Nongshim Red Force (BO3) - LCK Rounds 1-2",
+    "slug": "lol-dnf-ns-2026-05-28",
+    "open_ts": 1779958204,
+    "open_price": 0.545,
+    "six_h_ago_ts": 1779937207,
+    "six_h_ago_price": 0.205,
+    "dp_6h": 0.3400000000000001,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1780044604,
+    "status": "open",
+    "opened_at_run_ts": 1779958261
+  },
+  {
+    "id": "107098083697_1779958263",
+    "token_id": "107098083697740685967532212753114975193778648767047659286318722000836312287702",
+    "market_id": "2335038",
+    "question": "Will Elon Musk post 180-199 tweets from May 22 to May 29, 2026?",
+    "slug": "elon-musk-of-tweets-may-22-may-29-180-199",
+    "open_ts": 1779958263,
+    "open_price": 0.345,
+    "six_h_ago_ts": 1779937204,
+    "six_h_ago_price": 0.5475,
+    "dp_6h": -0.2025,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1780044663,
+    "status": "open",
+    "opened_at_run_ts": 1779958261
+  },
+  {
+    "id": "103342677786_1779958264",
+    "token_id": "103342677786780437721390575831557059696944181045746019431159489938888806879477",
+    "market_id": "2321930",
+    "question": "Will the price of Bitcoin be between $72,000 and $74,000 on May 28?",
+    "slug": "will-the-price-of-bitcoin-be-between-72000-74000-on-may-28-2026",
+    "open_ts": 1779958264,
+    "open_price": 0.741,
+    "six_h_ago_ts": 1779937209,
+    "six_h_ago_price": 0.361,
+    "dp_6h": 0.38,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1780044664,
+    "status": "open",
+    "opened_at_run_ts": 1779958261
   }
 ]
