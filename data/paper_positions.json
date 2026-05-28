@@ -21119,8 +21119,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1780005904,
-    "status": "open",
-    "opened_at_run_ts": 1779919503
+    "status": "closed",
+    "opened_at_run_ts": 1779919503,
+    "close_ts": 1780011485,
+    "close_price": 0.5385,
+    "gross_pnl": 0.02849999999999997
   },
   {
     "id": "623709644495_1779919444",
@@ -21136,8 +21139,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1780005844,
-    "status": "open",
-    "opened_at_run_ts": 1779919503
+    "status": "closed",
+    "opened_at_run_ts": 1779919503,
+    "close_ts": 1780011485,
+    "close_price": 0.7035,
+    "gross_pnl": -0.4045
   },
   {
     "id": "476128831407_1779919444",
@@ -21187,8 +21193,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1780005844,
-    "status": "open",
-    "opened_at_run_ts": 1779919503
+    "status": "closed",
+    "opened_at_run_ts": 1779919503,
+    "close_ts": 1780011485,
+    "close_price": 0.18,
+    "gross_pnl": -0.024999999999999994
   },
   {
     "id": "580533893171_1779919504",
@@ -22226,5 +22235,73 @@
     "target_close_ts": 1780092185,
     "status": "open",
     "opened_at_run_ts": 1780005798
+  },
+  {
+    "id": "506029581797_1780011424",
+    "token_id": "50602958179737485615129596732344738914490888612438428277484326076699441250807",
+    "market_id": "2371294",
+    "question": "Toronto Blue Jays vs. Baltimore Orioles: O/U 8.5",
+    "slug": "mlb-tor-bal-2026-05-28-total-8pt5",
+    "open_ts": 1780011424,
+    "open_price": 0.27,
+    "six_h_ago_ts": 1779991204,
+    "six_h_ago_price": 0.505,
+    "dp_6h": -0.235,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1780097824,
+    "status": "open",
+    "opened_at_run_ts": 1780011524
+  },
+  {
+    "id": "720145656535_1780011485",
+    "token_id": "72014565653516773730740630118229752760541257049124057861687098342842149973387",
+    "market_id": "2371296",
+    "question": "Chicago Cubs vs. Pittsburgh Pirates: O/U 7.5",
+    "slug": "mlb-chc-pit-2026-05-28-total-7pt5",
+    "open_ts": 1780011485,
+    "open_price": 0.22,
+    "six_h_ago_ts": 1779991213,
+    "six_h_ago_price": 0.495,
+    "dp_6h": -0.275,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1780097885,
+    "status": "open",
+    "opened_at_run_ts": 1780011524
+  },
+  {
+    "id": "284110617933_1780011485",
+    "token_id": "28411061793316265712996770288567770326769763898147495682359401477978910875054",
+    "market_id": "2139939",
+    "question": "SE Palmeiras vs. CDP Junior FC: O/U 5.5",
+    "slug": "lib-pal-jun-2026-05-28-total-5pt5",
+    "open_ts": 1780011485,
+    "open_price": 0.495,
+    "six_h_ago_ts": 1779991208,
+    "six_h_ago_price": 0.085,
+    "dp_6h": 0.41,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1780097885,
+    "status": "open",
+    "opened_at_run_ts": 1780011524
+  },
+  {
+    "id": "317824552062_1780011545",
+    "token_id": "31782455206293572737392792714989668425223323883691127894968358079297167010230",
+    "market_id": "2353076",
+    "question": "Counter-Strike: ShindeN vs Imperial (BO5) - ESL Challenger League South America Finals Playoffs",
+    "slug": "cs2-shin-imp11-2026-05-28",
+    "open_ts": 1780011545,
+    "open_price": 0.86,
+    "six_h_ago_ts": 1779991211,
+    "six_h_ago_price": 0.435,
+    "dp_6h": 0.425,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1780097945,
+    "status": "open",
+    "opened_at_run_ts": 1780011524
   }
 ]
