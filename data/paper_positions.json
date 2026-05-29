@@ -22053,8 +22053,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1780083665,
-    "status": "open",
-    "opened_at_run_ts": 1779997331
+    "status": "closed",
+    "opened_at_run_ts": 1779997331,
+    "close_ts": 1780091945,
+    "close_price": 0.11,
+    "gross_pnl": 0.135
   },
   {
     "id": "435933722197_1779997264",
@@ -22070,8 +22073,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1780083664,
-    "status": "open",
-    "opened_at_run_ts": 1779997331
+    "status": "closed",
+    "opened_at_run_ts": 1779997331,
+    "close_ts": 1780092003,
+    "close_price": 0.445,
+    "gross_pnl": -0.21500000000000002
   },
   {
     "id": "148322795605_1779997264",
@@ -22718,5 +22724,73 @@
     "target_close_ts": 1780169884,
     "status": "open",
     "opened_at_run_ts": 1780083481
+  },
+  {
+    "id": "496402802507_1780092005",
+    "token_id": "49640280250709610691631182479325634427774189175137195879640798474019076018766",
+    "market_id": "2367028",
+    "question": "Little Rock: Johannus Monday vs Aidan Mayo",
+    "slug": "atp-monday-mayo-2026-05-28",
+    "open_ts": 1780092005,
+    "open_price": 0.255,
+    "six_h_ago_ts": 1780070405,
+    "six_h_ago_price": 0.59,
+    "dp_6h": -0.33499999999999996,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1780178405,
+    "status": "open",
+    "opened_at_run_ts": 1780092040
+  },
+  {
+    "id": "408381099793_1780092003",
+    "token_id": "40838109979356963647373198129407549557084730323349417881160368888698025882617",
+    "market_id": "2340268",
+    "question": "Will the price of Bitcoin be above $74,000 on May 30?",
+    "slug": "bitcoin-above-74k-on-may-30-2026",
+    "open_ts": 1780092003,
+    "open_price": 0.155,
+    "six_h_ago_ts": 1780070404,
+    "six_h_ago_price": 0.425,
+    "dp_6h": -0.27,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1780178403,
+    "status": "open",
+    "opened_at_run_ts": 1780092040
+  },
+  {
+    "id": "111488008986_1780092003",
+    "token_id": "111488008986056348312991180685504146936242175946635891302642128796537940735053",
+    "market_id": "2379356",
+    "question": "Bitcoin Up or Down on May 30?",
+    "slug": "bitcoin-up-or-down-on-may-30-2026",
+    "open_ts": 1780092003,
+    "open_price": 0.255,
+    "six_h_ago_ts": 1780070404,
+    "six_h_ago_price": 0.495,
+    "dp_6h": -0.24,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1780178403,
+    "status": "open",
+    "opened_at_run_ts": 1780092040
+  },
+  {
+    "id": "330566057652_1780092003",
+    "token_id": "33056605765259638699110219651597561675314267340310039978404312019020722359670",
+    "market_id": "2378711",
+    "question": "Will Bitcoin reach $75,000 in May?",
+    "slug": "will-bitcoin-reach-75000-in-may-2026-from-may-28",
+    "open_ts": 1780092003,
+    "open_price": 0.255,
+    "six_h_ago_ts": 1780070404,
+    "six_h_ago_price": 0.445,
+    "dp_6h": -0.19,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1780178403,
+    "status": "open",
+    "opened_at_run_ts": 1780092040
   }
 ]
