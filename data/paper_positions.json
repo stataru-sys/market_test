@@ -22394,5 +22394,39 @@
     "target_close_ts": 1780115824,
     "status": "open",
     "opened_at_run_ts": 1780029431
+  },
+  {
+    "id": "277682645731_1780044543",
+    "token_id": "27768264573179323414189985095357156345630222012699469454513223272300710703108",
+    "market_id": "2342577",
+    "question": "Game Handicap: DK (-1.5) vs Kiwoom DRX (+1.5)",
+    "slug": "lol-dk-drx-2026-05-29-game-handicap-away-1pt5",
+    "open_ts": 1780044543,
+    "open_price": 0.69,
+    "six_h_ago_ts": 1780023606,
+    "six_h_ago_price": 0.475,
+    "dp_6h": 0.21499999999999997,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1780130943,
+    "status": "open",
+    "opened_at_run_ts": 1780044565
+  },
+  {
+    "id": "197351879351_1780044543",
+    "token_id": "19735187935113313356269391755949984976837709310636144016615739798321431953532",
+    "market_id": "2370548",
+    "question": "Bitcoin Up or Down on May 29?",
+    "slug": "bitcoin-up-or-down-on-may-29-2026",
+    "open_ts": 1780044543,
+    "open_price": 0.885,
+    "six_h_ago_ts": 1780023603,
+    "six_h_ago_price": 0.645,
+    "dp_6h": 0.24,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1780130943,
+    "status": "open",
+    "opened_at_run_ts": 1780044565
   }
 ]
