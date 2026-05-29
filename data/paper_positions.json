@@ -21786,8 +21786,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1780073944,
-    "status": "open",
-    "opened_at_run_ts": 1779987613
+    "status": "closed",
+    "opened_at_run_ts": 1779987613,
+    "close_ts": 1780083423,
+    "close_price": 0.4025,
+    "gross_pnl": -0.07400000000000001
   },
   {
     "id": "860340183963_1779987544",
@@ -21803,8 +21806,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1780073944,
-    "status": "open",
-    "opened_at_run_ts": 1779987613
+    "status": "closed",
+    "opened_at_run_ts": 1779987613,
+    "close_ts": 1780083423,
+    "close_price": 0.145,
+    "gross_pnl": 0.31000000000000005
   },
   {
     "id": "674587424788_1779987603",
@@ -21820,8 +21826,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1780074003,
-    "status": "open",
-    "opened_at_run_ts": 1779987613
+    "status": "closed",
+    "opened_at_run_ts": 1779987613,
+    "close_ts": 1780083484,
+    "close_price": 0.535,
+    "gross_pnl": 0.039999999999999925
   },
   {
     "id": "450441987752_1779987603",
@@ -21905,8 +21914,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1780073944,
-    "status": "open",
-    "opened_at_run_ts": 1779987613
+    "status": "closed",
+    "opened_at_run_ts": 1779987613,
+    "close_ts": 1780083423,
+    "close_price": 0.555,
+    "gross_pnl": -0.13500000000000006
   },
   {
     "id": "742126720381_1779997265",
@@ -22638,5 +22650,73 @@
     "target_close_ts": 1780159864,
     "status": "open",
     "opened_at_run_ts": 1780073492
+  },
+  {
+    "id": "115107271277_1780083363",
+    "token_id": "115107271277453590838314487446400768005420255244584321284879662052034053506414",
+    "market_id": "2374058",
+    "question": "Roland Garros ATP: Casper Ruud vs Tommy Paul",
+    "slug": "atp-ruud-paul-2026-05-29",
+    "open_ts": 1780083363,
+    "open_price": 0.375,
+    "six_h_ago_ts": 1780063205,
+    "six_h_ago_price": 0.745,
+    "dp_6h": -0.37,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1780169763,
+    "status": "open",
+    "opened_at_run_ts": 1780083481
+  },
+  {
+    "id": "308340451967_1780083423",
+    "token_id": "3083404519678343650655471605176293351429031165021004407551950188691137583301",
+    "market_id": "2155023",
+    "question": "Will Donald Trump announce that the United States blockade of the Strait of Hormuz has been lifted by June 30, 2026?",
+    "slug": "will-donald-trump-announce-that-the-united-states-blockade-of-the-strait-of-hormuz-has-been-lifted-by-june-30-2026-159-962",
+    "open_ts": 1780083423,
+    "open_price": 0.775,
+    "six_h_ago_ts": 1780063205,
+    "six_h_ago_price": 0.625,
+    "dp_6h": 0.15000000000000002,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1780169823,
+    "status": "open",
+    "opened_at_run_ts": 1780083481
+  },
+  {
+    "id": "678317562583_1780083485",
+    "token_id": "6783175625835874121975145146003521517707243389606135251848133360705469396318",
+    "market_id": "2378261",
+    "question": "WTI Crude Oil (WTI) Up or Down on May 29?",
+    "slug": "wti-up-or-down-on-may-29-2026",
+    "open_ts": 1780083485,
+    "open_price": 0.115,
+    "six_h_ago_ts": 1780063205,
+    "six_h_ago_price": 0.315,
+    "dp_6h": -0.2,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1780169885,
+    "status": "open",
+    "opened_at_run_ts": 1780083481
+  },
+  {
+    "id": "114663322614_1780083484",
+    "token_id": "114663322614040364371213844826868119783980958610032168131569278560057409445040",
+    "market_id": "2325557",
+    "question": "AC Monza vs. US Catanzaro 1929: O/U 2.5",
+    "slug": "itsb-mon-cat-2026-05-29-total-2pt5",
+    "open_ts": 1780083484,
+    "open_price": 0.17,
+    "six_h_ago_ts": 1780063204,
+    "six_h_ago_price": 0.495,
+    "dp_6h": -0.32499999999999996,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1780169884,
+    "status": "open",
+    "opened_at_run_ts": 1780083481
   }
 ]
