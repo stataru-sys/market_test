@@ -22354,8 +22354,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1780115765,
-    "status": "open",
-    "opened_at_run_ts": 1780029431
+    "status": "closed",
+    "opened_at_run_ts": 1780029431,
+    "close_ts": 1780127224,
+    "close_price": 0.226,
+    "gross_pnl": 0.099
   },
   {
     "id": "105874436620_1780029364",
@@ -22371,8 +22374,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1780115764,
-    "status": "open",
-    "opened_at_run_ts": 1780029431
+    "status": "closed",
+    "opened_at_run_ts": 1780029431,
+    "close_ts": 1780127164,
+    "close_price": 0.585,
+    "gross_pnl": -0.010000000000000009
   },
   {
     "id": "684204767082_1780029364",
@@ -22388,8 +22394,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1780115764,
-    "status": "open",
-    "opened_at_run_ts": 1780029431
+    "status": "closed",
+    "opened_at_run_ts": 1780029431,
+    "close_ts": 1780127103,
+    "close_price": 0.421,
+    "gross_pnl": -0.01849999999999996
   },
   {
     "id": "106715688133_1780029424",
@@ -22405,8 +22414,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1780115824,
-    "status": "open",
-    "opened_at_run_ts": 1780029431
+    "status": "closed",
+    "opened_at_run_ts": 1780029431,
+    "close_ts": 1780127224,
+    "close_price": 0.8545,
+    "gross_pnl": 0.025499999999999967
   },
   {
     "id": "843308464961_1780029424",
@@ -22934,5 +22946,56 @@
     "target_close_ts": 1780200724,
     "status": "open",
     "opened_at_run_ts": 1780114350
+  },
+  {
+    "id": "944487361831_1780127223",
+    "token_id": "94448736183122665914435711654434056560140895669927583695059802215039046723263",
+    "market_id": "2351997",
+    "question": "Game Handicap: AL (-2.5) vs EDward Gaming (+2.5)",
+    "slug": "lol-al-edg-2026-05-30-game-handicap-away-2pt5",
+    "open_ts": 1780127223,
+    "open_price": 0.745,
+    "six_h_ago_ts": 1780106404,
+    "six_h_ago_price": 0.385,
+    "dp_6h": 0.36,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1780213623,
+    "status": "open",
+    "opened_at_run_ts": 1780127235
+  },
+  {
+    "id": "105417082522_1780127104",
+    "token_id": "105417082522620484526472693142443933633048197124636548233817980565145821887345",
+    "market_id": "2354184",
+    "question": "Will Elon Musk post 65-89 tweets from May 28 to May 30, 2026?",
+    "slug": "elon-musk-of-tweets-may-28-may-30-65-89",
+    "open_ts": 1780127104,
+    "open_price": 0.195,
+    "six_h_ago_ts": 1780106407,
+    "six_h_ago_price": 0.355,
+    "dp_6h": -0.15999999999999998,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1780213504,
+    "status": "open",
+    "opened_at_run_ts": 1780127235
+  },
+  {
+    "id": "578160571477_1780127224",
+    "token_id": "57816057147770454283419453272298718080402608511321933087385808601458453493396",
+    "market_id": "2354179",
+    "question": "Will Elon Musk post 40-64 tweets from May 28 to May 30, 2026?",
+    "slug": "elon-musk-of-tweets-may-28-may-30-40-64",
+    "open_ts": 1780127224,
+    "open_price": 0.825,
+    "six_h_ago_ts": 1780106407,
+    "six_h_ago_price": 0.645,
+    "dp_6h": 0.17999999999999994,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1780213624,
+    "status": "open",
+    "opened_at_run_ts": 1780127235
   }
 ]
