@@ -21511,8 +21511,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1780028525,
-    "status": "open",
-    "opened_at_run_ts": 1779942221
+    "status": "closed",
+    "opened_at_run_ts": 1779942221,
+    "close_ts": 1780114324,
+    "close_price": 0.11,
+    "gross_pnl": 0.16000000000000003
   },
   {
     "id": "810352233333_1779958204",
@@ -22263,8 +22266,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1780092185,
-    "status": "open",
-    "opened_at_run_ts": 1780005798
+    "status": "closed",
+    "opened_at_run_ts": 1780005798,
+    "close_ts": 1780114383,
+    "close_price": 0.605,
+    "gross_pnl": 0.235
   },
   {
     "id": "506029581797_1780011424",
@@ -22877,5 +22883,56 @@
     "target_close_ts": 1780183443,
     "status": "open",
     "opened_at_run_ts": 1780097026
+  },
+  {
+    "id": "671008665379_1780114264",
+    "token_id": "67100866537918448863211383398587860868785657368034430872233458523507984384368",
+    "market_id": "2339621",
+    "question": "Arizona Diamondbacks vs. Seattle Mariners",
+    "slug": "mlb-ari-sea-2026-05-29",
+    "open_ts": 1780114264,
+    "open_price": 0.205,
+    "six_h_ago_ts": 1780092006,
+    "six_h_ago_price": 0.435,
+    "dp_6h": -0.23,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1780200664,
+    "status": "open",
+    "opened_at_run_ts": 1780114350
+  },
+  {
+    "id": "103123554852_1780114323",
+    "token_id": "103123554852311461560625702221166786157500648027167679673592129649404702282112",
+    "market_id": "2388449",
+    "question": "Counter-Strike: Omega vs TDK (BO3) - Thunderpick World Championship European Series #1 Playoffs",
+    "slug": "cs2-omega1-tdk-2026-05-30",
+    "open_ts": 1780114323,
+    "open_price": 0.225,
+    "six_h_ago_ts": 1780092003,
+    "six_h_ago_price": 0.6,
+    "dp_6h": -0.375,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1780200723,
+    "status": "open",
+    "opened_at_run_ts": 1780114350
+  },
+  {
+    "id": "416548138764_1780114324",
+    "token_id": "41654813876445789005858664382351152145673391317573064970613195090682549656250",
+    "market_id": "2375526",
+    "question": "Little Rock: Colton Smith vs Tyler Zink",
+    "slug": "atp-smith-zink-2026-05-29",
+    "open_ts": 1780114324,
+    "open_price": 0.895,
+    "six_h_ago_ts": 1780092006,
+    "six_h_ago_price": 0.735,
+    "dp_6h": 0.16000000000000003,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1780200724,
+    "status": "open",
+    "opened_at_run_ts": 1780114350
   }
 ]
