@@ -24338,5 +24338,39 @@
     "target_close_ts": 1780314363,
     "status": "open",
     "opened_at_run_ts": 1780227961
+  },
+  {
+    "id": "503329614975_1780236363",
+    "token_id": "50332961497593692993324871245725139284154864846191083873206150210740722059186",
+    "market_id": "2386783",
+    "question": "Roland Garros ATP: Rafael Jodar vs Pablo Carreno Busta",
+    "slug": "atp-jodar-busta-2026-05-31",
+    "open_ts": 1780236363,
+    "open_price": 0.565,
+    "six_h_ago_ts": 1780214404,
+    "six_h_ago_price": 0.785,
+    "dp_6h": -0.22000000000000008,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1780322763,
+    "status": "open",
+    "opened_at_run_ts": 1780236371
+  },
+  {
+    "id": "871810608599_1780236363",
+    "token_id": "87181060859912974393618781826190797329109926812761272793003794150244994732136",
+    "market_id": "2391983",
+    "question": "Set Handicap: Zverev (-2.5) vs Jong (+2.5)",
+    "slug": "atp-jong-zverev-2026-05-31-set-handicap-away-2pt5",
+    "open_ts": 1780236363,
+    "open_price": 0.23,
+    "six_h_ago_ts": 1780214405,
+    "six_h_ago_price": 0.575,
+    "dp_6h": -0.345,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1780322763,
+    "status": "open",
+    "opened_at_run_ts": 1780236371
   }
 ]
