@@ -24087,8 +24087,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1780272665,
-    "status": "open",
-    "opened_at_run_ts": 1780186258
+    "status": "closed",
+    "opened_at_run_ts": 1780186258,
+    "close_ts": 1780314723,
+    "close_price": 0.565,
+    "gross_pnl": 0.010000000000000009
   },
   {
     "id": "781820045014_1780186264",
@@ -24121,8 +24124,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1780292463,
-    "status": "open",
-    "opened_at_run_ts": 1780206135
+    "status": "closed",
+    "opened_at_run_ts": 1780206135,
+    "close_ts": 1780314723,
+    "close_price": 0.6415,
+    "gross_pnl": 0.0010000000000000009
   },
   {
     "id": "367503516919_1780206123",
@@ -25075,5 +25081,56 @@
     "target_close_ts": 1780376885,
     "status": "open",
     "opened_at_run_ts": 1780290502
+  },
+  {
+    "id": "307242589882_1780314784",
+    "token_id": "30724258988251503120043956808609536863572715449359171119779549860665240322736",
+    "market_id": "2394873",
+    "question": "Ethereum Up or Down on June 1?",
+    "slug": "ethereum-up-or-down-on-june-1-2026",
+    "open_ts": 1780314784,
+    "open_price": 0.115,
+    "six_h_ago_ts": 1780293604,
+    "six_h_ago_price": 0.265,
+    "dp_6h": -0.15000000000000002,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1780401184,
+    "status": "open",
+    "opened_at_run_ts": 1780314802
+  },
+  {
+    "id": "819188347966_1780314724",
+    "token_id": "81918834796647432089327289855823025458941218251568944707859401941567681164752",
+    "market_id": "2354177",
+    "question": "Will the price of Ethereum be above $2,000 on June 1?",
+    "slug": "ethereum-above-2000-on-june-1-2026",
+    "open_ts": 1780314724,
+    "open_price": 0.19,
+    "six_h_ago_ts": 1780293608,
+    "six_h_ago_price": 0.435,
+    "dp_6h": -0.245,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1780401124,
+    "status": "open",
+    "opened_at_run_ts": 1780314802
+  },
+  {
+    "id": "413342802420_1780314785",
+    "token_id": "41334280242006846236252682477209387560907033886085030704442280375171262477102",
+    "market_id": "2393142",
+    "question": "Bitcoin Up or Down - June 1, 7AM ET",
+    "slug": "bitcoin-up-or-down-june-1-2026-7am-et",
+    "open_ts": 1780314785,
+    "open_price": 0.175,
+    "six_h_ago_ts": 1780293606,
+    "six_h_ago_price": 0.5,
+    "dp_6h": -0.325,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1780401185,
+    "status": "open",
+    "opened_at_run_ts": 1780314802
   }
 ]
