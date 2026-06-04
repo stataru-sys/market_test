@@ -26383,8 +26383,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1780549445,
-    "status": "open",
-    "opened_at_run_ts": 1780463127
+    "status": "closed",
+    "opened_at_run_ts": 1780463127,
+    "close_ts": 1780563424,
+    "close_price": 0.7385,
+    "gross_pnl": 0.08449999999999991
   },
   {
     "id": "688034850300_1780463107",
@@ -26417,8 +26420,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1780549506,
-    "status": "open",
-    "opened_at_run_ts": 1780463127
+    "status": "closed",
+    "opened_at_run_ts": 1780463127,
+    "close_ts": 1780563424,
+    "close_price": 0.305,
+    "gross_pnl": 0.13999999999999999
   },
   {
     "id": "793970034344_1780463044",
@@ -26434,8 +26440,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1780549444,
-    "status": "open",
-    "opened_at_run_ts": 1780463127
+    "status": "closed",
+    "opened_at_run_ts": 1780463127,
+    "close_ts": 1780563363,
+    "close_price": 0.415,
+    "gross_pnl": 0.009999999999999953
   },
   {
     "id": "356892086006_1780463107",
@@ -27133,5 +27142,22 @@
     "target_close_ts": 1780635543,
     "status": "open",
     "opened_at_run_ts": 1780549160
+  },
+  {
+    "id": "773874352180_1780563424",
+    "token_id": "77387435218089289009156142432566561568717267366624296363020130669931702344726",
+    "market_id": "2413991",
+    "question": "Makarska: Rebecca Sramkova vs Tara Wurth",
+    "slug": "wta-sramkov-wurth-2026-06-03",
+    "open_ts": 1780563424,
+    "open_price": 0.505,
+    "six_h_ago_ts": 1780542010,
+    "six_h_ago_price": 0.765,
+    "dp_6h": -0.26,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1780649824,
+    "status": "open",
+    "opened_at_run_ts": 1780563417
   }
 ]
