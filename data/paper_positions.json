@@ -27036,8 +27036,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1780635543,
-    "status": "open",
-    "opened_at_run_ts": 1780549160
+    "status": "closed",
+    "opened_at_run_ts": 1780549160,
+    "close_ts": 1780649403,
+    "close_price": 0.5355,
+    "gross_pnl": -0.013000000000000012
   },
   {
     "id": "102227184035_1780549143",
@@ -27053,8 +27056,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1780635543,
-    "status": "open",
-    "opened_at_run_ts": 1780549160
+    "status": "closed",
+    "opened_at_run_ts": 1780549160,
+    "close_ts": 1780649403,
+    "close_price": 0.4635,
+    "gross_pnl": -0.013999999999999957
   },
   {
     "id": "965485116085_1780549143",
@@ -27070,8 +27076,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1780635543,
-    "status": "open",
-    "opened_at_run_ts": 1780549160
+    "status": "closed",
+    "opened_at_run_ts": 1780549160,
+    "close_ts": 1780649403,
+    "close_price": 0.275,
+    "gross_pnl": -0.08999999999999997
   },
   {
     "id": "686151898098_1780549084",
@@ -27104,8 +27113,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1780635543,
-    "status": "open",
-    "opened_at_run_ts": 1780549160
+    "status": "closed",
+    "opened_at_run_ts": 1780549160,
+    "close_ts": 1780649403,
+    "close_price": 0.205,
+    "gross_pnl": 0.19000000000000003
   },
   {
     "id": "526792627495_1780549085",
@@ -27121,8 +27133,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1780635485,
-    "status": "open",
-    "opened_at_run_ts": 1780549160
+    "status": "closed",
+    "opened_at_run_ts": 1780549160,
+    "close_ts": 1780649403,
+    "close_price": 0.365,
+    "gross_pnl": 0.19999999999999996
   },
   {
     "id": "345181945357_1780549143",
@@ -27718,5 +27733,56 @@
     "target_close_ts": 1780720927,
     "status": "open",
     "opened_at_run_ts": 1780634518
+  },
+  {
+    "id": "305693075949_1780649403",
+    "token_id": "30569307594951695964265803343194135016194680183591678869165843328171202667855",
+    "market_id": "2428567",
+    "question": "Centurion 2: Arda Azkara vs Khololwam Montsi",
+    "slug": "atp-azkara-montsi-2026-06-05",
+    "open_ts": 1780649403,
+    "open_price": 0.235,
+    "six_h_ago_ts": 1780628404,
+    "six_h_ago_price": 0.455,
+    "dp_6h": -0.22000000000000003,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1780735803,
+    "status": "open",
+    "opened_at_run_ts": 1780649411
+  },
+  {
+    "id": "322324254116_1780649403",
+    "token_id": "32232425411692514747290083024766378046373649464820811930798565256741176563422",
+    "market_id": "2386700",
+    "question": "Will the price of Ethereum be above $1,700 on June 5?",
+    "slug": "ethereum-above-1700-on-june-5-2026",
+    "open_ts": 1780649403,
+    "open_price": 0.2395,
+    "six_h_ago_ts": 1780628405,
+    "six_h_ago_price": 0.747,
+    "dp_6h": -0.5075000000000001,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1780735803,
+    "status": "open",
+    "opened_at_run_ts": 1780649411
+  },
+  {
+    "id": "951257688368_1780649403",
+    "token_id": "95125768836815617603369242955578994711042498870592827395195623831675558403633",
+    "market_id": "2435581",
+    "question": "WTI Crude Oil (WTI) Up or Down on June 5?",
+    "slug": "wti-up-or-down-on-june-5-2026",
+    "open_ts": 1780649403,
+    "open_price": 0.38,
+    "six_h_ago_ts": 1780628405,
+    "six_h_ago_price": 0.585,
+    "dp_6h": -0.20499999999999996,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1780735803,
+    "status": "open",
+    "opened_at_run_ts": 1780649411
   }
 ]
