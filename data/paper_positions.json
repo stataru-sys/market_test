@@ -27019,8 +27019,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1780617244,
-    "status": "open",
-    "opened_at_run_ts": 1780530902
+    "status": "closed",
+    "opened_at_run_ts": 1780530902,
+    "close_ts": 1780661763,
+    "close_price": 0.167,
+    "gross_pnl": -0.39
   },
   {
     "id": "202571905407_1780549143",
@@ -27221,8 +27224,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1780661405,
-    "status": "open",
-    "opened_at_run_ts": 1780575077
+    "status": "closed",
+    "opened_at_run_ts": 1780575077,
+    "close_ts": 1780661763,
+    "close_price": 0.4655,
+    "gross_pnl": 0.05149999999999999
   },
   {
     "id": "201384475773_1780575006",
@@ -27784,5 +27790,73 @@
     "target_close_ts": 1780735803,
     "status": "open",
     "opened_at_run_ts": 1780649411
+  },
+  {
+    "id": "476557221102_1780661826",
+    "token_id": "47655722110266800386921127562630166708257435427522542096603146476212350777166",
+    "market_id": "2425262",
+    "question": "LoL: Anyone's Legend vs LGD Gaming - Game 4 Winner",
+    "slug": "lol-al-lgd-2026-06-05-game4",
+    "open_ts": 1780661826,
+    "open_price": 0.505,
+    "six_h_ago_ts": 1780639205,
+    "six_h_ago_price": 0.665,
+    "dp_6h": -0.16000000000000003,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1780748226,
+    "status": "open",
+    "opened_at_run_ts": 1780661850
+  },
+  {
+    "id": "672257815006_1780661826",
+    "token_id": "67225781500634767661510800544559760421852439168164980079410334047320789669273",
+    "market_id": "2431832",
+    "question": "Heilbronn: Alejandro Moro Canas vs Henri Squire",
+    "slug": "atp-canas-squire-2026-06-05",
+    "open_ts": 1780661826,
+    "open_price": 0.17,
+    "six_h_ago_ts": 1780639205,
+    "six_h_ago_price": 0.535,
+    "dp_6h": -0.365,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1780748226,
+    "status": "open",
+    "opened_at_run_ts": 1780661850
+  },
+  {
+    "id": "517397922627_1780661826",
+    "token_id": "51739792262778817427953808397737671442083364638494897948291511911724254227917",
+    "market_id": "2428544",
+    "question": "Centurion 2: Harold Mayot vs Eliakim Coulibaly",
+    "slug": "atp-mayot-couliba-2026-06-05",
+    "open_ts": 1780661826,
+    "open_price": 0.85,
+    "six_h_ago_ts": 1780639205,
+    "six_h_ago_price": 0.605,
+    "dp_6h": 0.245,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1780748226,
+    "status": "open",
+    "opened_at_run_ts": 1780661850
+  },
+  {
+    "id": "613798297120_1780661763",
+    "token_id": "61379829712081275795491072056896172210706853616877632412820809357848996487806",
+    "market_id": "2197882",
+    "question": "Singapore vs. China PR: O/U 2.5",
+    "slug": "fif-sin-chn-2026-06-05-total-2pt5",
+    "open_ts": 1780661763,
+    "open_price": 0.775,
+    "six_h_ago_ts": 1780639205,
+    "six_h_ago_price": 0.535,
+    "dp_6h": 0.24,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1780748163,
+    "status": "open",
+    "opened_at_run_ts": 1780661850
   }
 ]
