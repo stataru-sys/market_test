@@ -26894,8 +26894,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1780617303,
-    "status": "open",
-    "opened_at_run_ts": 1780530902
+    "status": "closed",
+    "opened_at_run_ts": 1780530902,
+    "close_ts": 1780634471,
+    "close_price": 0.655,
+    "gross_pnl": -0.08000000000000007
   },
   {
     "id": "399974384947_1780530903",
@@ -26945,8 +26948,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1780617243,
-    "status": "open",
-    "opened_at_run_ts": 1780530902
+    "status": "closed",
+    "opened_at_run_ts": 1780530902,
+    "close_ts": 1780634405,
+    "close_price": 0.2565,
+    "gross_pnl": -0.27399999999999997
   },
   {
     "id": "102494469398_1780530843",
@@ -27644,5 +27650,73 @@
     "target_close_ts": 1780701484,
     "status": "open",
     "opened_at_run_ts": 1780615109
+  },
+  {
+    "id": "717513760135_1780634471",
+    "token_id": "71751376013592289351355018251458883439253353932177706789739853388266736299447",
+    "market_id": "2261548",
+    "question": "Will Karen Bass & Spencer Pratt advance to the second round of the 2026 Los Angeles mayoral election?",
+    "slug": "will-karen-bass-spencer-pratt-advance-to-the-second-round-of-the-2026-los-angeles-mayoral-election",
+    "open_ts": 1780634471,
+    "open_price": 0.18,
+    "six_h_ago_ts": 1780614005,
+    "six_h_ago_price": 0.335,
+    "dp_6h": -0.15500000000000003,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1780720871,
+    "status": "open",
+    "opened_at_run_ts": 1780634518
+  },
+  {
+    "id": "896158427793_1780634471",
+    "token_id": "89615842779399627103205562696088173873671309965610572396271140507506876454915",
+    "market_id": "2428431",
+    "question": "Bitcoin Up or Down on June 5?",
+    "slug": "bitcoin-up-or-down-on-june-5-2026",
+    "open_ts": 1780634471,
+    "open_price": 0.275,
+    "six_h_ago_ts": 1780614005,
+    "six_h_ago_price": 0.465,
+    "dp_6h": -0.19,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1780720871,
+    "status": "open",
+    "opened_at_run_ts": 1780634518
+  },
+  {
+    "id": "113617207376_1780634528",
+    "token_id": "113617207376406942052417158161196032182458137010558735825186345771931990480738",
+    "market_id": "2261547",
+    "question": "Will Karen Bass & Nithya Raman advance to the second round of the 2026 Los Angeles mayoral election?",
+    "slug": "will-karen-bass-nithya-raman-advance-to-the-second-round-of-the-2026-los-angeles-mayoral-election",
+    "open_ts": 1780634528,
+    "open_price": 0.815,
+    "six_h_ago_ts": 1780614005,
+    "six_h_ago_price": 0.655,
+    "dp_6h": 0.15999999999999992,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1780720928,
+    "status": "open",
+    "opened_at_run_ts": 1780634518
+  },
+  {
+    "id": "818320679551_1780634527",
+    "token_id": "81832067955190224130149460110778390442940628464911556847779513803196068564801",
+    "market_id": "2435383",
+    "question": "S&P 500 (SPX) Up or Down on June 5?",
+    "slug": "spx-up-or-down-on-june-5-2026",
+    "open_ts": 1780634527,
+    "open_price": 0.295,
+    "six_h_ago_ts": 1780614004,
+    "six_h_ago_price": 0.46,
+    "dp_6h": -0.16500000000000004,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1780720927,
+    "status": "open",
+    "opened_at_run_ts": 1780634518
   }
 ]
