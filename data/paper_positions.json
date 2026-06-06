@@ -28762,5 +28762,39 @@
     "target_close_ts": 1780834384,
     "status": "open",
     "opened_at_run_ts": 1780747973
+  },
+  {
+    "id": "603419020195_1780757404",
+    "token_id": "60341902019528072500446056847359947321692182226508173141811751573514235674263",
+    "market_id": "2359693",
+    "question": "Valorant: XLG Gaming vs NRG (BO3) - VCT Masters London Group Stage",
+    "slug": "val-xlg-nrg-2026-06-06",
+    "open_ts": 1780757404,
+    "open_price": 0.135,
+    "six_h_ago_ts": 1780736404,
+    "six_h_ago_price": 0.305,
+    "dp_6h": -0.16999999999999998,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1780843804,
+    "status": "open",
+    "opened_at_run_ts": 1780757421
+  },
+  {
+    "id": "303949564905_1780757344",
+    "token_id": "3039495649054470257440617361903419342369184619594473984184251520455440159838",
+    "market_id": "2436897",
+    "question": "Ethereum Up or Down on June 6?",
+    "slug": "ethereum-up-or-down-on-june-6-2026",
+    "open_ts": 1780757344,
+    "open_price": 0.185,
+    "six_h_ago_ts": 1780736404,
+    "six_h_ago_price": 0.605,
+    "dp_6h": -0.42,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1780843744,
+    "status": "open",
+    "opened_at_run_ts": 1780757421
   }
 ]
