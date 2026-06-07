@@ -29203,5 +29203,39 @@
     "target_close_ts": 1780870383,
     "status": "open",
     "opened_at_run_ts": 1780783981
+  },
+  {
+    "id": "536101838904_1780791244",
+    "token_id": "53610183890422975378407816396261439049377215518367621956388179729230823178481",
+    "market_id": "2448894",
+    "question": "Cleveland Guardians vs. Texas Rangers: O/U 7.5",
+    "slug": "mlb-cle-tex-2026-06-06-total-7pt5",
+    "open_ts": 1780791244,
+    "open_price": 0.24,
+    "six_h_ago_ts": 1780768805,
+    "six_h_ago_price": 0.505,
+    "dp_6h": -0.265,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1780877644,
+    "status": "open",
+    "opened_at_run_ts": 1780791271
+  },
+  {
+    "id": "317490410097_1780791183",
+    "token_id": "31749041009784258858802959960081321172685518233109700773944158618618770020357",
+    "market_id": "2155171",
+    "question": "Russia x Ukraine diplomatic meeting by June 30, 2026?",
+    "slug": "russia-x-ukraine-diplomatic-meeting-by-june-30-2026",
+    "open_ts": 1780791183,
+    "open_price": 0.815,
+    "six_h_ago_ts": 1780768803,
+    "six_h_ago_price": 0.12,
+    "dp_6h": 0.695,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1780877583,
+    "status": "open",
+    "opened_at_run_ts": 1780791271
   }
 ]
