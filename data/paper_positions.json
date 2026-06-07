@@ -29552,5 +29552,39 @@
     "target_close_ts": 1780911063,
     "status": "open",
     "opened_at_run_ts": 1780824657
+  },
+  {
+    "id": "809736858008_1780833363",
+    "token_id": "80973685800880373512186654750851274512113708864121657371512193881517213357994",
+    "market_id": "2457046",
+    "question": "Dota 2: BetBoom Team vs LGD Gaming (BO3) - BLAST Slam Playoffs",
+    "slug": "dota2-bb4-lgd-2026-06-07",
+    "open_ts": 1780833363,
+    "open_price": 0.505,
+    "six_h_ago_ts": 1780812004,
+    "six_h_ago_price": 0.67,
+    "dp_6h": -0.16500000000000004,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1780919763,
+    "status": "open",
+    "opened_at_run_ts": 1780833498
+  },
+  {
+    "id": "103150743976_1780833484",
+    "token_id": "103150743976579425413909391505749137298223364043384275058110179395844701073001",
+    "market_id": "2457633",
+    "question": "Stuttgart Open, Qualification: Roman Safiullin vs Alexis Galarneau",
+    "slug": "atp-safiull-galarne-2026-06-07",
+    "open_ts": 1780833484,
+    "open_price": 0.445,
+    "six_h_ago_ts": 1780812006,
+    "six_h_ago_price": 0.755,
+    "dp_6h": -0.31,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1780919884,
+    "status": "open",
+    "opened_at_run_ts": 1780833498
   }
 ]
