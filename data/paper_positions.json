@@ -29295,8 +29295,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1780897633,
-    "status": "open",
-    "opened_at_run_ts": 1780811257
+    "status": "closed",
+    "opened_at_run_ts": 1780811257,
+    "close_ts": 1780898524,
+    "close_price": 0.623,
+    "gross_pnl": 0.013499999999999956
   },
   {
     "id": "334709328395_1780811233",
@@ -29329,8 +29332,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1780897633,
-    "status": "open",
-    "opened_at_run_ts": 1780811257
+    "status": "closed",
+    "opened_at_run_ts": 1780811257,
+    "close_ts": 1780898523,
+    "close_price": 0.365,
+    "gross_pnl": 0.0
   },
   {
     "id": "625763343353_1780811233",
@@ -30589,5 +30595,39 @@
     "target_close_ts": 1780964284,
     "status": "open",
     "opened_at_run_ts": 1780877944
+  },
+  {
+    "id": "545507105600_1780898524",
+    "token_id": "54550710560053621955120270756121582109265167550656767259790462549072298588678",
+    "market_id": "2380186",
+    "question": "Will a Claude Mythos model be released by June 15, 2026?",
+    "slug": "will-a-claude-mythos-model-be-released-by-june-15-2026",
+    "open_ts": 1780898524,
+    "open_price": 0.5125,
+    "six_h_ago_ts": 1780876805,
+    "six_h_ago_price": 0.3155,
+    "dp_6h": 0.19699999999999995,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1780984924,
+    "status": "open",
+    "opened_at_run_ts": 1780898540
+  },
+  {
+    "id": "836175182852_1780898524",
+    "token_id": "83617518285238151274836063590312610477192655509253955921300675735811392416805",
+    "market_id": "1121887",
+    "question": "Israel strike on Yemen by June 30, 2026?",
+    "slug": "israel-strike-on-yemen-by-june-30-2026-285-633-267-857",
+    "open_ts": 1780898524,
+    "open_price": 0.355,
+    "six_h_ago_ts": 1780876806,
+    "six_h_ago_price": 0.13,
+    "dp_6h": 0.22499999999999998,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1780984924,
+    "status": "open",
+    "opened_at_run_ts": 1780898540
   }
 ]
