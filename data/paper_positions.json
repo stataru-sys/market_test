@@ -30643,8 +30643,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1780984924,
-    "status": "open",
-    "opened_at_run_ts": 1780898540
+    "status": "closed",
+    "opened_at_run_ts": 1780898540,
+    "close_ts": 1780994284,
+    "close_price": 0.899,
+    "gross_pnl": -0.38650000000000007
   },
   {
     "id": "836175182852_1780898524",
@@ -30660,8 +30663,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1780984924,
-    "status": "open",
-    "opened_at_run_ts": 1780898540
+    "status": "closed",
+    "opened_at_run_ts": 1780898540,
+    "close_ts": 1780994239,
+    "close_price": 0.205,
+    "gross_pnl": 0.15
   },
   {
     "id": "467251595326_1780917363",
@@ -31155,5 +31161,39 @@
     "target_close_ts": 1781065144,
     "status": "open",
     "opened_at_run_ts": 1780978751
+  },
+  {
+    "id": "978508104149_1780994284",
+    "token_id": "9785081041496960467405018342957503009793848177015359548387322077274527437368",
+    "market_id": "2474489",
+    "question": "Counter-Strike: INOX Division vs Bebop (BO3) - CCT Europe Series 4 Group Stage",
+    "slug": "cs2-inox-bbp-2026-06-09",
+    "open_ts": 1780994284,
+    "open_price": 0.495,
+    "six_h_ago_ts": 1780974007,
+    "six_h_ago_price": 0.74,
+    "dp_6h": -0.245,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1781080684,
+    "status": "open",
+    "opened_at_run_ts": 1780994304
+  },
+  {
+    "id": "498293010861_1780994284",
+    "token_id": "49829301086126077661807428711654972648573626129493898200762633201186018247384",
+    "market_id": "2473461",
+    "question": "ITF Hurghada: Valentina Ryser vs Amra Sadikovic",
+    "slug": "itf-ryser-sadikov-2026-06-09",
+    "open_ts": 1780994284,
+    "open_price": 0.71,
+    "six_h_ago_ts": 1780974007,
+    "six_h_ago_price": 0.945,
+    "dp_6h": -0.235,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1781080684,
+    "status": "open",
+    "opened_at_run_ts": 1780994304
   }
 ]
