@@ -32063,5 +32063,39 @@
     "target_close_ts": 1781196063,
     "status": "open",
     "opened_at_run_ts": 1781109703
+  },
+  {
+    "id": "764218486081_1781120583",
+    "token_id": "76421848608131124368122023025886124824956994711138474629035620412276999050069",
+    "market_id": "2407919",
+    "question": "Will Málaga CF win on 2026-06-10?",
+    "slug": "es2-mal-lpm-2026-06-10-mal",
+    "open_ts": 1781120583,
+    "open_price": 0.175,
+    "six_h_ago_ts": 1781100006,
+    "six_h_ago_price": 0.445,
+    "dp_6h": -0.27,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1781206983,
+    "status": "open",
+    "opened_at_run_ts": 1781120589
+  },
+  {
+    "id": "894860256316_1781120583",
+    "token_id": "89486025631676815134389914586093456326658375527570570293315408279729667668428",
+    "market_id": "2407922",
+    "question": "Will UD Las Palmas win on 2026-06-10?",
+    "slug": "es2-mal-lpm-2026-06-10-lpm",
+    "open_ts": 1781120583,
+    "open_price": 0.565,
+    "six_h_ago_ts": 1781100004,
+    "six_h_ago_price": 0.265,
+    "dp_6h": 0.29999999999999993,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1781206983,
+    "status": "open",
+    "opened_at_run_ts": 1781120589
   }
 ]
