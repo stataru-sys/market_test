@@ -31938,5 +31938,39 @@
     "target_close_ts": 1781168284,
     "status": "open",
     "opened_at_run_ts": 1781081928
+  },
+  {
+    "id": "822449208717_1781094783",
+    "token_id": "82244920871719537455016836318262204313939091196545354268224838696515993563235",
+    "market_id": "2454935",
+    "question": "Libema Open: Otto Virtanen vs Kamil Majchrzak",
+    "slug": "atp-virtane-majchrz-2026-06-08",
+    "open_ts": 1781094783,
+    "open_price": 0.215,
+    "six_h_ago_ts": 1781074805,
+    "six_h_ago_price": 0.525,
+    "dp_6h": -0.31000000000000005,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1781181183,
+    "status": "open",
+    "opened_at_run_ts": 1781094817
+  },
+  {
+    "id": "856400097775_1781094725",
+    "token_id": "85640009777516705316231920615334960146016661619652725327358356667164807415333",
+    "market_id": "2456034",
+    "question": "Counter-Strike: G2 Ares vs Young Ninjas (BO3) - European Pro League Series 7 Group C",
+    "slug": "cs2-g2a-yn-2026-06-10",
+    "open_ts": 1781094725,
+    "open_price": 0.315,
+    "six_h_ago_ts": 1781074805,
+    "six_h_ago_price": 0.495,
+    "dp_6h": -0.18,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1781181125,
+    "status": "open",
+    "opened_at_run_ts": 1781094817
   }
 ]
