@@ -32508,5 +32508,39 @@
     "target_close_ts": 1781244064,
     "status": "open",
     "opened_at_run_ts": 1781157716
+  },
+  {
+    "id": "898033825286_1781175304",
+    "token_id": "89803382528605285599520107590097232177692784648647501991363650136349990249604",
+    "market_id": "2473799",
+    "question": "Libema Open: Ugo Humbert vs Benjamin Bonzi",
+    "slug": "atp-humbert-bonzi-2026-06-10",
+    "open_ts": 1781175304,
+    "open_price": 0.125,
+    "six_h_ago_ts": 1781154005,
+    "six_h_ago_price": 0.675,
+    "dp_6h": -0.55,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1781261704,
+    "status": "open",
+    "opened_at_run_ts": 1781175326
+  },
+  {
+    "id": "797717830952_1781175244",
+    "token_id": "79771783095254894700251332186712202017258650513546029771199865476665147403871",
+    "market_id": "2471037",
+    "question": "Libema Open: Magda Linette vs Mia Pohankova",
+    "slug": "wta-linette-pohanko-2026-06-10",
+    "open_ts": 1781175244,
+    "open_price": 0.825,
+    "six_h_ago_ts": 1781154004,
+    "six_h_ago_price": 0.525,
+    "dp_6h": 0.29999999999999993,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1781261644,
+    "status": "open",
+    "opened_at_run_ts": 1781175326
   }
 ]
