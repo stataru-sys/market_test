@@ -32873,8 +32873,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1781299565,
-    "status": "open",
-    "opened_at_run_ts": 1781213294
+    "status": "closed",
+    "opened_at_run_ts": 1781213294,
+    "close_ts": 1781301364,
+    "close_price": 0.425,
+    "gross_pnl": -0.019999999999999962
   },
   {
     "id": "359910068531_1781213224",
@@ -32907,8 +32910,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1781299624,
-    "status": "open",
-    "opened_at_run_ts": 1781213294
+    "status": "closed",
+    "opened_at_run_ts": 1781213294,
+    "close_ts": 1781301439,
+    "close_price": 0.355,
+    "gross_pnl": -0.0
   },
   {
     "id": "106929013576_1781213224",
@@ -32924,8 +32930,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1781299624,
-    "status": "open",
-    "opened_at_run_ts": 1781213294
+    "status": "closed",
+    "opened_at_run_ts": 1781213294,
+    "close_ts": 1781301438,
+    "close_price": 0.465,
+    "gross_pnl": -0.015000000000000013
   },
   {
     "id": "308340451967_1781213285",
@@ -32941,8 +32950,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1781299685,
-    "status": "open",
-    "opened_at_run_ts": 1781213294
+    "status": "closed",
+    "opened_at_run_ts": 1781213294,
+    "close_ts": 1781301367,
+    "close_price": 0.62,
+    "gross_pnl": -0.06999999999999995
   },
   {
     "id": "257372144514_1781213225",
@@ -32958,8 +32970,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1781299625,
-    "status": "open",
-    "opened_at_run_ts": 1781213294
+    "status": "closed",
+    "opened_at_run_ts": 1781213294,
+    "close_ts": 1781301440,
+    "close_price": 0.23,
+    "gross_pnl": 0.004999999999999977
   },
   {
     "id": "655004350201_1781213284",
@@ -32975,8 +32990,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1781299684,
-    "status": "open",
-    "opened_at_run_ts": 1781213294
+    "status": "closed",
+    "opened_at_run_ts": 1781213294,
+    "close_ts": 1781301439,
+    "close_price": 0.8,
+    "gross_pnl": -0.025000000000000022
   },
   {
     "id": "753426014970_1781213285",
@@ -33026,8 +33044,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1781299684,
-    "status": "open",
-    "opened_at_run_ts": 1781213294
+    "status": "closed",
+    "opened_at_run_ts": 1781213294,
+    "close_ts": 1781301439,
+    "close_price": 0.115,
+    "gross_pnl": -0.015
   },
   {
     "id": "737180706473_1781213224",
@@ -33043,8 +33064,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1781299624,
-    "status": "open",
-    "opened_at_run_ts": 1781213294
+    "status": "closed",
+    "opened_at_run_ts": 1781213294,
+    "close_ts": 1781301439,
+    "close_price": 0.775,
+    "gross_pnl": -0.05500000000000005
   },
   {
     "id": "969672937431_1781213224",
@@ -33094,8 +33118,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1781299685,
-    "status": "open",
-    "opened_at_run_ts": 1781213294
+    "status": "closed",
+    "opened_at_run_ts": 1781213294,
+    "close_ts": 1781301367,
+    "close_price": 0.285,
+    "gross_pnl": 0.21500000000000002
   },
   {
     "id": "157117249891_1781213285",
@@ -33162,8 +33189,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1781299624,
-    "status": "open",
-    "opened_at_run_ts": 1781213294
+    "status": "closed",
+    "opened_at_run_ts": 1781213294,
+    "close_ts": 1781301439,
+    "close_price": 0.76,
+    "gross_pnl": 0.03500000000000003
   },
   {
     "id": "112167494693_1781213284",
@@ -33179,8 +33209,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1781299684,
-    "status": "open",
-    "opened_at_run_ts": 1781213294
+    "status": "closed",
+    "opened_at_run_ts": 1781213294,
+    "close_ts": 1781301365,
+    "close_price": 0.357,
+    "gross_pnl": 0.033999999999999975
   },
   {
     "id": "102898465044_1781221564",
@@ -33538,5 +33571,22 @@
     "target_close_ts": 1781378285,
     "status": "open",
     "opened_at_run_ts": 1781291946
+  },
+  {
+    "id": "582543725423_1781301438",
+    "token_id": "58254372542320968368223440670483161436561325078626547007776575644069566358917",
+    "market_id": "2454824",
+    "question": "Will the price of Bitcoin be above $64,000 on June 13?",
+    "slug": "bitcoin-above-64k-on-june-13-2026",
+    "open_ts": 1781301438,
+    "open_price": 0.155,
+    "six_h_ago_ts": 1781280004,
+    "six_h_ago_price": 0.365,
+    "dp_6h": -0.21,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1781387838,
+    "status": "open",
+    "opened_at_run_ts": 1781301478
   }
 ]
