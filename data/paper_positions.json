@@ -32640,8 +32640,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1781288644,
-    "status": "open",
-    "opened_at_run_ts": 1781202306
+    "status": "closed",
+    "opened_at_run_ts": 1781202306,
+    "close_ts": 1781291943,
+    "close_price": 0.445,
+    "gross_pnl": -0.09500000000000003
   },
   {
     "id": "524005165285_1781202304",
@@ -32674,8 +32677,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1781288644,
-    "status": "open",
-    "opened_at_run_ts": 1781202306
+    "status": "closed",
+    "opened_at_run_ts": 1781202306,
+    "close_ts": 1781291885,
+    "close_price": 0.705,
+    "gross_pnl": -0.10499999999999998
   },
   {
     "id": "426514877700_1781202244",
@@ -32691,8 +32697,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1781288644,
-    "status": "open",
-    "opened_at_run_ts": 1781202306
+    "status": "closed",
+    "opened_at_run_ts": 1781202306,
+    "close_ts": 1781291885,
+    "close_price": 0.705,
+    "gross_pnl": -0.18499999999999994
   },
   {
     "id": "104959751235_1781202245",
@@ -32810,8 +32819,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1781288644,
-    "status": "open",
-    "opened_at_run_ts": 1781202306
+    "status": "closed",
+    "opened_at_run_ts": 1781202306,
+    "close_ts": 1781291943,
+    "close_price": 0.565,
+    "gross_pnl": -0.14999999999999997
   },
   {
     "id": "557467840870_1781202304",
@@ -33509,5 +33521,22 @@
     "target_close_ts": 1781369584,
     "status": "open",
     "opened_at_run_ts": 1781283213
+  },
+  {
+    "id": "903241966804_1781291885",
+    "token_id": "90324196680421956450450231386134096119298418458625828538954130772193036641157",
+    "market_id": "2510455",
+    "question": "Counter-Strike: Vitality vs 9z (BO3) - IEM Cologne Major Stage 3",
+    "slug": "cs2-vit-9z-2026-06-12",
+    "open_ts": 1781291885,
+    "open_price": 0.539,
+    "six_h_ago_ts": 1781269204,
+    "six_h_ago_price": 0.905,
+    "dp_6h": -0.366,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1781378285,
+    "status": "open",
+    "opened_at_run_ts": 1781291946
   }
 ]
