@@ -31789,8 +31789,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1781152744,
-    "status": "open",
-    "opened_at_run_ts": 1781066402
+    "status": "closed",
+    "opened_at_run_ts": 1781066402,
+    "close_ts": 1781240105,
+    "close_price": 0.199,
+    "gross_pnl": -0.21649999999999997
   },
   {
     "id": "793970034344_1781066344",
@@ -33191,5 +33194,22 @@
     "target_close_ts": 1781307964,
     "status": "open",
     "opened_at_run_ts": 1781221649
+  },
+  {
+    "id": "378705769652_1781240179",
+    "token_id": "37870576965251688414593025539082159871430338741957016208264013936685272567555",
+    "market_id": "1393020",
+    "question": "Will Eric Maxim Choupo-Moting win the 2026 MLS Golden Boot?",
+    "slug": "will-eric-maxim-choupo-moting-win-the-2026-mls-golden-boot-357",
+    "open_ts": 1781240179,
+    "open_price": 0.246,
+    "six_h_ago_ts": 1781218803,
+    "six_h_ago_price": 0.0075,
+    "dp_6h": 0.2385,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1781326579,
+    "status": "open",
+    "opened_at_run_ts": 1781240218
   }
 ]
