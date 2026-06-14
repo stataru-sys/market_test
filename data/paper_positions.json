@@ -33623,8 +33623,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1781394005,
-    "status": "open",
-    "opened_at_run_ts": 1781307669
+    "status": "closed",
+    "opened_at_run_ts": 1781307669,
+    "close_ts": 1781416811,
+    "close_price": 0.171,
+    "gross_pnl": 0.036000000000000004
   },
   {
     "id": "224700556808_1781307664",
@@ -34634,5 +34637,22 @@
     "target_close_ts": 1781482684,
     "status": "open",
     "opened_at_run_ts": 1781396291
+  },
+  {
+    "id": "403549759814_1781416865",
+    "token_id": "40354975981462802199415680172417081676580974035558909979490888389372227834435",
+    "market_id": "2506601",
+    "question": "Will Elon Musk post <40 tweets from June 13 to June 15, 2026?",
+    "slug": "elon-musk-of-tweets-june-13-june-15-0-39",
+    "open_ts": 1781416865,
+    "open_price": 0.655,
+    "six_h_ago_ts": 1781395213,
+    "six_h_ago_price": 0.405,
+    "dp_6h": 0.25,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1781503265,
+    "status": "open",
+    "opened_at_run_ts": 1781416855
   }
 ]
