@@ -33674,8 +33674,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1781394063,
-    "status": "open",
-    "opened_at_run_ts": 1781307669
+    "status": "closed",
+    "opened_at_run_ts": 1781307669,
+    "close_ts": 1781396164,
+    "close_price": 0.25,
+    "gross_pnl": 0.0
   },
   {
     "id": "627418282834_1781307663",
@@ -33691,8 +33694,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1781394063,
-    "status": "open",
-    "opened_at_run_ts": 1781307669
+    "status": "closed",
+    "opened_at_run_ts": 1781307669,
+    "close_ts": 1781396284,
+    "close_price": 0.635,
+    "gross_pnl": 0.19
   },
   {
     "id": "789326064618_1781307664",
@@ -34560,5 +34566,73 @@
     "target_close_ts": 1781475245,
     "status": "open",
     "opened_at_run_ts": 1781388885
+  },
+  {
+    "id": "592643632347_1781396165",
+    "token_id": "59264363234787311798284859696199932023852083320601819151799938874329243747199",
+    "market_id": "2461970",
+    "question": "Philadelphia Phillies vs. Milwaukee Brewers",
+    "slug": "mlb-phi-mil-2026-06-13",
+    "open_ts": 1781396165,
+    "open_price": 0.745,
+    "six_h_ago_ts": 1781373609,
+    "six_h_ago_price": 0.395,
+    "dp_6h": 0.35,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1781482565,
+    "status": "open",
+    "opened_at_run_ts": 1781396291
+  },
+  {
+    "id": "396663141743_1781396284",
+    "token_id": "39666314174372343557027041545217314189565243126826531333753586921190606683065",
+    "market_id": "2519586",
+    "question": "Spread: Milwaukee Brewers (-1.5)",
+    "slug": "mlb-phi-mil-2026-06-13-spread-home-1pt5",
+    "open_ts": 1781396284,
+    "open_price": 0.23,
+    "six_h_ago_ts": 1781373609,
+    "six_h_ago_price": 0.415,
+    "dp_6h": -0.18499999999999997,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1781482684,
+    "status": "open",
+    "opened_at_run_ts": 1781396291
+  },
+  {
+    "id": "589929566620_1781396284",
+    "token_id": "5899295666205456225720137274645776975430358870900871513946721099423308686177",
+    "market_id": "2518159",
+    "question": "Bitcoin Up or Down on June 14?",
+    "slug": "bitcoin-up-or-down-on-june-14-2026",
+    "open_ts": 1781396284,
+    "open_price": 0.615,
+    "six_h_ago_ts": 1781373606,
+    "six_h_ago_price": 0.375,
+    "dp_6h": 0.24,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1781482684,
+    "status": "open",
+    "opened_at_run_ts": 1781396291
+  },
+  {
+    "id": "107589819545_1781396284",
+    "token_id": "107589819545729251462257069363590380535890055368488545087451755829764118640077",
+    "market_id": "2526625",
+    "question": "Philadelphia Phillies vs. Milwaukee Brewers: O/U 7.5",
+    "slug": "mlb-phi-mil-2026-06-13-total-7pt5",
+    "open_ts": 1781396284,
+    "open_price": 0.775,
+    "six_h_ago_ts": 1781373608,
+    "six_h_ago_price": 0.565,
+    "dp_6h": 0.21000000000000008,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1781482684,
+    "status": "open",
+    "opened_at_run_ts": 1781396291
   }
 ]
