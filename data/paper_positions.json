@@ -35910,8 +35910,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1781613363,
-    "status": "open",
-    "opened_at_run_ts": 1781527049
+    "status": "closed",
+    "opened_at_run_ts": 1781527049,
+    "close_ts": 1781630224,
+    "close_price": 0.247,
+    "gross_pnl": 0.2005
   },
   {
     "id": "907483032717_1781526963",
@@ -35927,8 +35930,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1781613363,
-    "status": "open",
-    "opened_at_run_ts": 1781527049
+    "status": "closed",
+    "opened_at_run_ts": 1781527049,
+    "close_ts": 1781630165,
+    "close_price": 0.159,
+    "gross_pnl": 0.12200000000000003
   },
   {
     "id": "429847226621_1781526963",
@@ -35944,8 +35950,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1781613363,
-    "status": "open",
-    "opened_at_run_ts": 1781527049
+    "status": "closed",
+    "opened_at_run_ts": 1781527049,
+    "close_ts": 1781630225,
+    "close_price": 0.3055,
+    "gross_pnl": 0.14400000000000002
   },
   {
     "id": "110034660885_1781526963",
@@ -35995,8 +36004,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1781613423,
-    "status": "open",
-    "opened_at_run_ts": 1781527049
+    "status": "closed",
+    "opened_at_run_ts": 1781527049,
+    "close_ts": 1781630224,
+    "close_price": 0.295,
+    "gross_pnl": 0.175
   },
   {
     "id": "698577623387_1781546464",
@@ -36660,5 +36672,90 @@
     "target_close_ts": 1781695817,
     "status": "open",
     "opened_at_run_ts": 1781609403
+  },
+  {
+    "id": "577965491446_1781630224",
+    "token_id": "57796549144643338484924274618301177644374540137510297581033046995013399717525",
+    "market_id": "2551867",
+    "question": "S&P 500 (SPX) Up or Down on June 16?",
+    "slug": "spx-up-or-down-on-june-16-2026",
+    "open_ts": 1781630224,
+    "open_price": 0.135,
+    "six_h_ago_ts": 1781607604,
+    "six_h_ago_price": 0.575,
+    "dp_6h": -0.43999999999999995,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1781716624,
+    "status": "open",
+    "opened_at_run_ts": 1781630259
+  },
+  {
+    "id": "924882206219_1781630224",
+    "token_id": "92488220621909882531791113518945145991276504934055990507865455181231063950386",
+    "market_id": "2371796",
+    "question": "Will Trump agree to withdraw troops from the Iranian region by June 30?",
+    "slug": "will-trump-agree-to-withdraw-troops-from-the-iranian-region-by-june-30",
+    "open_ts": 1781630224,
+    "open_price": 0.545,
+    "six_h_ago_ts": 1781607604,
+    "six_h_ago_price": 0.345,
+    "dp_6h": 0.20000000000000007,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1781716624,
+    "status": "open",
+    "opened_at_run_ts": 1781630259
+  },
+  {
+    "id": "103821133127_1781630225",
+    "token_id": "103821133127715662496833043576967956903212024835645597742827629596077295653779",
+    "market_id": "2552051",
+    "question": "SPY (SPY) Up or Down on June 16?",
+    "slug": "spy-up-or-down-on-june-16-2026",
+    "open_ts": 1781630225,
+    "open_price": 0.17,
+    "six_h_ago_ts": 1781607606,
+    "six_h_ago_price": 0.585,
+    "dp_6h": -0.4149999999999999,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1781716625,
+    "status": "open",
+    "opened_at_run_ts": 1781630259
+  },
+  {
+    "id": "396423790819_1781630225",
+    "token_id": "39642379081999380406303474282389712124938922036107123087923875794285536423610",
+    "market_id": "2556376",
+    "question": "Map Handicap: VIT (-1.5) vs FUT Esports (+1.5)",
+    "slug": "val-vit-fut1-2026-06-16-map-handicap-away-1pt5",
+    "open_ts": 1781630225,
+    "open_price": 0.705,
+    "six_h_ago_ts": 1781607605,
+    "six_h_ago_price": 0.375,
+    "dp_6h": 0.32999999999999996,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1781716625,
+    "status": "open",
+    "opened_at_run_ts": 1781630259
+  },
+  {
+    "id": "912309926635_1781630225",
+    "token_id": "91230992663532978753569755509706782406329921326098880597019585814926139912190",
+    "market_id": "2557368",
+    "question": "Will the text of the US-Iran agreement be released by June 16? ",
+    "slug": "will-the-text-of-the-us-iran-agreement-be-released-by-june-16-20260615224555000",
+    "open_ts": 1781630225,
+    "open_price": 0.485,
+    "six_h_ago_ts": 1781607606,
+    "six_h_ago_price": 0.2,
+    "dp_6h": 0.285,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1781716625,
+    "status": "open",
+    "opened_at_run_ts": 1781630259
   }
 ]
