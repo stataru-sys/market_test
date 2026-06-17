@@ -18107,8 +18107,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1779698523,
-    "status": "open",
-    "opened_at_run_ts": 1779612158
+    "status": "closed",
+    "opened_at_run_ts": 1779612158,
+    "close_ts": 1781736483,
+    "close_price": 0.605,
+    "gross_pnl": 0.14499999999999996
   },
   {
     "id": "961292326397_1779619624",
@@ -36790,8 +36793,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1781730783,
-    "status": "open",
-    "opened_at_run_ts": 1781644491
+    "status": "closed",
+    "opened_at_run_ts": 1781644491,
+    "close_ts": 1781736603,
+    "close_price": 0.235,
+    "gross_pnl": 0.08000000000000002
   },
   {
     "id": "103359786443_1781644443",
@@ -36807,8 +36813,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1781730843,
-    "status": "open",
-    "opened_at_run_ts": 1781644491
+    "status": "closed",
+    "opened_at_run_ts": 1781644491,
+    "close_ts": 1781736604,
+    "close_price": 0.755,
+    "gross_pnl": 0.05500000000000005
   },
   {
     "id": "750595860551_1781653383",
@@ -37727,5 +37736,73 @@
     "target_close_ts": 1781814424,
     "status": "open",
     "opened_at_run_ts": 1781728020
+  },
+  {
+    "id": "440371043217_1781736545",
+    "token_id": "44037104321768322329501477521282568226352720718305840331482281664534332846738",
+    "market_id": "2566360",
+    "question": "Will the US-Iran deal be physically signed by June 19, 2026?",
+    "slug": "will-the-us-iran-deal-be-physically-signed-by-june-19-2026-20260615222831704",
+    "open_ts": 1781736545,
+    "open_price": 0.31,
+    "six_h_ago_ts": 1781715609,
+    "six_h_ago_price": 0.56,
+    "dp_6h": -0.25000000000000006,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1781822945,
+    "status": "open",
+    "opened_at_run_ts": 1781736600
+  },
+  {
+    "id": "161358774314_1781736544",
+    "token_id": "16135877431493446607671189039636933475006610052936539113372827096084184825048",
+    "market_id": "2436557",
+    "question": "Will Bitcoin reach $67,500 in June?",
+    "slug": "will-bitcoin-reach-67500-in-june-2026-from-june-4",
+    "open_ts": 1781736544,
+    "open_price": 0.455,
+    "six_h_ago_ts": 1781715607,
+    "six_h_ago_price": 0.705,
+    "dp_6h": -0.24999999999999994,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1781822944,
+    "status": "open",
+    "opened_at_run_ts": 1781736600
+  },
+  {
+    "id": "809107812741_1781736544",
+    "token_id": "80910781274106255813655968854309998400546303680596052060527421961388017553220",
+    "market_id": "2566361",
+    "question": "Will the US-Iran deal be physically signed by June 30?",
+    "slug": "will-the-us-iran-deal-be-physically-signed-by-june-30-20260615222831705",
+    "open_ts": 1781736544,
+    "open_price": 0.365,
+    "six_h_ago_ts": 1781715605,
+    "six_h_ago_price": 0.6,
+    "dp_6h": -0.235,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1781822944,
+    "status": "open",
+    "opened_at_run_ts": 1781736600
+  },
+  {
+    "id": "965485116085_1781736484",
+    "token_id": "96548511608531276140022106245524012237627826583440698374093865804434851676759",
+    "market_id": "2420093",
+    "question": "Will Bitcoin reach $70,000 in June?",
+    "slug": "will-bitcoin-reach-70000-in-june-2026-from-june-2",
+    "open_ts": 1781736484,
+    "open_price": 0.175,
+    "six_h_ago_ts": 1781715608,
+    "six_h_ago_price": 0.325,
+    "dp_6h": -0.15000000000000002,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1781822884,
+    "status": "open",
+    "opened_at_run_ts": 1781736600
   }
 ]
