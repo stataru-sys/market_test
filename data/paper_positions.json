@@ -36401,8 +36401,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1781654104,
-    "status": "open",
-    "opened_at_run_ts": 1781567783
+    "status": "closed",
+    "opened_at_run_ts": 1781567783,
+    "close_ts": 1781672644,
+    "close_price": 0.535,
+    "gross_pnl": 0.05499999999999994
   },
   {
     "id": "100124410216_1781567764",
@@ -36964,5 +36967,56 @@
     "target_close_ts": 1781739783,
     "status": "open",
     "opened_at_run_ts": 1781653416
+  },
+  {
+    "id": "293109689841_1781672644",
+    "token_id": "29310968984111157045877690958171436580080894040094166930240964278064848697878",
+    "market_id": "839969",
+    "question": "Will Argentina win Group J in the 2026 FIFA World Cup?",
+    "slug": "will-argentina-win-group-j-in-the-2026-fifa-world-cup",
+    "open_ts": 1781672644,
+    "open_price": 0.865,
+    "six_h_ago_ts": 1781650803,
+    "six_h_ago_price": 0.695,
+    "dp_6h": 0.17000000000000004,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1781759044,
+    "status": "open",
+    "opened_at_run_ts": 1781672734
+  },
+  {
+    "id": "192143944376_1781672704",
+    "token_id": "19214394437683566921750936876376421489271269944393354497977881791256347396217",
+    "market_id": "2069635",
+    "question": "Will Lionel Messi be the top goalscorer at the 2026 FIFA World Cup?",
+    "slug": "will-lionel-messi-be-the-top-goalscorer-at-the-2026-fifa-world-cup",
+    "open_ts": 1781672704,
+    "open_price": 0.2495,
+    "six_h_ago_ts": 1781650804,
+    "six_h_ago_price": 0.067,
+    "dp_6h": 0.1825,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1781759104,
+    "status": "open",
+    "opened_at_run_ts": 1781672734
+  },
+  {
+    "id": "102132142964_1781672645",
+    "token_id": "102132142964505812966135810000988611628753316061121734899428850828047115324715",
+    "market_id": "2557367",
+    "question": "Will the text of the US-Iran agreement be released by June 17?",
+    "slug": "will-the-text-of-the-us-iran-agreement-be-released-by-june-17-20260615191216216",
+    "open_ts": 1781672645,
+    "open_price": 0.525,
+    "six_h_ago_ts": 1781650805,
+    "six_h_ago_price": 0.34,
+    "dp_6h": 0.185,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1781759045,
+    "status": "open",
+    "opened_at_run_ts": 1781672734
   }
 ]
