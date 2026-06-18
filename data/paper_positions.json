@@ -37020,8 +37020,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1781759104,
-    "status": "open",
-    "opened_at_run_ts": 1781672734
+    "status": "closed",
+    "opened_at_run_ts": 1781672734,
+    "close_ts": 1781762703,
+    "close_price": 0.2115,
+    "gross_pnl": 0.038000000000000006
   },
   {
     "id": "102132142964_1781672645",
@@ -38195,5 +38198,39 @@
     "target_close_ts": 1781828584,
     "status": "open",
     "opened_at_run_ts": 1781742219
+  },
+  {
+    "id": "210970652727_1781762704",
+    "token_id": "21097065272712900144918513504038909932301820226410661672750103638507069150602",
+    "market_id": "1986506",
+    "question": "Will J.D. Vance attend the next US x Iran diplomatic meeting?",
+    "slug": "will-jd-vance-attend-the-next-us-x-iran-diplomatic-meeting",
+    "open_ts": 1781762704,
+    "open_price": 0.61,
+    "six_h_ago_ts": 1781740828,
+    "six_h_ago_price": 0.7645,
+    "dp_6h": -0.15449999999999997,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1781849104,
+    "status": "open",
+    "opened_at_run_ts": 1781762721
+  },
+  {
+    "id": "962562821490_1781762703",
+    "token_id": "96256282149059334145104229731621903474625551105714342346451402267699842815072",
+    "market_id": "2126547",
+    "question": "Will JD Vance have a diplomatic meeting with Iran by June 30, 2026?",
+    "slug": "will-jd-vance-have-a-diplomatic-meeting-with-iran-by-june-30-2026",
+    "open_ts": 1781762703,
+    "open_price": 0.615,
+    "six_h_ago_ts": 1781740823,
+    "six_h_ago_price": 0.83,
+    "dp_6h": -0.21499999999999997,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1781849103,
+    "status": "open",
+    "opened_at_run_ts": 1781762721
   }
 ]
