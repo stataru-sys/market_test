@@ -38254,8 +38254,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1781849103,
-    "status": "open",
-    "opened_at_run_ts": 1781762721
+    "status": "closed",
+    "opened_at_run_ts": 1781762721,
+    "close_ts": 1781903823,
+    "close_price": 0.36,
+    "gross_pnl": -0.255
   },
   {
     "id": "894314045017_1781792225",
@@ -39381,5 +39384,39 @@
     "target_close_ts": 1781985604,
     "status": "open",
     "opened_at_run_ts": 1781899233
+  },
+  {
+    "id": "498468287125_1781903824",
+    "token_id": "49846828712514196652275293346754227451178477556921032041340679397421433137005",
+    "market_id": "2556754",
+    "question": "Games Total: O/U 2.5",
+    "slug": "cs2-vit-fal2-2026-06-19-total-games-2pt5",
+    "open_ts": 1781903824,
+    "open_price": 0.84,
+    "six_h_ago_ts": 1781881207,
+    "six_h_ago_price": 0.445,
+    "dp_6h": 0.39499999999999996,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1781990224,
+    "status": "open",
+    "opened_at_run_ts": 1781903847
+  },
+  {
+    "id": "381285115964_1781903823",
+    "token_id": "38128511596403434222386202458504278258625623256499750470273070085524381046404",
+    "market_id": "2099592",
+    "question": "Will Gustavo Petro be the next leader out before 2027?",
+    "slug": "will-gustavo-petro-be-the-next-leader-out-before-2027-576",
+    "open_ts": 1781903823,
+    "open_price": 0.255,
+    "six_h_ago_ts": 1781881206,
+    "six_h_ago_price": 0.43,
+    "dp_6h": -0.175,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1781990223,
+    "status": "open",
+    "opened_at_run_ts": 1781903847
   }
 ]
