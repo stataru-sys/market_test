@@ -38010,8 +38010,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1781828584,
-    "status": "open",
-    "opened_at_run_ts": 1781742219
+    "status": "closed",
+    "opened_at_run_ts": 1781742219,
+    "close_ts": 1781846224,
+    "close_price": 0.2705,
+    "gross_pnl": -0.5005
   },
   {
     "id": "716339039410_1781742124",
@@ -38146,8 +38149,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1781828584,
-    "status": "open",
-    "opened_at_run_ts": 1781742219
+    "status": "closed",
+    "opened_at_run_ts": 1781742219,
+    "close_ts": 1781846224,
+    "close_price": 0.135,
+    "gross_pnl": -0.185
   },
   {
     "id": "246828997077_1781742184",
@@ -38709,5 +38715,73 @@
     "target_close_ts": 1781913304,
     "status": "open",
     "opened_at_run_ts": 1781826923
+  },
+  {
+    "id": "426514877700_1781846224",
+    "token_id": "42651487770072584399780567111092653963782174358340706174105521278109948131465",
+    "market_id": "2109450",
+    "question": "US x Iran diplomatic meeting by June 30, 2026?",
+    "slug": "us-x-iran-diplomatic-meeting-by-june-30-2026-983-259-948-431-294-182-296-883-134-598-264",
+    "open_ts": 1781846224,
+    "open_price": 0.644,
+    "six_h_ago_ts": 1781823605,
+    "six_h_ago_price": 0.83,
+    "dp_6h": -0.18599999999999994,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1781932624,
+    "status": "open",
+    "opened_at_run_ts": 1781846296
+  },
+  {
+    "id": "112167494693_1781846174",
+    "token_id": "112167494693670070374012158031316259835270918322273580448971140019200998728736",
+    "market_id": "1961522",
+    "question": "Will no qualifying diplomatic US-Iran meeting occur by June 30, 2026?",
+    "slug": "will-no-qualifying-diplomatic-us-iran-meeting-occur-by-june-30-2026-673",
+    "open_ts": 1781846174,
+    "open_price": 0.332,
+    "six_h_ago_ts": 1781823604,
+    "six_h_ago_price": 0.178,
+    "dp_6h": 0.15400000000000003,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1781932574,
+    "status": "open",
+    "opened_at_run_ts": 1781846296
+  },
+  {
+    "id": "101154295897_1781846283",
+    "token_id": "101154295897234391521884209976339651384920907566595653811404560295401008143352",
+    "market_id": "2553312",
+    "question": "Will Wyndham Clark win the 2026 U.S. Open?",
+    "slug": "2026-us-open-winner-wyndham-clark-win",
+    "open_ts": 1781846283,
+    "open_price": 0.222,
+    "six_h_ago_ts": 1781823604,
+    "six_h_ago_price": 0.056,
+    "dp_6h": 0.166,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1781932683,
+    "status": "open",
+    "opened_at_run_ts": 1781846296
+  },
+  {
+    "id": "379905011747_1781846284",
+    "token_id": "37990501174735137591517735526095322438389460857906592211963839262045167211887",
+    "market_id": "2350552",
+    "question": "Will Gold (XAUUSD) hit (LOW) $4,000 in June?",
+    "slug": "will-xauusd-dip-to-4000-in-june-2026",
+    "open_ts": 1781846284,
+    "open_price": 0.4615,
+    "six_h_ago_ts": 1781823605,
+    "six_h_ago_price": 0.258,
+    "dp_6h": 0.20350000000000001,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1781932684,
+    "status": "open",
+    "opened_at_run_ts": 1781846296
   }
 ]
