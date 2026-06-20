@@ -38751,8 +38751,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1781932624,
-    "status": "open",
-    "opened_at_run_ts": 1781846296
+    "status": "closed",
+    "opened_at_run_ts": 1781846296,
+    "close_ts": 1781943904,
+    "close_price": 0.727,
+    "gross_pnl": 0.08299999999999996
   },
   {
     "id": "112167494693_1781846174",
@@ -38768,8 +38771,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1781932574,
-    "status": "open",
-    "opened_at_run_ts": 1781846296
+    "status": "closed",
+    "opened_at_run_ts": 1781846296,
+    "close_ts": 1781943963,
+    "close_price": 0.277,
+    "gross_pnl": 0.05499999999999999
   },
   {
     "id": "101154295897_1781846283",
@@ -38785,8 +38791,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1781932683,
-    "status": "open",
-    "opened_at_run_ts": 1781846296
+    "status": "closed",
+    "opened_at_run_ts": 1781846296,
+    "close_ts": 1781944023,
+    "close_price": 0.3355,
+    "gross_pnl": -0.11350000000000002
   },
   {
     "id": "379905011747_1781846284",
@@ -39790,5 +39799,22 @@
     "target_close_ts": 1782016563,
     "status": "open",
     "opened_at_run_ts": 1781930164
+  },
+  {
+    "id": "801196899490_1781944023",
+    "token_id": "80119689949063626503507937284478467611233487928605828276156518022312758208851",
+    "market_id": "2605368",
+    "question": "Dota 2: REKONIX vs Grind Back - Game 1 Winner",
+    "slug": "dota2-rnx-grind-2026-06-20-game1",
+    "open_ts": 1781944023,
+    "open_price": 0.855,
+    "six_h_ago_ts": 1781920804,
+    "six_h_ago_price": 0.645,
+    "dp_6h": 0.20999999999999996,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1782030423,
+    "status": "open",
+    "opened_at_run_ts": 1781944015
   }
 ]
