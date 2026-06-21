@@ -37006,8 +37006,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1781759044,
-    "status": "open",
-    "opened_at_run_ts": 1781672734
+    "status": "closed",
+    "opened_at_run_ts": 1781672734,
+    "close_ts": 1782022383,
+    "close_price": 0.845,
+    "gross_pnl": 0.020000000000000018
   },
   {
     "id": "192143944376_1781672704",
@@ -39812,8 +39815,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1782016563,
-    "status": "open",
-    "opened_at_run_ts": 1781930164
+    "status": "closed",
+    "opened_at_run_ts": 1781930164,
+    "close_ts": 1782022383,
+    "close_price": 0.785,
+    "gross_pnl": 0.07999999999999996
   },
   {
     "id": "801196899490_1781944023",
@@ -40698,5 +40704,73 @@
     "target_close_ts": 1782087484,
     "status": "open",
     "opened_at_run_ts": 1782001081
+  },
+  {
+    "id": "476271562452_1782022383",
+    "token_id": "47627156245251783687583534262371389178197340194543172182394570176460790734993",
+    "market_id": "2070748",
+    "question": "Will Ecuador advance to the knockout stages at the 2026 FIFA World Cup?",
+    "slug": "will-ecuador-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup",
+    "open_ts": 1782022383,
+    "open_price": 0.255,
+    "six_h_ago_ts": 1782000006,
+    "six_h_ago_price": 0.765,
+    "dp_6h": -0.51,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1782108783,
+    "status": "open",
+    "opened_at_run_ts": 1782022432
+  },
+  {
+    "id": "993972277103_1782022443",
+    "token_id": "9939722771037261472021553846820868563994869849866503445137009513942742777464",
+    "market_id": "2268864",
+    "question": "Will GPT-5.6 not be released by June 28, 2026?",
+    "slug": "will-gpt-5pt6-not-be-released-by-june-28-2026",
+    "open_ts": 1782022443,
+    "open_price": 0.7915,
+    "six_h_ago_ts": 1782000006,
+    "six_h_ago_price": 0.6145,
+    "dp_6h": 0.17699999999999994,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1782108843,
+    "status": "open",
+    "opened_at_run_ts": 1782022432
+  },
+  {
+    "id": "120731654309_1782022443",
+    "token_id": "12073165430996982753658238000689229606665189526888971326636569247881874469180",
+    "market_id": "2268863",
+    "question": "Will GPT-5.6 be released between June 22 and June 28, 2026?",
+    "slug": "will-gpt-5pt6-be-released-between-june-22-and-june-28-2026",
+    "open_ts": 1782022443,
+    "open_price": 0.196,
+    "six_h_ago_ts": 1782000010,
+    "six_h_ago_price": 0.386,
+    "dp_6h": -0.19,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1782108843,
+    "status": "open",
+    "opened_at_run_ts": 1782022432
+  },
+  {
+    "id": "775789655117_1782022443",
+    "token_id": "77578965511796005740764000576897074925310284728927732559272738215160848555444",
+    "market_id": "2556162",
+    "question": "Will Claude Fable 5 be restored for US customers by June 26?",
+    "slug": "will-claude-fable-5-be-restored-for-us-customers-by-june-26",
+    "open_ts": 1782022443,
+    "open_price": 0.355,
+    "six_h_ago_ts": 1782000006,
+    "six_h_ago_price": 0.505,
+    "dp_6h": -0.15000000000000002,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1782108843,
+    "status": "open",
+    "opened_at_run_ts": 1782022432
   }
 ]
