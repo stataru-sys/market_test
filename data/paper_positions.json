@@ -40348,8 +40348,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1782073323,
-    "status": "open",
-    "opened_at_run_ts": 1781986951
+    "status": "closed",
+    "opened_at_run_ts": 1781986951,
+    "close_ts": 1782077045,
+    "close_price": 0.745,
+    "gross_pnl": -0.17500000000000004
   },
   {
     "id": "905938809368_1781986923",
@@ -40382,8 +40385,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1782073323,
-    "status": "open",
-    "opened_at_run_ts": 1781986951
+    "status": "closed",
+    "opened_at_run_ts": 1781986951,
+    "close_ts": 1782077045,
+    "close_price": 0.825,
+    "gross_pnl": -0.12
   },
   {
     "id": "522926545858_1781986923",
@@ -40433,8 +40439,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1782073384,
-    "status": "open",
-    "opened_at_run_ts": 1781986951
+    "status": "closed",
+    "opened_at_run_ts": 1781986951,
+    "close_ts": 1782077104,
+    "close_price": 0.765,
+    "gross_pnl": 0.08999999999999997
   },
   {
     "id": "283645675121_1781993824",
@@ -41336,5 +41345,90 @@
     "target_close_ts": 1782158224,
     "status": "open",
     "opened_at_run_ts": 1782071832
+  },
+  {
+    "id": "417750149179_1782077045",
+    "token_id": "4177501491795881265361214460523564423092649812957809587753698885499066073139",
+    "market_id": "2628472",
+    "question": "Minnesota Twins vs. Arizona Diamondbacks: O/U 9.5",
+    "slug": "mlb-min-ari-2026-06-21-total-9pt5",
+    "open_ts": 1782077045,
+    "open_price": 0.14,
+    "six_h_ago_ts": 1782054010,
+    "six_h_ago_price": 0.485,
+    "dp_6h": -0.345,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1782163445,
+    "status": "open",
+    "opened_at_run_ts": 1782077083
+  },
+  {
+    "id": "359511163714_1782077045",
+    "token_id": "35951116371458287186265031921186803385975797731435947965055404490383958943122",
+    "market_id": "2552465",
+    "question": "Baltimore Orioles vs. Los Angeles Dodgers",
+    "slug": "mlb-bal-lad-2026-06-21",
+    "open_ts": 1782077045,
+    "open_price": 0.745,
+    "six_h_ago_ts": 1782054008,
+    "six_h_ago_price": 0.315,
+    "dp_6h": 0.43,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1782163445,
+    "status": "open",
+    "opened_at_run_ts": 1782077083
+  },
+  {
+    "id": "256327895374_1782077045",
+    "token_id": "25632789537444169747860124707788707627092861784778315801821725177524001127448",
+    "market_id": "2552463",
+    "question": "Los Angeles Angels vs. Athletics",
+    "slug": "mlb-laa-oak-2026-06-21",
+    "open_ts": 1782077045,
+    "open_price": 0.27,
+    "six_h_ago_ts": 1782054008,
+    "six_h_ago_price": 0.455,
+    "dp_6h": -0.185,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1782163445,
+    "status": "open",
+    "opened_at_run_ts": 1782077083
+  },
+  {
+    "id": "801148899662_1782077045",
+    "token_id": "80114889966288809287416495768967817867614640886463834627131950697738539578032",
+    "market_id": "2621138",
+    "question": "Spread: Los Angeles Dodgers (-1.5)",
+    "slug": "mlb-bal-lad-2026-06-21-spread-home-1pt5",
+    "open_ts": 1782077045,
+    "open_price": 0.115,
+    "six_h_ago_ts": 1782054008,
+    "six_h_ago_price": 0.505,
+    "dp_6h": -0.39,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1782163445,
+    "status": "open",
+    "opened_at_run_ts": 1782077083
+  },
+  {
+    "id": "993216335978_1782077104",
+    "token_id": "99321633597831181390903962340220460451021767803773731828899913833943125225395",
+    "market_id": "839439",
+    "question": "Will Belgium win Group G in the 2026 FIFA World Cup?",
+    "slug": "will-belgium-win-group-g-in-the-2026-fifa-world-cup",
+    "open_ts": 1782077104,
+    "open_price": 0.355,
+    "six_h_ago_ts": 1782054006,
+    "six_h_ago_price": 0.635,
+    "dp_6h": -0.28,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1782163504,
+    "status": "open",
+    "opened_at_run_ts": 1782077083
   }
 ]
