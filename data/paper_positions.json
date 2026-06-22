@@ -42080,5 +42080,39 @@
     "target_close_ts": 1782236766,
     "status": "open",
     "opened_at_run_ts": 1782150353
+  },
+  {
+    "id": "502093989715_1782162605",
+    "token_id": "50209398971519399284000775179611074649902036027295187840614394628070846895477",
+    "market_id": "2481374",
+    "question": "France vs. Iraq: 1st Half O/U 1.5",
+    "slug": "fifwc-fra-irq-2026-06-22-first-half-total-1pt5",
+    "open_ts": 1782162605,
+    "open_price": 0.375,
+    "six_h_ago_ts": 1782140410,
+    "six_h_ago_price": 0.535,
+    "dp_6h": -0.16000000000000003,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1782249005,
+    "status": "open",
+    "opened_at_run_ts": 1782162647
+  },
+  {
+    "id": "192143944376_1782162604",
+    "token_id": "19214394437683566921750936876376421489271269944393354497977881791256347396217",
+    "market_id": "2069635",
+    "question": "Will Lionel Messi be the top goalscorer at the 2026 FIFA World Cup?",
+    "slug": "will-lionel-messi-be-the-top-goalscorer-at-the-2026-fifa-world-cup",
+    "open_ts": 1782162604,
+    "open_price": 0.366,
+    "six_h_ago_ts": 1782140407,
+    "six_h_ago_price": 0.2085,
+    "dp_6h": 0.1575,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1782249004,
+    "status": "open",
+    "opened_at_run_ts": 1782162647
   }
 ]
