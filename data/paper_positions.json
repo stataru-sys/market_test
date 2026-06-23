@@ -41843,8 +41843,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1782217264,
-    "status": "open",
-    "opened_at_run_ts": 1782130926
+    "status": "closed",
+    "opened_at_run_ts": 1782130926,
+    "close_ts": 1782230585,
+    "close_price": 0.825,
+    "gross_pnl": -0.17999999999999994
   },
   {
     "id": "381285115964_1782130924",
@@ -41860,8 +41863,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1782217324,
-    "status": "open",
-    "opened_at_run_ts": 1782130926
+    "status": "closed",
+    "opened_at_run_ts": 1782130926,
+    "close_ts": 1782230644,
+    "close_price": 0.155,
+    "gross_pnl": -0.17
   },
   {
     "id": "101208868435_1782130864",
@@ -42797,5 +42803,56 @@
     "target_close_ts": 1782303124,
     "status": "open",
     "opened_at_run_ts": 1782216782
+  },
+  {
+    "id": "604491935261_1782230643",
+    "token_id": "60449193526140931377150432837218224763487311028920855569505996319628320220973",
+    "market_id": "2619352",
+    "question": "Lexus Eastbourne Open: Daniel Altmaier vs Aleksandar Kovacevic",
+    "slug": "atp-altmaie-kovacev-2026-06-22",
+    "open_ts": 1782230643,
+    "open_price": 0.715,
+    "six_h_ago_ts": 1782208804,
+    "six_h_ago_price": 0.515,
+    "dp_6h": 0.19999999999999996,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1782317043,
+    "status": "open",
+    "opened_at_run_ts": 1782230674
+  },
+  {
+    "id": "356946951340_1782230585",
+    "token_id": "35694695134069206839246741179320494158546223240250745536017732610706119001686",
+    "market_id": "2594006",
+    "question": "Counter-Strike: FOKUS vs OG (BO3) - DraculaN Group B",
+    "slug": "cs2-fokus-og1-2026-06-23",
+    "open_ts": 1782230585,
+    "open_price": 0.74,
+    "six_h_ago_ts": 1782208804,
+    "six_h_ago_price": 0.485,
+    "dp_6h": 0.255,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1782316985,
+    "status": "open",
+    "opened_at_run_ts": 1782230674
+  },
+  {
+    "id": "454095480101_1782230585",
+    "token_id": "45409548010194513740168039351556050379533845170381603466157799852112326132052",
+    "market_id": "2633113",
+    "question": "Dota 2: Power Rangers vs 4ikibamboni - Game 2 Winner",
+    "slug": "dota2-pr1-4iki-2026-06-22-game2",
+    "open_ts": 1782230585,
+    "open_price": 0.13,
+    "six_h_ago_ts": 1782208805,
+    "six_h_ago_price": 0.655,
+    "dp_6h": -0.525,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1782316985,
+    "status": "open",
+    "opened_at_run_ts": 1782230674
   }
 ]
