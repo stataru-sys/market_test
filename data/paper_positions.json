@@ -42121,8 +42121,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1782249004,
-    "status": "open",
-    "opened_at_run_ts": 1782162647
+    "status": "closed",
+    "opened_at_run_ts": 1782162647,
+    "close_ts": 1782253144,
+    "close_price": 0.3555,
+    "gross_pnl": 0.01050000000000001
   },
   {
     "id": "806309425811_1782171544",
@@ -43398,5 +43401,39 @@
     "target_close_ts": 1782335043,
     "status": "open",
     "opened_at_run_ts": 1782248663
+  },
+  {
+    "id": "456070014510_1782253204",
+    "token_id": "45607001451031619404200500562485197435064739747573501264915361000072472565906",
+    "market_id": "2645807",
+    "question": "Houston Astros vs. Toronto Blue Jays: O/U 10.5",
+    "slug": "mlb-hou-tor-2026-06-23-total-10pt5",
+    "open_ts": 1782253204,
+    "open_price": 0.18,
+    "six_h_ago_ts": 1782230404,
+    "six_h_ago_price": 0.33,
+    "dp_6h": -0.15000000000000002,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1782339604,
+    "status": "open",
+    "opened_at_run_ts": 1782253227
+  },
+  {
+    "id": "952572430471_1782253204",
+    "token_id": "95257243047130577330564578753316956505821753497450252018887404981959107946272",
+    "market_id": "2560250",
+    "question": "Will Elon Musk post 200-219 tweets from June 19 to June 26, 2026?",
+    "slug": "elon-musk-of-tweets-june-19-june-26-200-219",
+    "open_ts": 1782253204,
+    "open_price": 0.105,
+    "six_h_ago_ts": 1782230403,
+    "six_h_ago_price": 0.355,
+    "dp_6h": -0.25,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1782339604,
+    "status": "open",
+    "opened_at_run_ts": 1782253227
   }
 ]
