@@ -43383,8 +43383,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1782335044,
-    "status": "open",
-    "opened_at_run_ts": 1782248663
+    "status": "closed",
+    "opened_at_run_ts": 1782248663,
+    "close_ts": 1782337156,
+    "close_price": 0.38,
+    "gross_pnl": -0.135
   },
   {
     "id": "681778374808_1782248643",
@@ -43400,8 +43403,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1782335043,
-    "status": "open",
-    "opened_at_run_ts": 1782248663
+    "status": "closed",
+    "opened_at_run_ts": 1782248663,
+    "close_ts": 1782337156,
+    "close_price": 0.114,
+    "gross_pnl": 0.0715
   },
   {
     "id": "110105652059_1782248643",
@@ -44507,5 +44513,73 @@
     "target_close_ts": 1782417544,
     "status": "open",
     "opened_at_run_ts": 1782331208
+  },
+  {
+    "id": "156402824154_1782337084",
+    "token_id": "15640282415419796094609309710241780040605671546670301684535997982586091753812",
+    "market_id": "2595586",
+    "question": "Baltimore Orioles vs. Los Angeles Angels",
+    "slug": "mlb-bal-laa-2026-06-24",
+    "open_ts": 1782337084,
+    "open_price": 0.865,
+    "six_h_ago_ts": 1782316806,
+    "six_h_ago_price": 0.465,
+    "dp_6h": 0.39999999999999997,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1782423484,
+    "status": "open",
+    "opened_at_run_ts": 1782337196
+  },
+  {
+    "id": "380606584320_1782337156",
+    "token_id": "38060658432015378319276396787464037461448174638247630283589327303653984341739",
+    "market_id": "2652448",
+    "question": "Bitcoin Up or Down on June 25?",
+    "slug": "bitcoin-up-or-down-on-june-25-2026",
+    "open_ts": 1782337156,
+    "open_price": 0.735,
+    "six_h_ago_ts": 1782316806,
+    "six_h_ago_price": 0.505,
+    "dp_6h": 0.22999999999999998,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1782423556,
+    "status": "open",
+    "opened_at_run_ts": 1782337196
+  },
+  {
+    "id": "869916926010_1782337156",
+    "token_id": "86991692601096968193505372404313927080792042047957770911815441059208288831214",
+    "market_id": "2656866",
+    "question": "Baltimore Orioles vs. Los Angeles Angels: O/U 9.5",
+    "slug": "mlb-bal-laa-2026-06-24-total-9pt5",
+    "open_ts": 1782337156,
+    "open_price": 0.65,
+    "six_h_ago_ts": 1782316806,
+    "six_h_ago_price": 0.465,
+    "dp_6h": 0.185,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1782423556,
+    "status": "open",
+    "opened_at_run_ts": 1782337196
+  },
+  {
+    "id": "836605394889_1782337217",
+    "token_id": "83660539488960449516785355124951221216855523500567817433186575882810460845331",
+    "market_id": "2608000",
+    "question": "Will the price of Bitcoin be above $60,000 on June 26?",
+    "slug": "bitcoin-above-60k-on-june-26-2026",
+    "open_ts": 1782337217,
+    "open_price": 0.715,
+    "six_h_ago_ts": 1782316806,
+    "six_h_ago_price": 0.565,
+    "dp_6h": 0.15000000000000002,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1782423617,
+    "status": "open",
+    "opened_at_run_ts": 1782337196
   }
 ]
