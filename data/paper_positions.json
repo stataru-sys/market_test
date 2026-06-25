@@ -40752,8 +40752,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1782108783,
-    "status": "open",
-    "opened_at_run_ts": 1782022432
+    "status": "closed",
+    "opened_at_run_ts": 1782022432,
+    "close_ts": 1782361083,
+    "close_price": 0.195,
+    "gross_pnl": -0.06
   },
   {
     "id": "993972277103_1782022443",
@@ -43457,8 +43460,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1782339604,
-    "status": "open",
-    "opened_at_run_ts": 1782253227
+    "status": "closed",
+    "opened_at_run_ts": 1782253227,
+    "close_ts": 1782361083,
+    "close_price": 0.1595,
+    "gross_pnl": 0.05450000000000001
   },
   {
     "id": "109027609951_1782259503",
@@ -43746,8 +43752,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1782345845,
-    "status": "open",
-    "opened_at_run_ts": 1782259538
+    "status": "closed",
+    "opened_at_run_ts": 1782259538,
+    "close_ts": 1782361037,
+    "close_price": 0.55,
+    "gross_pnl": -0.20000000000000007
   },
   {
     "id": "430115949419_1782259444",
@@ -43780,8 +43789,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1782345844,
-    "status": "open",
-    "opened_at_run_ts": 1782259538
+    "status": "closed",
+    "opened_at_run_ts": 1782259538,
+    "close_ts": 1782361083,
+    "close_price": 0.215,
+    "gross_pnl": 0.04000000000000001
   },
   {
     "id": "558759230673_1782259504",
@@ -44921,5 +44933,22 @@
     "target_close_ts": 1782429425,
     "status": "open",
     "opened_at_run_ts": 1782343016
+  },
+  {
+    "id": "279560596900_1782361084",
+    "token_id": "2795605969001235670719617494663880900657443274144613117847190598195501764261",
+    "market_id": "2070741",
+    "question": "Will Scotland advance to the knockout stages at the 2026 FIFA World Cup?",
+    "slug": "will-scotland-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup",
+    "open_ts": 1782361084,
+    "open_price": 0.285,
+    "six_h_ago_ts": 1782338404,
+    "six_h_ago_price": 0.725,
+    "dp_6h": -0.44,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1782447484,
+    "status": "open",
+    "opened_at_run_ts": 1782361124
   }
 ]
