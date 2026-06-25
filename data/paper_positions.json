@@ -44538,8 +44538,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1782417544,
-    "status": "open",
-    "opened_at_run_ts": 1782331208
+    "status": "closed",
+    "opened_at_run_ts": 1782331208,
+    "close_ts": 1782427154,
+    "close_price": 0.53,
+    "gross_pnl": -0.015000000000000013
   },
   {
     "id": "156402824154_1782337084",
@@ -44606,8 +44609,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1782423617,
-    "status": "open",
-    "opened_at_run_ts": 1782337196
+    "status": "closed",
+    "opened_at_run_ts": 1782337196,
+    "close_ts": 1782427204,
+    "close_price": 0.415,
+    "gross_pnl": 0.3
   },
   {
     "id": "696073563572_1782342903",
@@ -45679,5 +45685,56 @@
     "target_close_ts": 1782505085,
     "status": "open",
     "opened_at_run_ts": 1782418705
+  },
+  {
+    "id": "114598918128_1782427097",
+    "token_id": "114598918128008649573289110164634285301775348261383142320713626791317488686608",
+    "market_id": "2070732",
+    "question": "Will South Korea advance to the knockout stages at the 2026 FIFA World Cup?",
+    "slug": "will-south-korea-advance-to-the-knockout-stages-at-the-2026-fifa-world-cup",
+    "open_ts": 1782427097,
+    "open_price": 0.725,
+    "six_h_ago_ts": 1782406822,
+    "six_h_ago_price": 0.875,
+    "dp_6h": -0.15000000000000002,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1782513497,
+    "status": "open",
+    "opened_at_run_ts": 1782427215
+  },
+  {
+    "id": "955881379323_1782427154",
+    "token_id": "95588137932362838176636112420630533217797671640630594256221534753579904609693",
+    "market_id": "2640077",
+    "question": "Piracicaba: Luis Felipe Miguel vs Thiago Seyboth Wild",
+    "slug": "atp-migu-wild-2026-06-23",
+    "open_ts": 1782427154,
+    "open_price": 0.135,
+    "six_h_ago_ts": 1782406822,
+    "six_h_ago_price": 0.305,
+    "dp_6h": -0.16999999999999998,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1782513554,
+    "status": "open",
+    "opened_at_run_ts": 1782427215
+  },
+  {
+    "id": "916690252728_1782427204",
+    "token_id": "91669025272830220264113912438822370378570935424283756421978414576644619107472",
+    "market_id": "2682801",
+    "question": "Counter-Strike: Sashi Esport vs Inner Circle Esports - Map 2 Winner",
+    "slug": "cs2-sashi-ice-2026-06-25-game2",
+    "open_ts": 1782427204,
+    "open_price": 0.23,
+    "six_h_ago_ts": 1782406822,
+    "six_h_ago_price": 0.47,
+    "dp_6h": -0.23999999999999996,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1782513604,
+    "status": "open",
+    "opened_at_run_ts": 1782427215
   }
 ]
