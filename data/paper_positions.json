@@ -45003,8 +45003,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1782462484,
-    "status": "open",
-    "opened_at_run_ts": 1782376151
+    "status": "closed",
+    "opened_at_run_ts": 1782376151,
+    "close_ts": 1782467163,
+    "close_price": 0.8645,
+    "gross_pnl": -0.35950000000000004
   },
   {
     "id": "373249096228_1782376084",
@@ -45020,8 +45023,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1782462484,
-    "status": "open",
-    "opened_at_run_ts": 1782376151
+    "status": "closed",
+    "opened_at_run_ts": 1782376151,
+    "close_ts": 1782467223,
+    "close_price": 0.71,
+    "gross_pnl": -0.19999999999999996
   },
   {
     "id": "723413897416_1782376084",
@@ -46042,5 +46048,73 @@
     "target_close_ts": 1782537425,
     "status": "open",
     "opened_at_run_ts": 1782451102
+  },
+  {
+    "id": "746356103092_1782467163",
+    "token_id": "74635610309288795854359990143770223022044182850617178707810846835198622934236",
+    "market_id": "2667086",
+    "question": "Dota 2: Enjoy vs HULIGANI - Game 2 Winner",
+    "slug": "dota2-enjoy-huliga-2026-06-26-game2",
+    "open_ts": 1782467163,
+    "open_price": 0.155,
+    "six_h_ago_ts": 1782446405,
+    "six_h_ago_price": 0.485,
+    "dp_6h": -0.32999999999999996,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1782553563,
+    "status": "open",
+    "opened_at_run_ts": 1782467223
+  },
+  {
+    "id": "340319745393_1782467104",
+    "token_id": "34031974539336707328666336275740502480948289528498185548550285243759548703104",
+    "market_id": "2667089",
+    "question": "Dota 2: Enjoy vs HULIGANI (BO3) - The International Europe Closed Qualifier Playoffs",
+    "slug": "dota2-enjoy-huliga-2026-06-26",
+    "open_ts": 1782467104,
+    "open_price": 0.135,
+    "six_h_ago_ts": 1782446405,
+    "six_h_ago_price": 0.475,
+    "dp_6h": -0.33999999999999997,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1782553504,
+    "status": "open",
+    "opened_at_run_ts": 1782467223
+  },
+  {
+    "id": "748920653759_1782467163",
+    "token_id": "74892065375939428292480379773204257423203902918902973369583694173326088469048",
+    "market_id": "1652697",
+    "question": "Will Crude Oil (CL) hit (LOW) $70 by end of June?",
+    "slug": "will-crude-oil-cl-hit-low-70-by-end-of-june-776-556-989-392-677-842-888-775-665-545-427-841",
+    "open_ts": 1782467163,
+    "open_price": 0.7735,
+    "six_h_ago_ts": 1782446404,
+    "six_h_ago_price": 0.5275,
+    "dp_6h": 0.246,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1782553563,
+    "status": "open",
+    "opened_at_run_ts": 1782467223
+  },
+  {
+    "id": "137786418639_1782467224",
+    "token_id": "13778641863926741726024219673381304043790452693783778764083351250752680780614",
+    "market_id": "2632926",
+    "question": "Will Ed Miliband be the next Chancellor of the Exchequer of the UK in 2026?",
+    "slug": "will-ed-miliband-be-the-next-chancellor-of-the-exchequer-of-the-uk-in-2026-20260621005429782",
+    "open_ts": 1782467224,
+    "open_price": 0.515,
+    "six_h_ago_ts": 1782446405,
+    "six_h_ago_price": 0.305,
+    "dp_6h": 0.21000000000000002,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1782553624,
+    "status": "open",
+    "opened_at_run_ts": 1782467223
   }
 ]
