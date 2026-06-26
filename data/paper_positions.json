@@ -45250,8 +45250,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1782485525,
-    "status": "open",
-    "opened_at_run_ts": 1782399194
+    "status": "closed",
+    "opened_at_run_ts": 1782399194,
+    "close_ts": 1782487623,
+    "close_price": 0.555,
+    "gross_pnl": 0.12
   },
   {
     "id": "890755794258_1782399126",
@@ -45267,8 +45270,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1782485526,
-    "status": "open",
-    "opened_at_run_ts": 1782399194
+    "status": "closed",
+    "opened_at_run_ts": 1782399194,
+    "close_ts": 1782487624,
+    "close_price": 0.355,
+    "gross_pnl": 0.16000000000000003
   },
   {
     "id": "754761670689_1782399195",
@@ -45318,8 +45324,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1782485526,
-    "status": "open",
-    "opened_at_run_ts": 1782399194
+    "status": "closed",
+    "opened_at_run_ts": 1782399194,
+    "close_ts": 1782487685,
+    "close_price": 0.32,
+    "gross_pnl": -0.185
   },
   {
     "id": "352602116559_1782399195",
@@ -45369,8 +45378,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1782485525,
-    "status": "open",
-    "opened_at_run_ts": 1782399194
+    "status": "closed",
+    "opened_at_run_ts": 1782399194,
+    "close_ts": 1782487623,
+    "close_price": 0.605,
+    "gross_pnl": -0.05499999999999994
   },
   {
     "id": "153572643170_1782399195",
@@ -45403,8 +45415,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1782485595,
-    "status": "open",
-    "opened_at_run_ts": 1782399194
+    "status": "closed",
+    "opened_at_run_ts": 1782399194,
+    "close_ts": 1782487684,
+    "close_price": 0.255,
+    "gross_pnl": 0.28500000000000003
   },
   {
     "id": "713077491652_1782399195",
@@ -46187,5 +46202,107 @@
     "target_close_ts": 1782562924,
     "status": "open",
     "opened_at_run_ts": 1782476513
+  },
+  {
+    "id": "567467798368_1782487744",
+    "token_id": "56746779836830574942335203194235763148559454373701813303874869858141646156703",
+    "market_id": "2652647",
+    "question": "T20 Series Ireland vs India: Ireland vs India",
+    "slug": "crint-irl4-ind4-2026-06-26",
+    "open_ts": 1782487744,
+    "open_price": 0.562,
+    "six_h_ago_ts": 1782464404,
+    "six_h_ago_price": 0.055,
+    "dp_6h": 0.507,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1782574144,
+    "status": "open",
+    "opened_at_run_ts": 1782487752
+  },
+  {
+    "id": "108833963583_1782487624",
+    "token_id": "108833963583758145008426428974438582902005275636990860765825481158720428601346",
+    "market_id": "2685630",
+    "question": "Bad Homburg Open: Gabriela Ruse vs Karolina Muchova",
+    "slug": "wta-ruse-muchova-2026-06-26",
+    "open_ts": 1782487624,
+    "open_price": 0.175,
+    "six_h_ago_ts": 1782464405,
+    "six_h_ago_price": 0.325,
+    "dp_6h": -0.15000000000000002,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1782574024,
+    "status": "open",
+    "opened_at_run_ts": 1782487752
+  },
+  {
+    "id": "106913232671_1782487684",
+    "token_id": "106913232671880362144268964652474586492136536104686502983588415249132347798398",
+    "market_id": "2681192",
+    "question": "S&P 500 (SPX) Up or Down on June 26?",
+    "slug": "spx-up-or-down-on-june-26-2026",
+    "open_ts": 1782487684,
+    "open_price": 0.675,
+    "six_h_ago_ts": 1782464406,
+    "six_h_ago_price": 0.34,
+    "dp_6h": 0.335,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1782574084,
+    "status": "open",
+    "opened_at_run_ts": 1782487752
+  },
+  {
+    "id": "334939853172_1782487685",
+    "token_id": "33493985317299668464755388849971449749859308189078036834623331958761485460143",
+    "market_id": "2681401",
+    "question": "SPY (SPY) Up or Down on June 26?",
+    "slug": "spy-up-or-down-on-june-26-2026",
+    "open_ts": 1782487685,
+    "open_price": 0.685,
+    "six_h_ago_ts": 1782464406,
+    "six_h_ago_price": 0.355,
+    "dp_6h": 0.33000000000000007,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1782574085,
+    "status": "open",
+    "opened_at_run_ts": 1782487752
+  },
+  {
+    "id": "637851576464_1782487685",
+    "token_id": "63785157646477430620014312609638390895044189940879417658313530039616376107403",
+    "market_id": "2682323",
+    "question": "Bitcoin Up or Down - June 26, 11:25AM-11:30AM ET",
+    "slug": "btc-updown-5m-1782487500",
+    "open_ts": 1782487685,
+    "open_price": 0.715,
+    "six_h_ago_ts": 1782464406,
+    "six_h_ago_price": 0.505,
+    "dp_6h": 0.20999999999999996,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1782574085,
+    "status": "open",
+    "opened_at_run_ts": 1782487752
+  },
+  {
+    "id": "369663784595_1782487744",
+    "token_id": "36966378459586592530780465208697648510675442568250668183832695655724612813891",
+    "market_id": "2647319",
+    "question": "Piracicaba: Matias Soto vs Gonzalo Villanueva",
+    "slug": "atp-soto-villanu-2026-06-24",
+    "open_ts": 1782487744,
+    "open_price": 0.265,
+    "six_h_ago_ts": 1782464404,
+    "six_h_ago_price": 0.625,
+    "dp_6h": -0.36,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1782574144,
+    "status": "open",
+    "opened_at_run_ts": 1782487752
   }
 ]
