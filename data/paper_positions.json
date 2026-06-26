@@ -46008,5 +46008,39 @@
     "target_close_ts": 1782519544,
     "status": "open",
     "opened_at_run_ts": 1782433172
+  },
+  {
+    "id": "490530782364_1782451084",
+    "token_id": "49053078236495651003078355877878735830677341629787166647746954541154300781540",
+    "market_id": "2668411",
+    "question": "Ethereum Up or Down on June 26?",
+    "slug": "ethereum-up-or-down-on-june-26-2026",
+    "open_ts": 1782451084,
+    "open_price": 0.325,
+    "six_h_ago_ts": 1782428405,
+    "six_h_ago_price": 0.485,
+    "dp_6h": -0.15999999999999998,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1782537484,
+    "status": "open",
+    "opened_at_run_ts": 1782451102
+  },
+  {
+    "id": "472616785446_1782451025",
+    "token_id": "47261678544624062967988741619371261758383473921649620648747764800085656004055",
+    "market_id": "2663077",
+    "question": "Will the highest temperature in Seoul be 25°C on June 26?",
+    "slug": "highest-temperature-in-seoul-on-june-26-2026-25c",
+    "open_ts": 1782451025,
+    "open_price": 0.867,
+    "six_h_ago_ts": 1782428405,
+    "six_h_ago_price": 0.0455,
+    "dp_6h": 0.8215,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1782537425,
+    "status": "open",
+    "opened_at_run_ts": 1782451102
   }
 ]
