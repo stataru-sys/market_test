@@ -46627,5 +46627,39 @@
     "target_close_ts": 1782590585,
     "status": "open",
     "opened_at_run_ts": 1782504202
+  },
+  {
+    "id": "758757977208_1782509824",
+    "token_id": "7587579772082472519001917660401183906547869384972109979989659783541312453703",
+    "market_id": "2686745",
+    "question": "Iran successfully targets shipping by June 27?",
+    "slug": "iran-successfully-targets-shipping-by-june-27-20260625215135368",
+    "open_ts": 1782509824,
+    "open_price": 0.115,
+    "six_h_ago_ts": 1782489607,
+    "six_h_ago_price": 0.275,
+    "dp_6h": -0.16000000000000003,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1782596224,
+    "status": "open",
+    "opened_at_run_ts": 1782509831
+  },
+  {
+    "id": "897595383920_1782509823",
+    "token_id": "89759538392054612017193612811169994279923997845867156340553739007685356024674",
+    "market_id": "2687786",
+    "question": "Dota 2: 4 Anchors and Ilmeria vs the bug (BO3) - The International North America Closed Qualifier Playoffs",
+    "slug": "dota2-4ancho-the-2026-06-26",
+    "open_ts": 1782509823,
+    "open_price": 0.685,
+    "six_h_ago_ts": 1782489604,
+    "six_h_ago_price": 0.405,
+    "dp_6h": 0.28,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1782596223,
+    "status": "open",
+    "opened_at_run_ts": 1782509831
   }
 ]
