@@ -47194,5 +47194,39 @@
     "target_close_ts": 1782641824,
     "status": "open",
     "opened_at_run_ts": 1782555517
+  },
+  {
+    "id": "730587295802_1782562384",
+    "token_id": "73058729580285878371523275440760704430184491818559347104041217912853711709800",
+    "market_id": "2692028",
+    "question": "Dota 2: Natus Vincere vs HULIGANI - Game 1 Winner",
+    "slug": "dota2-navi-huliga-2026-06-27-game1",
+    "open_ts": 1782562384,
+    "open_price": 0.49,
+    "six_h_ago_ts": 1782540007,
+    "six_h_ago_price": 0.675,
+    "dp_6h": -0.18500000000000005,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1782648784,
+    "status": "open",
+    "opened_at_run_ts": 1782562431
+  },
+  {
+    "id": "478116735825_1782562443",
+    "token_id": "47811673582558952245009680287707585026232131072140170919223165526459324296954",
+    "market_id": "2628963",
+    "question": "Counter-Strike: Just Players vs OlyBet SB (BO3) - CCT Europe Challengers Series Playoffs",
+    "slug": "cs2-justpl-oly-2026-06-27",
+    "open_ts": 1782562443,
+    "open_price": 0.505,
+    "six_h_ago_ts": 1782540004,
+    "six_h_ago_price": 0.805,
+    "dp_6h": -0.30000000000000004,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1782648843,
+    "status": "open",
+    "opened_at_run_ts": 1782562431
   }
 ]
