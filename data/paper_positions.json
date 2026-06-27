@@ -47330,5 +47330,22 @@
     "target_close_ts": 1782658205,
     "status": "open",
     "opened_at_run_ts": 1782571878
+  },
+  {
+    "id": "595146309644_1782576964",
+    "token_id": "59514630964464600333750413041220551045064625912554706613370099048924755021367",
+    "market_id": "2697925",
+    "question": "Dota 2: Power Rangers vs Yellow Submarine - Game 2 Winner",
+    "slug": "dota2-pr1-yes-2026-06-27-game2",
+    "open_ts": 1782576964,
+    "open_price": 0.27,
+    "six_h_ago_ts": 1782554405,
+    "six_h_ago_price": 0.475,
+    "dp_6h": -0.20499999999999996,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1782663364,
+    "status": "open",
+    "opened_at_run_ts": 1782576958
   }
 ]
