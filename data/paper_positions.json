@@ -47113,8 +47113,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1782633245,
-    "status": "open",
-    "opened_at_run_ts": 1782546905
+    "status": "closed",
+    "opened_at_run_ts": 1782546905,
+    "close_ts": 1782638825,
+    "close_price": 0.295,
+    "gross_pnl": 0.07999999999999999
   },
   {
     "id": "317279591509_1782546844",
@@ -48288,5 +48291,39 @@
     "target_close_ts": 1782710705,
     "status": "open",
     "opened_at_run_ts": 1782624318
+  },
+  {
+    "id": "549806493034_1782638825",
+    "token_id": "54980649303497858981885671225799559392624493025721694401587848378503520085885",
+    "market_id": "2682434",
+    "question": "Will Elon Musk post <40 tweets from June 27 to June 29, 2026?",
+    "slug": "elon-musk-of-tweets-june-27-june-29-0-39",
+    "open_ts": 1782638825,
+    "open_price": 0.505,
+    "six_h_ago_ts": 1782615608,
+    "six_h_ago_price": 0.31,
+    "dp_6h": 0.195,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1782725225,
+    "status": "open",
+    "opened_at_run_ts": 1782638829
+  },
+  {
+    "id": "541598928332_1782638825",
+    "token_id": "54159892833283073881416263581442544230071073095140978449177850166470815730130",
+    "market_id": "2554159",
+    "question": "LoL: Karmine Corp vs Deep Cross Gaming - Game 4 Winner",
+    "slug": "lol-kc-dcg-2026-06-27-game4",
+    "open_ts": 1782638825,
+    "open_price": 0.505,
+    "six_h_ago_ts": 1782615607,
+    "six_h_ago_price": 0.655,
+    "dp_6h": -0.15000000000000002,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1782725225,
+    "status": "open",
+    "opened_at_run_ts": 1782638829
   }
 ]
