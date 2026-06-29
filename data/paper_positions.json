@@ -49368,5 +49368,22 @@
     "target_close_ts": 1782799266,
     "status": "open",
     "opened_at_run_ts": 1782712866
+  },
+  {
+    "id": "448768355690_1782732004",
+    "token_id": "44876835569061465454026722424833591033194113871360181515573231006022733513370",
+    "market_id": "2702116",
+    "question": "Wimbledon ATP: Andrey Rublev vs Roman Safiullin",
+    "slug": "atp-rublev-safiull-2026-06-29",
+    "open_ts": 1782732004,
+    "open_price": 0.345,
+    "six_h_ago_ts": 1782709205,
+    "six_h_ago_price": 0.675,
+    "dp_6h": -0.33000000000000007,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1782818404,
+    "status": "open",
+    "opened_at_run_ts": 1782732033
   }
 ]
