@@ -50682,8 +50682,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1782936905,
-    "status": "open",
-    "opened_at_run_ts": 1782850515
+    "status": "closed",
+    "opened_at_run_ts": 1782850515,
+    "close_ts": 1782944587,
+    "close_price": 0.356,
+    "gross_pnl": -0.0040000000000000036
   },
   {
     "id": "585053142829_1782850444",
@@ -50801,8 +50804,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1782944404,
-    "status": "open",
-    "opened_at_run_ts": 1782858071
+    "status": "closed",
+    "opened_at_run_ts": 1782858071,
+    "close_ts": 1782944644,
+    "close_price": 0.275,
+    "gross_pnl": 0.0
   },
   {
     "id": "118467522731_1782858066",
@@ -50886,8 +50892,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1782944466,
-    "status": "open",
-    "opened_at_run_ts": 1782858071
+    "status": "closed",
+    "opened_at_run_ts": 1782858071,
+    "close_ts": 1782944587,
+    "close_price": 0.145,
+    "gross_pnl": -0.07
   },
   {
     "id": "577578969359_1782864965",
@@ -51381,5 +51390,56 @@
     "target_close_ts": 1783022826,
     "status": "open",
     "opened_at_run_ts": 1782936483
+  },
+  {
+    "id": "281170448642_1782944644",
+    "token_id": "2811704486428638244798502648106248146981810309991105051737836992129914957366",
+    "market_id": "2733677",
+    "question": "Belgium vs. Senegal: Will the Match Go to a Penalty Shootout?",
+    "slug": "fifwc-bel-sen-2026-07-01-penalty-shootout",
+    "open_ts": 1782944644,
+    "open_price": 0.689,
+    "six_h_ago_ts": 1782921607,
+    "six_h_ago_price": 0.185,
+    "dp_6h": 0.504,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1783031044,
+    "status": "open",
+    "opened_at_run_ts": 1782944635
+  },
+  {
+    "id": "396067403603_1782944586",
+    "token_id": "39606740360310252841839591717489009785470666088849840237188177299067399196011",
+    "market_id": "2725516",
+    "question": "Will Bitcoin reach $62,000 June 29-July 5?",
+    "slug": "will-bitcoin-reach-62k-june-29-july-5-2026",
+    "open_ts": 1782944586,
+    "open_price": 0.69,
+    "six_h_ago_ts": 1782921607,
+    "six_h_ago_price": 0.455,
+    "dp_6h": 0.23499999999999993,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1783030986,
+    "status": "open",
+    "opened_at_run_ts": 1782944635
+  },
+  {
+    "id": "998035997953_1782944644",
+    "token_id": "99803599795307959680255996131993979581525090088504395850862538040789988092384",
+    "market_id": "2747673",
+    "question": "Milan: Completed Match: Elmer Moeller vs Pierluigi Basile",
+    "slug": "atp-moeller-basile-2026-07-02-completed-match",
+    "open_ts": 1782944644,
+    "open_price": 0.765,
+    "six_h_ago_ts": 1782921607,
+    "six_h_ago_price": 0.385,
+    "dp_6h": 0.38,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1783031044,
+    "status": "open",
+    "opened_at_run_ts": 1782944635
   }
 ]
