@@ -51347,5 +51347,39 @@
     "target_close_ts": 1783015563,
     "status": "open",
     "opened_at_run_ts": 1782929195
+  },
+  {
+    "id": "169718463421_1782936425",
+    "token_id": "16971846342197618618941393619262658900181763981170513436175995951281079646062",
+    "market_id": "2731661",
+    "question": "Wimbledon ATP: Rafael Jodar vs Pablo Carreno Busta",
+    "slug": "atp-jodar-busta-2026-07-01",
+    "open_ts": 1782936425,
+    "open_price": 0.415,
+    "six_h_ago_ts": 1782914404,
+    "six_h_ago_price": 0.785,
+    "dp_6h": -0.37000000000000005,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1783022825,
+    "status": "open",
+    "opened_at_run_ts": 1782936483
+  },
+  {
+    "id": "933242689171_1782936426",
+    "token_id": "93324268917178117917853960396036158325432395749403202258960564032292882660999",
+    "market_id": "2681788",
+    "question": "New York Mets vs. Toronto Blue Jays",
+    "slug": "mlb-nym-tor-2026-07-01",
+    "open_ts": 1782936426,
+    "open_price": 0.345,
+    "six_h_ago_ts": 1782914405,
+    "six_h_ago_price": 0.515,
+    "dp_6h": -0.17000000000000004,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1783022826,
+    "status": "open",
+    "opened_at_run_ts": 1782936483
   }
 ]
