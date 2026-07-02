@@ -49537,8 +49537,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1782835445,
-    "status": "open",
-    "opened_at_run_ts": 1782749094
+    "status": "closed",
+    "opened_at_run_ts": 1782749094,
+    "close_ts": 1783030456,
+    "close_price": 0.165,
+    "gross_pnl": 0.625
   },
   {
     "id": "570923234518_1782757085",
@@ -52172,5 +52175,39 @@
     "target_close_ts": 1783110245,
     "status": "open",
     "opened_at_run_ts": 1783023903
+  },
+  {
+    "id": "654788193448_1783030504",
+    "token_id": "65478819344871746966464318272963076334412052678974008751029824008167301478941",
+    "market_id": "2448339",
+    "question": "Will Taylor Swift get married in Manhattan?",
+    "slug": "will-taylor-swift-get-married-in-manhattan-20260605211638230",
+    "open_ts": 1783030504,
+    "open_price": 0.8315,
+    "six_h_ago_ts": 1783008005,
+    "six_h_ago_price": 0.9815,
+    "dp_6h": -0.15000000000000002,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1783116904,
+    "status": "open",
+    "opened_at_run_ts": 1783030503
+  },
+  {
+    "id": "105667846082_1783030504",
+    "token_id": "105667846082571222520727752998080165393601274506111882615685951092246802139152",
+    "market_id": "2647249",
+    "question": "Will Elon Musk post 200-219 tweets from June 26 to July 3, 2026?",
+    "slug": "elon-musk-of-tweets-june-26-july-3-200-219",
+    "open_ts": 1783030504,
+    "open_price": 0.42,
+    "six_h_ago_ts": 1783008006,
+    "six_h_ago_price": 0.575,
+    "dp_6h": -0.15499999999999997,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1783116904,
+    "status": "open",
+    "opened_at_run_ts": 1783030503
   }
 ]
