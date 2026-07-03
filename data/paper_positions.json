@@ -51578,8 +51578,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1783066863,
-    "status": "open",
-    "opened_at_run_ts": 1782980528
+    "status": "closed",
+    "opened_at_run_ts": 1782980528,
+    "close_ts": 1783078685,
+    "close_price": 0.8465,
+    "gross_pnl": -0.599
   },
   {
     "id": "349275130522_1782980524",
@@ -52634,5 +52637,56 @@
     "target_close_ts": 1783153084,
     "status": "open",
     "opened_at_run_ts": 1783066761
+  },
+  {
+    "id": "771739565112_1783078685",
+    "token_id": "77173956511293220898313690057507217644475510734044206567082952097773801746107",
+    "market_id": "2761222",
+    "question": "Wimbledon ATP: Roman Safiullin vs Joao Fonseca",
+    "slug": "atp-safiull-fonseca-2026-07-03",
+    "open_ts": 1783078685,
+    "open_price": 0.785,
+    "six_h_ago_ts": 1783058412,
+    "six_h_ago_price": 0.245,
+    "dp_6h": 0.54,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1783165085,
+    "status": "open",
+    "opened_at_run_ts": 1783078746
+  },
+  {
+    "id": "507713118053_1783078685",
+    "token_id": "50771311805338368964020097639756248056470721923795027749194955348287834615038",
+    "market_id": "2757976",
+    "question": "Bitcoin Up or Down on July 3?",
+    "slug": "bitcoin-up-or-down-on-july-3-2026",
+    "open_ts": 1783078685,
+    "open_price": 0.755,
+    "six_h_ago_ts": 1783058408,
+    "six_h_ago_price": 0.535,
+    "dp_6h": 0.21999999999999997,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1783165085,
+    "status": "open",
+    "opened_at_run_ts": 1783078746
+  },
+  {
+    "id": "557759197488_1783078685",
+    "token_id": "55775919748837698753266475078926332860601234534951521939670812972948805982891",
+    "market_id": "2720535",
+    "question": "Valorant: MIBR vs Global Esports (BO3) - Esports World Cup Group D",
+    "slug": "val-mibr-ge1-2026-07-03",
+    "open_ts": 1783078685,
+    "open_price": 0.815,
+    "six_h_ago_ts": 1783058411,
+    "six_h_ago_price": 0.605,
+    "dp_6h": 0.20999999999999996,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1783165085,
+    "status": "open",
+    "opened_at_run_ts": 1783078746
   }
 ]
