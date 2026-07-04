@@ -52647,8 +52647,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1783153084,
-    "status": "open",
-    "opened_at_run_ts": 1783066761
+    "status": "closed",
+    "opened_at_run_ts": 1783066761,
+    "close_ts": 1783206544,
+    "close_price": 0.105,
+    "gross_pnl": 0.405
   },
   {
     "id": "771739565112_1783078685",
@@ -54253,5 +54256,22 @@
     "target_close_ts": 1783289105,
     "status": "open",
     "opened_at_run_ts": 1783202787
+  },
+  {
+    "id": "907960063518_1783206605",
+    "token_id": "90796006351853995650404314936125045731548930997383665136311238214255494842022",
+    "market_id": "2769911",
+    "question": "Major League Cricket: Washington Freedom vs San Francisco Unicorns",
+    "slug": "cricmlc-was-san-2026-07-04",
+    "open_ts": 1783206605,
+    "open_price": 0.825,
+    "six_h_ago_ts": 1783184411,
+    "six_h_ago_price": 0.455,
+    "dp_6h": 0.36999999999999994,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1783293005,
+    "status": "open",
+    "opened_at_run_ts": 1783206633
   }
 ]
