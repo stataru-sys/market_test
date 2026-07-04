@@ -53295,5 +53295,22 @@
     "target_close_ts": 1783226644,
     "status": "open",
     "opened_at_run_ts": 1783140231
+  },
+  {
+    "id": "183385262873_1783151644",
+    "token_id": "18338526287368478993779204037102111695095084727315742471113472197658379509221",
+    "market_id": "2787488",
+    "question": "Counter-Strike: PARIVISION vs MIBR (BO3) - XSE Pro League Group Stage",
+    "slug": "cs2-prv-mibr-2026-07-04",
+    "open_ts": 1783151644,
+    "open_price": 0.325,
+    "six_h_ago_ts": 1783130404,
+    "six_h_ago_price": 0.495,
+    "dp_6h": -0.16999999999999998,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1783238044,
+    "status": "open",
+    "opened_at_run_ts": 1783151680
   }
 ]
