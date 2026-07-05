@@ -54602,5 +54602,39 @@
     "target_close_ts": 1783346464,
     "status": "open",
     "opened_at_run_ts": 1783260055
+  },
+  {
+    "id": "691541552652_1783264819",
+    "token_id": "69154155265269091795581538227198631169162081197782851071228936108190660508180",
+    "market_id": "2743843",
+    "question": "Will \"Young Washington\" Opening Weekend Box Office be between 20m and 22m?",
+    "slug": "will-young-washington-opening-weekend-box-office-be-between-20m-and-22m",
+    "open_ts": 1783264819,
+    "open_price": 0.465,
+    "six_h_ago_ts": 1783242006,
+    "six_h_ago_price": 0.212,
+    "dp_6h": 0.253,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1783351219,
+    "status": "open",
+    "opened_at_run_ts": 1783264879
+  },
+  {
+    "id": "111464597123_1783264819",
+    "token_id": "111464597123606609697073480598411509365726206256055583641842783430469811497015",
+    "market_id": "2785431",
+    "question": "Set Handicap: Djokovic (-2.5) vs Safiullin (+2.5)",
+    "slug": "atp-safiull-djokovi-2026-07-05-set-handicap-away-2pt5",
+    "open_ts": 1783264819,
+    "open_price": 0.19,
+    "six_h_ago_ts": 1783242008,
+    "six_h_ago_price": 0.425,
+    "dp_6h": -0.235,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1783351219,
+    "status": "open",
+    "opened_at_run_ts": 1783264879
   }
 ]
