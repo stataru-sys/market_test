@@ -52018,8 +52018,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1783104063,
-    "status": "open",
-    "opened_at_run_ts": 1783017742
+    "status": "closed",
+    "opened_at_run_ts": 1783017742,
+    "close_ts": 1783400464,
+    "close_price": 0.11,
+    "gross_pnl": -0.02500000000000001
   },
   {
     "id": "799679991374_1783017724",
@@ -54748,8 +54751,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1783358524,
-    "status": "open",
-    "opened_at_run_ts": 1783272157
+    "status": "closed",
+    "opened_at_run_ts": 1783272157,
+    "close_ts": 1783400465,
+    "close_price": 0.13,
+    "gross_pnl": -0.0050000000000000044
   },
   {
     "id": "230842571902_1783280283",
@@ -56076,5 +56082,56 @@
     "target_close_ts": 1783469704,
     "status": "open",
     "opened_at_run_ts": 1783383391
+  },
+  {
+    "id": "123597527691_1783400464",
+    "token_id": "12359752769138801372582463335622813576065122420809983543708052585952435089225",
+    "market_id": "2807499",
+    "question": "Ethereum Up or Down on July 7?",
+    "slug": "ethereum-up-or-down-on-july-7-2026",
+    "open_ts": 1783400464,
+    "open_price": 0.305,
+    "six_h_ago_ts": 1783378804,
+    "six_h_ago_price": 0.725,
+    "dp_6h": -0.42,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1783486864,
+    "status": "open",
+    "opened_at_run_ts": 1783400520
+  },
+  {
+    "id": "152070776997_1783400465",
+    "token_id": "15207077699769899787532436647298309225932262385125071975155288580064531950540",
+    "market_id": "2802048",
+    "question": "Will the highest temperature in Hong Kong be 28°C on July 7?",
+    "slug": "highest-temperature-in-hong-kong-on-july-7-2026-28c",
+    "open_ts": 1783400465,
+    "open_price": 0.212,
+    "six_h_ago_ts": 1783378805,
+    "six_h_ago_price": 0.024,
+    "dp_6h": 0.188,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1783486865,
+    "status": "open",
+    "opened_at_run_ts": 1783400520
+  },
+  {
+    "id": "967009432039_1783400524",
+    "token_id": "96700943203952842422360684620025893137120726066116915364149883834209846171006",
+    "market_id": "2801987",
+    "question": "Will the highest temperature in Seoul be 30°C or higher on July 7?",
+    "slug": "highest-temperature-in-seoul-on-july-7-2026-30corhigher",
+    "open_ts": 1783400524,
+    "open_price": 0.3605,
+    "six_h_ago_ts": 1783378805,
+    "six_h_ago_price": 0.012,
+    "dp_6h": 0.3485,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1783486924,
+    "status": "open",
+    "opened_at_run_ts": 1783400520
   }
 ]
