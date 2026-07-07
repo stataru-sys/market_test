@@ -52633,8 +52633,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1783153084,
-    "status": "open",
-    "opened_at_run_ts": 1783066761
+    "status": "closed",
+    "opened_at_run_ts": 1783066761,
+    "close_ts": 1783462625,
+    "close_price": 0.0925,
+    "gross_pnl": 0.4075
   },
   {
     "id": "638080627155_1783066684",
@@ -56845,5 +56848,56 @@
     "target_close_ts": 1783544045,
     "status": "open",
     "opened_at_run_ts": 1783457705
+  },
+  {
+    "id": "161134577580_1783462684",
+    "token_id": "1611345775809694567877711834756446874266661968596584263456098114647626140360",
+    "market_id": "2793926",
+    "question": "Switzerland vs. Colombia: Will the Match Go to a Penalty Shootout?",
+    "slug": "fifwc-che-col-2026-07-07-penalty-shootout",
+    "open_ts": 1783462684,
+    "open_price": 0.695,
+    "six_h_ago_ts": 1783440005,
+    "six_h_ago_price": 0.19,
+    "dp_6h": 0.5049999999999999,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1783549084,
+    "status": "open",
+    "opened_at_run_ts": 1783462730
+  },
+  {
+    "id": "611856933730_1783462626",
+    "token_id": "61185693373091340617494150277851514641770797636186465474956889484881632951438",
+    "market_id": "2685911",
+    "question": "US x Iran diplomatic meeting by July 17, 2026?",
+    "slug": "us-x-iran-diplomatic-meeting-by-july-17-2026-20260625223459704",
+    "open_ts": 1783462626,
+    "open_price": 0.22,
+    "six_h_ago_ts": 1783440007,
+    "six_h_ago_price": 0.38,
+    "dp_6h": -0.16,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1783549026,
+    "status": "open",
+    "opened_at_run_ts": 1783462730
+  },
+  {
+    "id": "412592080944_1783462684",
+    "token_id": "41259208094425757830603261819318500431669125443728026945498413357428301958335",
+    "market_id": "2816495",
+    "question": "Counter-Strike: Bounty Hunters Esports vs MIBR Academy (BO3) - CCT South America Series 3 Playoffs",
+    "slug": "cs2-bhe-mibra-2026-07-07",
+    "open_ts": 1783462684,
+    "open_price": 0.585,
+    "six_h_ago_ts": 1783440006,
+    "six_h_ago_price": 0.755,
+    "dp_6h": -0.17000000000000004,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1783549084,
+    "status": "open",
+    "opened_at_run_ts": 1783462730
   }
 ]
