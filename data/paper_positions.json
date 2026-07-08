@@ -57375,5 +57375,22 @@
     "target_close_ts": 1783571045,
     "status": "open",
     "opened_at_run_ts": 1783484651
+  },
+  {
+    "id": "268295445560_1783496224",
+    "token_id": "26829544556005620877600161455213875245587596054462031408260423398044932014639",
+    "market_id": "2815244",
+    "question": "LoL: G2 Esports vs T1 (BO5) - Mid-Season Invitational Playoffs",
+    "slug": "lol-g2-t1-2026-07-08",
+    "open_ts": 1783496224,
+    "open_price": 0.665,
+    "six_h_ago_ts": 1783476004,
+    "six_h_ago_price": 0.145,
+    "dp_6h": 0.52,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1783582624,
+    "status": "open",
+    "opened_at_run_ts": 1783496280
   }
 ]
