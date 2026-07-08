@@ -57698,5 +57698,39 @@
     "target_close_ts": 1783610889,
     "status": "open",
     "opened_at_run_ts": 1783524560
+  },
+  {
+    "id": "647075326805_1783532825",
+    "token_id": "64707532680523293681267013042486106932686402978203738197163957979762588211711",
+    "market_id": "2822410",
+    "question": "Liege: Miguel Damas vs Gilles Arnaud Bailly",
+    "slug": "atp-damas-bailly-2026-07-08",
+    "open_ts": 1783532825,
+    "open_price": 0.215,
+    "six_h_ago_ts": 1783512007,
+    "six_h_ago_price": 0.415,
+    "dp_6h": -0.19999999999999998,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1783619225,
+    "status": "open",
+    "opened_at_run_ts": 1783532881
+  },
+  {
+    "id": "412234025676_1783532766",
+    "token_id": "41223402567676035550638768238652214123631578466219593111572244890508046426322",
+    "market_id": "2670742",
+    "question": "Will FC Petrocub Hînceşti win on 2026-07-08?",
+    "slug": "ucl-pet-egn-2026-07-08-pet",
+    "open_ts": 1783532766,
+    "open_price": 0.235,
+    "six_h_ago_ts": 1783512005,
+    "six_h_ago_price": 0.435,
+    "dp_6h": -0.2,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1783619166,
+    "status": "open",
+    "opened_at_run_ts": 1783532881
   }
 ]
