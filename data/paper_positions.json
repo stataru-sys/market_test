@@ -56659,8 +56659,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1783544045,
-    "status": "open",
-    "opened_at_run_ts": 1783457705
+    "status": "closed",
+    "opened_at_run_ts": 1783457705,
+    "close_ts": 1783545545,
+    "close_price": 0.2485,
+    "gross_pnl": 0.03699999999999998
   },
   {
     "id": "275613033512_1783457583",
@@ -56795,8 +56798,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1783544045,
-    "status": "open",
-    "opened_at_run_ts": 1783457705
+    "status": "closed",
+    "opened_at_run_ts": 1783457705,
+    "close_ts": 1783545485,
+    "close_price": 0.185,
+    "gross_pnl": -0.09500000000000003
   },
   {
     "id": "101605001217_1783457645",
@@ -56846,8 +56852,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1783544045,
-    "status": "open",
-    "opened_at_run_ts": 1783457705
+    "status": "closed",
+    "opened_at_run_ts": 1783457705,
+    "close_ts": 1783545485,
+    "close_price": 0.59,
+    "gross_pnl": -0.24999999999999994
   },
   {
     "id": "161134577580_1783462684",
@@ -57783,5 +57792,39 @@
     "target_close_ts": 1783626485,
     "status": "open",
     "opened_at_run_ts": 1783540107
+  },
+  {
+    "id": "252057189908_1783545484",
+    "token_id": "25205718990879449865261023410797105845475921348996415699171754047559693889478",
+    "market_id": "2812464",
+    "question": "Newport: Alexis Galarneau vs Juan Pablo Ficovich",
+    "slug": "atp-galarne-ficovic-2026-07-07",
+    "open_ts": 1783545484,
+    "open_price": 0.595,
+    "six_h_ago_ts": 1783522806,
+    "six_h_ago_price": 0.755,
+    "dp_6h": -0.16000000000000003,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1783631884,
+    "status": "open",
+    "opened_at_run_ts": 1783545551
+  },
+  {
+    "id": "388384992365_1783545484",
+    "token_id": "38838499236530435947496807571021825408912957849226103739106620531552499968390",
+    "market_id": "2738403",
+    "question": "Will Elon Musk post 140-159 tweets from July 3 to July 10, 2026?",
+    "slug": "elon-musk-of-tweets-july-3-july-10-140-159",
+    "open_ts": 1783545484,
+    "open_price": 0.4245,
+    "six_h_ago_ts": 1783522806,
+    "six_h_ago_price": 0.1855,
+    "dp_6h": 0.239,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1783631884,
+    "status": "open",
+    "opened_at_run_ts": 1783545551
   }
 ]
