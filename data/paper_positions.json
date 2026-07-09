@@ -57201,8 +57201,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1783570923,
-    "status": "open",
-    "opened_at_run_ts": 1783484651
+    "status": "closed",
+    "opened_at_run_ts": 1783484651,
+    "close_ts": 1783583585,
+    "close_price": 0.2595,
+    "gross_pnl": 0.004500000000000004
   },
   {
     "id": "484752366992_1783484584",
@@ -57371,8 +57374,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1783570985,
-    "status": "open",
-    "opened_at_run_ts": 1783484651
+    "status": "closed",
+    "opened_at_run_ts": 1783484651,
+    "close_ts": 1783583645,
+    "close_price": 0.525,
+    "gross_pnl": 0.020000000000000018
   },
   {
     "id": "130349664272_1783484645",
@@ -58002,5 +58008,56 @@
     "target_close_ts": 1783656305,
     "status": "open",
     "opened_at_run_ts": 1783569985
+  },
+  {
+    "id": "558884330719_1783583644",
+    "token_id": "55888433071933389212533753015015185974116963650167554669973296582849485251051",
+    "market_id": "2738409",
+    "question": "Will Elon Musk post 180-199 tweets from July 3 to July 10, 2026?",
+    "slug": "elon-musk-of-tweets-july-3-july-10-180-199",
+    "open_ts": 1783583644,
+    "open_price": 0.2265,
+    "six_h_ago_ts": 1783562403,
+    "six_h_ago_price": 0.0305,
+    "dp_6h": 0.196,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1783670044,
+    "status": "open",
+    "opened_at_run_ts": 1783583692
+  },
+  {
+    "id": "109618979554_1783583704",
+    "token_id": "109618979554030817434894877208336743947312913742630124041815883575987401398433",
+    "market_id": "2833089",
+    "question": "Ethereum Up or Down on July 9?",
+    "slug": "ethereum-up-or-down-on-july-9-2026",
+    "open_ts": 1783583704,
+    "open_price": 0.875,
+    "six_h_ago_ts": 1783562403,
+    "six_h_ago_price": 0.595,
+    "dp_6h": 0.28,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1783670104,
+    "status": "open",
+    "opened_at_run_ts": 1783583692
+  },
+  {
+    "id": "905893991827_1783583585",
+    "token_id": "90589399182744845204027974594730248079778935919826054782158813843443992367088",
+    "market_id": "2812312",
+    "question": "Will Bitcoin dip to $60,000 July 6-12?",
+    "slug": "will-bitcoin-dip-to-60k-july-6-12-2026",
+    "open_ts": 1783583585,
+    "open_price": 0.145,
+    "six_h_ago_ts": 1783562404,
+    "six_h_ago_price": 0.395,
+    "dp_6h": -0.25,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1783669985,
+    "status": "open",
+    "opened_at_run_ts": 1783583692
   }
 ]
