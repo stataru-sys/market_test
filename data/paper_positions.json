@@ -57968,5 +57968,39 @@
     "target_close_ts": 1783639146,
     "status": "open",
     "opened_at_run_ts": 1783552746
+  },
+  {
+    "id": "109459740632_1783569905",
+    "token_id": "109459740632089527957379452312803311968550881634808048605690452646252910780645",
+    "market_id": "2768606",
+    "question": "Colorado Rockies vs. Los Angeles Dodgers",
+    "slug": "mlb-col-lad-2026-07-08",
+    "open_ts": 1783569905,
+    "open_price": 0.465,
+    "six_h_ago_ts": 1783548006,
+    "six_h_ago_price": 0.305,
+    "dp_6h": 0.16000000000000003,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1783656305,
+    "status": "open",
+    "opened_at_run_ts": 1783569985
+  },
+  {
+    "id": "160845016143_1783569905",
+    "token_id": "16084501614369917333061281336780317803667314052596451896078632665258101720553",
+    "market_id": "2812555",
+    "question": "Newport: Sahaja Yamalapalli vs Anna Rogers",
+    "slug": "wta-yamalap-rogers-2026-07-07",
+    "open_ts": 1783569905,
+    "open_price": 0.305,
+    "six_h_ago_ts": 1783548007,
+    "six_h_ago_price": 0.5855,
+    "dp_6h": -0.2805,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1783656305,
+    "status": "open",
+    "opened_at_run_ts": 1783569985
   }
 ]
