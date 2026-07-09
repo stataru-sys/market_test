@@ -57479,8 +57479,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1783592884,
-    "status": "open",
-    "opened_at_run_ts": 1783506513
+    "status": "closed",
+    "opened_at_run_ts": 1783506513,
+    "close_ts": 1783595644,
+    "close_price": 0.155,
+    "gross_pnl": 0.11000000000000001
   },
   {
     "id": "133931056930_1783506485",
@@ -58059,5 +58062,56 @@
     "target_close_ts": 1783669985,
     "status": "open",
     "opened_at_run_ts": 1783583692
+  },
+  {
+    "id": "548654095459_1783595645",
+    "token_id": "54865409545970127818483222224309761077922946344974606824700577010363479992269",
+    "market_id": "2814671",
+    "question": "LoL: Bilibili Gaming vs Hanwha Life Esports (BO5) - Mid-Season Invitational Playoffs",
+    "slug": "lol-blg-hle1-2026-07-09",
+    "open_ts": 1783595645,
+    "open_price": 0.715,
+    "six_h_ago_ts": 1783573209,
+    "six_h_ago_price": 0.375,
+    "dp_6h": 0.33999999999999997,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1783682045,
+    "status": "open",
+    "opened_at_run_ts": 1783595720
+  },
+  {
+    "id": "292531270894_1783595644",
+    "token_id": "29253127089424779546942152067053464968266164899696956704529434867264071594375",
+    "market_id": "2836530",
+    "question": "Contrexeville: Clara Burel vs Alicia Herrero Linana",
+    "slug": "wta-burel-linana-2026-07-09",
+    "open_ts": 1783595644,
+    "open_price": 0.375,
+    "six_h_ago_ts": 1783573206,
+    "six_h_ago_price": 0.785,
+    "dp_6h": -0.41000000000000003,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1783682044,
+    "status": "open",
+    "opened_at_run_ts": 1783595720
+  },
+  {
+    "id": "106897407289_1783595644",
+    "token_id": "106897407289232783779485775184213279657255053920192057044270899234141437883404",
+    "market_id": "2769771",
+    "question": "Will the price of Bitcoin be above $62,000 on July 9?",
+    "slug": "bitcoin-above-62k-on-july-9-2026",
+    "open_ts": 1783595644,
+    "open_price": 0.875,
+    "six_h_ago_ts": 1783573206,
+    "six_h_ago_price": 0.705,
+    "dp_6h": 0.17000000000000004,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1783682044,
+    "status": "open",
+    "opened_at_run_ts": 1783595720
   }
 ]
