@@ -59024,8 +59024,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1783789384,
-    "status": "open",
-    "opened_at_run_ts": 1783703014
+    "status": "closed",
+    "opened_at_run_ts": 1783703014,
+    "close_ts": 1783797485,
+    "close_price": 0.11,
+    "gross_pnl": -0.0050000000000000044
   },
   {
     "id": "140209546986_1783708803",
@@ -59041,8 +59044,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1783795203,
-    "status": "open",
-    "opened_at_run_ts": 1783708857
+    "status": "closed",
+    "opened_at_run_ts": 1783708857,
+    "close_ts": 1783797544,
+    "close_price": 0.815,
+    "gross_pnl": -0.029999999999999916
   },
   {
     "id": "105961662702_1783708745",
@@ -60335,5 +60341,56 @@
     "target_close_ts": 1783876324,
     "status": "open",
     "opened_at_run_ts": 1783789916
+  },
+  {
+    "id": "240965554532_1783797484",
+    "token_id": "24096555453253684447831530960192338866395334485882585799447869537099903341328",
+    "market_id": "2873672",
+    "question": "Counter-Strike: Virtus.pro vs Inner Circle Esports (BO3) - RES Showdown Europe Playoffs",
+    "slug": "cs2-vp-ice-2026-07-11",
+    "open_ts": 1783797484,
+    "open_price": 0.225,
+    "six_h_ago_ts": 1783774804,
+    "six_h_ago_price": 0.405,
+    "dp_6h": -0.18000000000000002,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1783883884,
+    "status": "open",
+    "opened_at_run_ts": 1783797571
+  },
+  {
+    "id": "470669868237_1783797544",
+    "token_id": "4706698682373619480191188237453571958380955074651563019424306223755627105371",
+    "market_id": "2874428",
+    "question": "Bogota: Nicolas Mejia vs Juan Pablo Varillas",
+    "slug": "atp-mejia-varilla-2026-07-11",
+    "open_ts": 1783797544,
+    "open_price": 0.875,
+    "six_h_ago_ts": 1783774806,
+    "six_h_ago_price": 0.645,
+    "dp_6h": 0.22999999999999998,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1783883944,
+    "status": "open",
+    "opened_at_run_ts": 1783797571
+  },
+  {
+    "id": "801082525382_1783797544",
+    "token_id": "80108252538247980980425870204532181512469407277477399557998921313517002591599",
+    "market_id": "2874389",
+    "question": "Newport: Adam Walton vs Alex Michelsen",
+    "slug": "atp-walton-michels-2026-07-11",
+    "open_ts": 1783797544,
+    "open_price": 0.76,
+    "six_h_ago_ts": 1783774804,
+    "six_h_ago_price": 0.345,
+    "dp_6h": 0.41500000000000004,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1783883944,
+    "status": "open",
+    "opened_at_run_ts": 1783797571
   }
 ]
