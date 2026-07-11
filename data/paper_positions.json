@@ -59234,8 +59234,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1783802284,
-    "status": "open",
-    "opened_at_run_ts": 1783715917
+    "status": "closed",
+    "opened_at_run_ts": 1783715917,
+    "close_ts": 1783803545,
+    "close_price": 0.489,
+    "gross_pnl": 0.07500000000000001
   },
   {
     "id": "970688940434_1783715884",
@@ -59455,8 +59458,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1783803606,
-    "status": "open",
-    "opened_at_run_ts": 1783721529
+    "status": "closed",
+    "opened_at_run_ts": 1783721529,
+    "close_ts": 1783803545,
+    "close_price": 0.1975,
+    "gross_pnl": 0.118
   },
   {
     "id": "385499213305_1783717203",
@@ -60392,5 +60398,73 @@
     "target_close_ts": 1783883944,
     "status": "open",
     "opened_at_run_ts": 1783797571
+  },
+  {
+    "id": "611976216283_1783803545",
+    "token_id": "6119762162832456798912783844634377895941726461804141726940746242141766564071",
+    "market_id": "2816886",
+    "question": "New York Yankees vs. Washington Nationals",
+    "slug": "mlb-nyy-wsh-2026-07-11",
+    "open_ts": 1783803545,
+    "open_price": 0.345,
+    "six_h_ago_ts": 1783782006,
+    "six_h_ago_price": 0.635,
+    "dp_6h": -0.29000000000000004,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1783889945,
+    "status": "open",
+    "opened_at_run_ts": 1783803635
+  },
+  {
+    "id": "519977295677_1783803607",
+    "token_id": "51997729567758543807704912618598532761706551853974754472971700430191830114513",
+    "market_id": "2876289",
+    "question": "Spread: Minnesota Twins (-1.5)",
+    "slug": "mlb-laa-min-2026-07-11-spread-home-1pt5",
+    "open_ts": 1783803607,
+    "open_price": 0.865,
+    "six_h_ago_ts": 1783782008,
+    "six_h_ago_price": 0.455,
+    "dp_6h": 0.41,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1783890007,
+    "status": "open",
+    "opened_at_run_ts": 1783803635
+  },
+  {
+    "id": "362388486971_1783803606",
+    "token_id": "36238848697101945609693355331828905682223264952276920202601441830471107975613",
+    "market_id": "2876336",
+    "question": "Spread: Atlanta Dream (-13.5)",
+    "slug": "wnba-por-atl-2026-07-11-spread-home-13pt5",
+    "open_ts": 1783803606,
+    "open_price": 0.12,
+    "six_h_ago_ts": 1783782006,
+    "six_h_ago_price": 0.495,
+    "dp_6h": -0.375,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1783890006,
+    "status": "open",
+    "opened_at_run_ts": 1783803635
+  },
+  {
+    "id": "973810649439_1783803666",
+    "token_id": "97381064943999512887205375359609892921570534825613334125379190780319025384767",
+    "market_id": "2876337",
+    "question": "PortlandFire vs. Atlanta Dream: O/U 173.5",
+    "slug": "wnba-por-atl-2026-07-11-total-173pt5",
+    "open_ts": 1783803666,
+    "open_price": 0.75,
+    "six_h_ago_ts": 1783782008,
+    "six_h_ago_price": 0.495,
+    "dp_6h": 0.255,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1783890066,
+    "status": "open",
+    "opened_at_run_ts": 1783803635
   }
 ]
