@@ -61002,5 +61002,39 @@
     "target_close_ts": 1783914543,
     "status": "open",
     "opened_at_run_ts": 1783828162
+  },
+  {
+    "id": "387736983830_1783838584",
+    "token_id": "38773698383063318459478741415641569937285422396332126775849481363661722705967",
+    "market_id": "2860426",
+    "question": "Will Elon Musk post <40 tweets from July 11 to July 13, 2026?",
+    "slug": "elon-musk-of-tweets-july-11-july-13-0-39",
+    "open_ts": 1783838584,
+    "open_price": 0.415,
+    "six_h_ago_ts": 1783818004,
+    "six_h_ago_price": 0.22,
+    "dp_6h": 0.19499999999999998,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1783924984,
+    "status": "open",
+    "opened_at_run_ts": 1783838571
+  },
+  {
+    "id": "839076628049_1783838523",
+    "token_id": "83907662804924522915957095298585374327012504389115849452748958692252036294514",
+    "market_id": "2448345",
+    "question": "Will Argentina be eliminated in the Semifinals of the World Cup?",
+    "slug": "will-argentina-be-eliminated-in-the-semifinals-of-the-world-cup-20260605224220146",
+    "open_ts": 1783838523,
+    "open_price": 0.545,
+    "six_h_ago_ts": 1783818005,
+    "six_h_ago_price": 0.3585,
+    "dp_6h": 0.18650000000000005,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1783924923,
+    "status": "open",
+    "opened_at_run_ts": 1783838571
   }
 ]
