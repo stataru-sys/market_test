@@ -60745,8 +60745,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1783897204,
-    "status": "open",
-    "opened_at_run_ts": 1783810863
+    "status": "closed",
+    "opened_at_run_ts": 1783810863,
+    "close_ts": 1783897205,
+    "close_price": 0.355,
+    "gross_pnl": 0.0050000000000000044
   },
   {
     "id": "339378684893_1783810804",
@@ -60796,8 +60799,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1783897206,
-    "status": "open",
-    "opened_at_run_ts": 1783810863
+    "status": "closed",
+    "opened_at_run_ts": 1783810863,
+    "close_ts": 1783897205,
+    "close_price": 0.505,
+    "gross_pnl": -0.07
   },
   {
     "id": "693549490112_1783810805",
@@ -62039,5 +62045,39 @@
     "target_close_ts": 1783980124,
     "status": "open",
     "opened_at_run_ts": 1783893725
+  },
+  {
+    "id": "102874451830_1783897205",
+    "token_id": "10287445183045489981165922327417875515522877004716997413326724400206929566112",
+    "market_id": "2883559",
+    "question": "Arizona Diamondbacks vs. Los Angeles Dodgers: O/U 9.5",
+    "slug": "mlb-ari-lad-2026-07-12-total-9pt5",
+    "open_ts": 1783897205,
+    "open_price": 0.135,
+    "six_h_ago_ts": 1783875606,
+    "six_h_ago_price": 0.475,
+    "dp_6h": -0.33999999999999997,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1783983605,
+    "status": "open",
+    "opened_at_run_ts": 1783897252
+  },
+  {
+    "id": "870903542530_1783897203",
+    "token_id": "8709035425304608717633078221679777301318104015900761735264882237273152358903",
+    "market_id": "2851417",
+    "question": "Iran military action against a Gulf State on July 12?",
+    "slug": "iran-military-action-against-a-gulf-state-on-july-12-20260708212322937",
+    "open_ts": 1783897203,
+    "open_price": 0.645,
+    "six_h_ago_ts": 1783875604,
+    "six_h_ago_price": 0.935,
+    "dp_6h": -0.29000000000000004,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1783983603,
+    "status": "open",
+    "opened_at_run_ts": 1783897252
   }
 ]
