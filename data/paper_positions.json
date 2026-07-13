@@ -62044,8 +62044,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1783980064,
-    "status": "open",
-    "opened_at_run_ts": 1783893725
+    "status": "closed",
+    "opened_at_run_ts": 1783893725,
+    "close_ts": 1783983845,
+    "close_price": 0.395,
+    "gross_pnl": 0.08500000000000002
   },
   {
     "id": "963324424244_1783893724",
@@ -62095,8 +62098,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1783983603,
-    "status": "open",
-    "opened_at_run_ts": 1783897252
+    "status": "closed",
+    "opened_at_run_ts": 1783897252,
+    "close_ts": 1783983845,
+    "close_price": 0.76,
+    "gross_pnl": 0.11499999999999999
   },
   {
     "id": "533180902835_1783901044",
@@ -62777,5 +62783,22 @@
     "target_close_ts": 1784063223,
     "status": "open",
     "opened_at_run_ts": 1783976903
+  },
+  {
+    "id": "809293847518_1783983903",
+    "token_id": "80929384751848186927201614365304852873105595796971979989885471056463653518055",
+    "market_id": "2746355",
+    "question": "Will América FC win on 2026-07-13?",
+    "slug": "bra2-afc-lon-2026-07-13-afc",
+    "open_ts": 1783983903,
+    "open_price": 0.735,
+    "six_h_ago_ts": 1783962005,
+    "six_h_ago_price": 0.455,
+    "dp_6h": 0.27999999999999997,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1784070303,
+    "status": "open",
+    "opened_at_run_ts": 1783983916
   }
 ]
