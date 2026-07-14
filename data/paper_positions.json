@@ -62155,8 +62155,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1784001003,
-    "status": "open",
-    "opened_at_run_ts": 1783914700
+    "status": "closed",
+    "opened_at_run_ts": 1783914700,
+    "close_ts": 1784010004,
+    "close_price": 0.635,
+    "gross_pnl": -0.025000000000000022
   },
   {
     "id": "229858762538_1783914603",
@@ -62223,8 +62226,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1784001004,
-    "status": "open",
-    "opened_at_run_ts": 1783914700
+    "status": "closed",
+    "opened_at_run_ts": 1783914700,
+    "close_ts": 1784010005,
+    "close_price": 0.815,
+    "gross_pnl": 0.09999999999999998
   },
   {
     "id": "115147204977_1783927807",
@@ -62871,5 +62877,39 @@
     "target_close_ts": 1784085786,
     "status": "open",
     "opened_at_run_ts": 1783999381
+  },
+  {
+    "id": "112811270123_1784009944",
+    "token_id": "112811270123909058128388564316112365223404956068228201113475262755116373337166",
+    "market_id": "2889062",
+    "question": "Will the highest temperature in Hong Kong be 28°C on July 14?",
+    "slug": "highest-temperature-in-hong-kong-on-july-14-2026-28c",
+    "open_ts": 1784009944,
+    "open_price": 0.616,
+    "six_h_ago_ts": 1783987209,
+    "six_h_ago_price": 0.1755,
+    "dp_6h": 0.4405,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1784096344,
+    "status": "open",
+    "opened_at_run_ts": 1784010017
+  },
+  {
+    "id": "415941753624_1784009944",
+    "token_id": "41594175362430603424182869536566634985891254993955924480211485242347955217731",
+    "market_id": "2906825",
+    "question": "ITF Luan: Shihomi Li Xuan Leong vs Riko Kikawada",
+    "slug": "itf-leong-kikawad-2026-07-14",
+    "open_ts": 1784009944,
+    "open_price": 0.65,
+    "six_h_ago_ts": 1783987205,
+    "six_h_ago_price": 0.8,
+    "dp_6h": -0.15000000000000002,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1784096344,
+    "status": "open",
+    "opened_at_run_ts": 1784010017
   }
 ]
