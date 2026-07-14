@@ -62800,5 +62800,39 @@
     "target_close_ts": 1784070303,
     "status": "open",
     "opened_at_run_ts": 1783983916
+  },
+  {
+    "id": "861412476207_1783987328",
+    "token_id": "86141247620743363224755706045024749714632566372945326432530309277729349509126",
+    "market_id": "2896139",
+    "question": "Spread: Atlanta Dream (-8.5)",
+    "slug": "wnba-la-atl-2026-07-13-spread-home-8pt5",
+    "open_ts": 1783987328,
+    "open_price": 0.695,
+    "six_h_ago_ts": 1783965605,
+    "six_h_ago_price": 0.485,
+    "dp_6h": 0.20999999999999996,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1784073728,
+    "status": "open",
+    "opened_at_run_ts": 1783987324
+  },
+  {
+    "id": "693815644254_1783987327",
+    "token_id": "69381564425497509947514611382268104672408714943099813721259879392336296230657",
+    "market_id": "2889357",
+    "question": "Spread: Atlanta Dream (-7.5)",
+    "slug": "wnba-la-atl-2026-07-13-spread-home-7pt5",
+    "open_ts": 1783987327,
+    "open_price": 0.735,
+    "six_h_ago_ts": 1783965603,
+    "six_h_ago_price": 0.535,
+    "dp_6h": 0.19999999999999996,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1784073727,
+    "status": "open",
+    "opened_at_run_ts": 1783987324
   }
 ]
