@@ -62612,8 +62612,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1784058003,
-    "status": "open",
-    "opened_at_run_ts": 1783971693
+    "status": "closed",
+    "opened_at_run_ts": 1783971693,
+    "close_ts": 1784063285,
+    "close_price": 0.345,
+    "gross_pnl": -0.024999999999999967
   },
   {
     "id": "653752179099_1783969207",
@@ -62646,8 +62649,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1784058004,
-    "status": "open",
-    "opened_at_run_ts": 1783971693
+    "status": "closed",
+    "opened_at_run_ts": 1783971693,
+    "close_ts": 1784062808,
+    "close_price": 0.575,
+    "gross_pnl": -0.20999999999999996
   },
   {
     "id": "417210995758_1783971603",
@@ -62697,8 +62703,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1784058004,
-    "status": "open",
-    "opened_at_run_ts": 1783971693
+    "status": "closed",
+    "opened_at_run_ts": 1783971693,
+    "close_ts": 1784063345,
+    "close_price": 0.28,
+    "gross_pnl": -0.0
   },
   {
     "id": "638425290687_1783971603",
@@ -62714,8 +62723,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1784058003,
-    "status": "open",
-    "opened_at_run_ts": 1783971693
+    "status": "closed",
+    "opened_at_run_ts": 1783971693,
+    "close_ts": 1784062803,
+    "close_price": 0.385,
+    "gross_pnl": 0.19499999999999995
   },
   {
     "id": "561528276087_1783971604",
@@ -62731,8 +62743,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1784058004,
-    "status": "open",
-    "opened_at_run_ts": 1783971693
+    "status": "closed",
+    "opened_at_run_ts": 1783971693,
+    "close_ts": 1784063285,
+    "close_price": 0.565,
+    "gross_pnl": 0.18999999999999995
   },
   {
     "id": "278701087552_1783976824",
@@ -62799,8 +62814,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1784063223,
-    "status": "open",
-    "opened_at_run_ts": 1783976903
+    "status": "closed",
+    "opened_at_run_ts": 1783976903,
+    "close_ts": 1784063404,
+    "close_price": 0.745,
+    "gross_pnl": -0.03500000000000003
   },
   {
     "id": "809293847518_1783983903",
@@ -63872,5 +63890,107 @@
     "target_close_ts": 1784144286,
     "status": "open",
     "opened_at_run_ts": 1784057945
+  },
+  {
+    "id": "439437288738_1784063286",
+    "token_id": "4394372887385518214471608448209527405727552777602031099972143344338178308080",
+    "market_id": "558934",
+    "question": "Will Spain win the 2026 FIFA World Cup?",
+    "slug": "will-spain-win-the-2026-fifa-world-cup-963",
+    "open_ts": 1784063286,
+    "open_price": 0.5715,
+    "six_h_ago_ts": 1784041209,
+    "six_h_ago_price": 0.2175,
+    "dp_6h": 0.354,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1784149686,
+    "status": "open",
+    "opened_at_run_ts": 1784063369
+  },
+  {
+    "id": "109346928118_1784063285",
+    "token_id": "109346928118758112535699085058290058645349086894874742550948182824395861480007",
+    "market_id": "2069638",
+    "question": "Will Kylian Mbappe be the top goalscorer at the 2026 FIFA World Cup?",
+    "slug": "will-kylian-mbappe-be-the-top-goalscorer-at-the-2026-fifa-world-cup",
+    "open_ts": 1784063285,
+    "open_price": 0.275,
+    "six_h_ago_ts": 1784041205,
+    "six_h_ago_price": 0.565,
+    "dp_6h": -0.2899999999999999,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1784149685,
+    "status": "open",
+    "opened_at_run_ts": 1784063369
+  },
+  {
+    "id": "916493925787_1784063345",
+    "token_id": "9164939257875978415684689246778908136059678496687984945432143197871292108751",
+    "market_id": "2431017",
+    "question": "Will Rodri win the Golden Ball at the 2026 FIFA World Cup?",
+    "slug": "will-rodri-win-the-golden-ball-at-the-2026-fifa-world-cup-20260603194032287",
+    "open_ts": 1784063345,
+    "open_price": 0.1845,
+    "six_h_ago_ts": 1784041209,
+    "six_h_ago_price": 0.0195,
+    "dp_6h": 0.165,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1784149745,
+    "status": "open",
+    "opened_at_run_ts": 1784063369
+  },
+  {
+    "id": "192143944376_1784062808",
+    "token_id": "19214394437683566921750936876376421489271269944393354497977881791256347396217",
+    "market_id": "2069635",
+    "question": "Will Lionel Messi be the top goalscorer at the 2026 FIFA World Cup?",
+    "slug": "will-lionel-messi-be-the-top-goalscorer-at-the-2026-fifa-world-cup",
+    "open_ts": 1784062808,
+    "open_price": 0.66,
+    "six_h_ago_ts": 1784041209,
+    "six_h_ago_price": 0.3405,
+    "dp_6h": 0.3195,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1784149208,
+    "status": "open",
+    "opened_at_run_ts": 1784063369
+  },
+  {
+    "id": "103100448856_1784062810",
+    "token_id": "103100448856075656068463674517113611350035050050225218765563792824468446484003",
+    "market_id": "2909038",
+    "question": "Will Elon Musk post <40 tweets from July 13 to July 15, 2026?",
+    "slug": "elon-musk-of-tweets-july-13-july-15-0-39",
+    "open_ts": 1784062810,
+    "open_price": 0.625,
+    "six_h_ago_ts": 1784041211,
+    "six_h_ago_price": 0.335,
+    "dp_6h": 0.29,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1784149210,
+    "status": "open",
+    "opened_at_run_ts": 1784063369
+  },
+  {
+    "id": "928297962702_1784063404",
+    "token_id": "92829796270278190972819234211076551889965970413109801394847880963777668258200",
+    "market_id": "2920272",
+    "question": "ITF Sao Paulo: Isabella Barrera Aguirre vs Mell Elizabeth Reasco Gonzalez",
+    "slug": "itf-aguirre-gonzale-2026-07-14",
+    "open_ts": 1784063404,
+    "open_price": 0.485,
+    "six_h_ago_ts": 1784041205,
+    "six_h_ago_price": 0.1,
+    "dp_6h": 0.385,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1784149804,
+    "status": "open",
+    "opened_at_run_ts": 1784063369
   }
 ]
