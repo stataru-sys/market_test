@@ -64042,8 +64042,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1784156645,
-    "status": "open",
-    "opened_at_run_ts": 1784070343
+    "status": "closed",
+    "opened_at_run_ts": 1784070343,
+    "close_ts": 1784156407,
+    "close_price": 0.1545,
+    "gross_pnl": 0.015499999999999986
   },
   {
     "id": "302947640076_1784070245",
@@ -64127,8 +64130,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1784156706,
-    "status": "open",
-    "opened_at_run_ts": 1784070343
+    "status": "closed",
+    "opened_at_run_ts": 1784070343,
+    "close_ts": 1784156408,
+    "close_price": 0.115,
+    "gross_pnl": -0.08
   },
   {
     "id": "410392095249_1784070365",
@@ -64144,8 +64150,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1784156765,
-    "status": "open",
-    "opened_at_run_ts": 1784070343
+    "status": "closed",
+    "opened_at_run_ts": 1784070343,
+    "close_ts": 1784156405,
+    "close_price": 0.867,
+    "gross_pnl": -0.479
   },
   {
     "id": "140303298014_1784070305",
@@ -64195,8 +64204,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1784156766,
-    "status": "open",
-    "opened_at_run_ts": 1784070343
+    "status": "closed",
+    "opened_at_run_ts": 1784070343,
+    "close_ts": 1784156407,
+    "close_price": 0.35,
+    "gross_pnl": 0.065
   },
   {
     "id": "302646851188_1784073725",
@@ -65200,5 +65212,73 @@
     "target_close_ts": 1784236145,
     "status": "open",
     "opened_at_run_ts": 1784149829
+  },
+  {
+    "id": "666696572409_1784156407",
+    "token_id": "66669657240947621491981992082867422634534299363405737278076214614543651080494",
+    "market_id": "2854223",
+    "question": "NBA Summer League: Detroit Pistons vs. Phoenix Suns",
+    "slug": "nbasl-det-phx-2026-07-15",
+    "open_ts": 1784156407,
+    "open_price": 0.255,
+    "six_h_ago_ts": 1784134811,
+    "six_h_ago_price": 0.475,
+    "dp_6h": -0.21999999999999997,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1784242807,
+    "status": "open",
+    "opened_at_run_ts": 1784156853
+  },
+  {
+    "id": "629014687918_1784156406",
+    "token_id": "62901468791829928796230715485821000796504655235083000263450024107733348522749",
+    "market_id": "2932934",
+    "question": "Lincoln: Mark Lajal vs Mitchell Krueger",
+    "slug": "atp-lajal-krueger-2026-07-15",
+    "open_ts": 1784156406,
+    "open_price": 0.835,
+    "six_h_ago_ts": 1784134807,
+    "six_h_ago_price": 0.665,
+    "dp_6h": 0.16999999999999993,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1784242806,
+    "status": "open",
+    "opened_at_run_ts": 1784156853
+  },
+  {
+    "id": "582587263036_1784156406",
+    "token_id": "58258726303648533888027693193083968990862202899448125877590562159256179816662",
+    "market_id": "2885251",
+    "question": "Counter-Strike: ALKA vs BORRACHEIROS (BO3) - CCT South America Series 4 Group Stage",
+    "slug": "cs2-alkaa-chama-2026-07-15",
+    "open_ts": 1784156406,
+    "open_price": 0.455,
+    "six_h_ago_ts": 1784134806,
+    "six_h_ago_price": 0.635,
+    "dp_6h": -0.18,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1784242806,
+    "status": "open",
+    "opened_at_run_ts": 1784156853
+  },
+  {
+    "id": "862359533293_1784156406",
+    "token_id": "86235953329386432460672469030315509538354077418001466432980979104051625649671",
+    "market_id": "2851418",
+    "question": "Iran military action against a Gulf State on July 13?",
+    "slug": "iran-military-action-against-a-gulf-state-on-july-13-20260708212322938",
+    "open_ts": 1784156406,
+    "open_price": 0.245,
+    "six_h_ago_ts": 1784134806,
+    "six_h_ago_price": 0.445,
+    "dp_6h": -0.2,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1784242806,
+    "status": "open",
+    "opened_at_run_ts": 1784156853
   }
 ]
