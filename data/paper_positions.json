@@ -64298,5 +64298,39 @@
     "target_close_ts": 1784172185,
     "status": "open",
     "opened_at_run_ts": 1784085806
+  },
+  {
+    "id": "714128369754_1784096585",
+    "token_id": "71412836975432258393284313060575684085196493816776193489657621197366481442958",
+    "market_id": "2845812",
+    "question": "Over $30M committed to the Credible public sale?",
+    "slug": "over-30m-committed-to-the-credible-public-sale-20260708134325652",
+    "open_ts": 1784096585,
+    "open_price": 0.845,
+    "six_h_ago_ts": 1784073605,
+    "six_h_ago_price": 0.625,
+    "dp_6h": 0.21999999999999997,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1784182985,
+    "status": "open",
+    "opened_at_run_ts": 1784096635
+  },
+  {
+    "id": "104814880666_1784096645",
+    "token_id": "104814880666977813468241072554559884297192653752723026576892898376198094933880",
+    "market_id": "2896788",
+    "question": "Dota 2: Vici Gaming vs PlayTime - Game 2 Winner",
+    "slug": "dota2-vg-playti-2026-07-14-game2",
+    "open_ts": 1784096645,
+    "open_price": 0.725,
+    "six_h_ago_ts": 1784073609,
+    "six_h_ago_price": 0.52,
+    "dp_6h": 0.20499999999999996,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1784183045,
+    "status": "open",
+    "opened_at_run_ts": 1784096635
   }
 ]
