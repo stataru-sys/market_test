@@ -64349,8 +64349,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1784182985,
-    "status": "open",
-    "opened_at_run_ts": 1784096635
+    "status": "closed",
+    "opened_at_run_ts": 1784096635,
+    "close_ts": 1784183163,
+    "close_price": 0.895,
+    "gross_pnl": -0.050000000000000044
   },
   {
     "id": "104814880666_1784096645",
@@ -65303,5 +65306,22 @@
     "target_close_ts": 1784258956,
     "status": "open",
     "opened_at_run_ts": 1784172554
+  },
+  {
+    "id": "213447787350_1784183224",
+    "token_id": "21344778735058676741407921341371233671453085672389554079201297079245986378960",
+    "market_id": "2917056",
+    "question": "Will the highest temperature in Hong Kong be 27°C on July 16?",
+    "slug": "highest-temperature-in-hong-kong-on-july-16-2026-27c",
+    "open_ts": 1784183224,
+    "open_price": 0.8135,
+    "six_h_ago_ts": 1784160014,
+    "six_h_ago_price": 0.404,
+    "dp_6h": 0.4095,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1784269624,
+    "status": "open",
+    "opened_at_run_ts": 1784183241
   }
 ]
