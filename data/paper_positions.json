@@ -63483,8 +63483,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1784130005,
-    "status": "open",
-    "opened_at_run_ts": 1784043698
+    "status": "closed",
+    "opened_at_run_ts": 1784043698,
+    "close_ts": 1784172485,
+    "close_price": 0.345,
+    "gross_pnl": -0.050000000000000044
   },
   {
     "id": "760375489127_1784043664",
@@ -64187,8 +64190,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1784156706,
-    "status": "open",
-    "opened_at_run_ts": 1784070343
+    "status": "closed",
+    "opened_at_run_ts": 1784070343,
+    "close_ts": 1784172557,
+    "close_price": 0.69,
+    "gross_pnl": 0.025000000000000022
   },
   {
     "id": "694453587643_1784070366",
@@ -65280,5 +65286,22 @@
     "target_close_ts": 1784242806,
     "status": "open",
     "opened_at_run_ts": 1784156853
+  },
+  {
+    "id": "113165249748_1784172556",
+    "token_id": "11316524974845914493674451187888678614629115208634773719129175992673812821702",
+    "market_id": "2851420",
+    "question": "Iran military action against a Gulf State on July 15?",
+    "slug": "iran-military-action-against-a-gulf-state-on-july-15-20260708212322940",
+    "open_ts": 1784172556,
+    "open_price": 0.625,
+    "six_h_ago_ts": 1784149204,
+    "six_h_ago_price": 0.82,
+    "dp_6h": -0.19499999999999995,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1784258956,
+    "status": "open",
+    "opened_at_run_ts": 1784172554
   }
 ]
