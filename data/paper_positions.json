@@ -64967,8 +64967,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1784236144,
-    "status": "open",
-    "opened_at_run_ts": 1784149829
+    "status": "closed",
+    "opened_at_run_ts": 1784149829,
+    "close_ts": 1784239878,
+    "close_price": 0.4165,
+    "gross_pnl": 0.006500000000000006
   },
   {
     "id": "766410347210_1784149745",
@@ -65018,8 +65021,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1784236144,
-    "status": "open",
-    "opened_at_run_ts": 1784149829
+    "status": "closed",
+    "opened_at_run_ts": 1784149829,
+    "close_ts": 1784239878,
+    "close_price": 0.8975,
+    "gross_pnl": -0.046499999999999986
   },
   {
     "id": "114036690755_1784149745",
@@ -65035,8 +65041,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1784236145,
-    "status": "open",
-    "opened_at_run_ts": 1784149829
+    "status": "closed",
+    "opened_at_run_ts": 1784149829,
+    "close_ts": 1784239878,
+    "close_price": 0.415,
+    "gross_pnl": -0.0
   },
   {
     "id": "957514348735_1784149744",
@@ -65069,8 +65078,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1784236204,
-    "status": "open",
-    "opened_at_run_ts": 1784149829
+    "status": "closed",
+    "opened_at_run_ts": 1784149829,
+    "close_ts": 1784239878,
+    "close_price": 0.285,
+    "gross_pnl": -0.32
   },
   {
     "id": "727101664099_1784149745",
@@ -65086,8 +65098,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1784236145,
-    "status": "open",
-    "opened_at_run_ts": 1784149829
+    "status": "closed",
+    "opened_at_run_ts": 1784149829,
+    "close_ts": 1784239879,
+    "close_price": 0.1985,
+    "gross_pnl": 0.0655
   },
   {
     "id": "726968311668_1784149745",
@@ -65137,8 +65152,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1784236145,
-    "status": "open",
-    "opened_at_run_ts": 1784149829
+    "status": "closed",
+    "opened_at_run_ts": 1784149829,
+    "close_ts": 1784239805,
+    "close_price": 0.4185,
+    "gross_pnl": 0.03650000000000003
   },
   {
     "id": "724559793315_1784149805",
@@ -65222,8 +65240,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1784236145,
-    "status": "open",
-    "opened_at_run_ts": 1784149829
+    "status": "closed",
+    "opened_at_run_ts": 1784149829,
+    "close_ts": 1784239805,
+    "close_price": 0.53,
+    "gross_pnl": 0.18999999999999995
   },
   {
     "id": "666696572409_1784156407",
@@ -65921,5 +65942,39 @@
     "target_close_ts": 1784318765,
     "status": "open",
     "opened_at_run_ts": 1784232476
+  },
+  {
+    "id": "257273214331_1784239806",
+    "token_id": "25727321433194798362362443480828572710599518670380128989539992937776983319162",
+    "market_id": "2941597",
+    "question": "Counter-Strike: Imperial vs Fluxo W7M (BO3) - BetBoom RUSH B! Summit Playoffs",
+    "slug": "cs2-imp11-fxw7-2026-07-16",
+    "open_ts": 1784239806,
+    "open_price": 0.425,
+    "six_h_ago_ts": 1784217607,
+    "six_h_ago_price": 0.665,
+    "dp_6h": -0.24000000000000005,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1784326206,
+    "status": "open",
+    "opened_at_run_ts": 1784239894
+  },
+  {
+    "id": "348680047144_1784239804",
+    "token_id": "34868004714474848368039665334178609810515376945639668469093779126920004414991",
+    "market_id": "2822897",
+    "question": "Map Handicap: LEV (-1.5) vs FURIA Esports (+1.5)",
+    "slug": "val-lev1-fur-2026-07-16-map-handicap-away-1pt5",
+    "open_ts": 1784239804,
+    "open_price": 0.69,
+    "six_h_ago_ts": 1784217603,
+    "six_h_ago_price": 0.475,
+    "dp_6h": 0.21499999999999997,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1784326204,
+    "status": "open",
+    "opened_at_run_ts": 1784239894
   }
 ]
