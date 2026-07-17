@@ -66319,5 +66319,39 @@
     "target_close_ts": 1784359504,
     "status": "open",
     "opened_at_run_ts": 1784273108
+  },
+  {
+    "id": "117285834975_1784282825",
+    "token_id": "11728583497514710574356365513249856989304427730091039531942765980605070477300",
+    "market_id": "2673621",
+    "question": "Will NVIDIA be the largest company in the world by market cap on July 31?",
+    "slug": "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329841",
+    "open_ts": 1784282825,
+    "open_price": 0.475,
+    "six_h_ago_ts": 1784260805,
+    "six_h_ago_price": 0.68,
+    "dp_6h": -0.20500000000000007,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1784369225,
+    "status": "open",
+    "opened_at_run_ts": 1784282843
+  },
+  {
+    "id": "845242490318_1784282766",
+    "token_id": "84524249031838540851377443903959566799117151521616645171072187374138362898391",
+    "market_id": "2895622",
+    "question": "Valorant: FULL SENSE vs Nongshim RedForce (BO3) - VCT Pacific Group Alpha",
+    "slug": "val-fs1-ns1-2026-07-17",
+    "open_ts": 1784282766,
+    "open_price": 0.805,
+    "six_h_ago_ts": 1784260811,
+    "six_h_ago_price": 0.375,
+    "dp_6h": 0.43000000000000005,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1784369166,
+    "status": "open",
+    "opened_at_run_ts": 1784282843
   }
 ]
