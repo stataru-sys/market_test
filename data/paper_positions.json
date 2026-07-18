@@ -67396,5 +67396,22 @@
     "target_close_ts": 1784441585,
     "status": "open",
     "opened_at_run_ts": 1784355194
+  },
+  {
+    "id": "294286990287_1784364845",
+    "token_id": "2942869902875593738899520471876685969699018506999306567075752472369160708417",
+    "market_id": "2793139",
+    "question": "Valorant: Rex Regum Qeon vs Global Esports (BO3) - VCT Pacific Group Alpha",
+    "slug": "val-rrq1-ge1-2026-07-18",
+    "open_ts": 1784364845,
+    "open_price": 0.215,
+    "six_h_ago_ts": 1784343607,
+    "six_h_ago_price": 0.455,
+    "dp_6h": -0.24000000000000002,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1784451245,
+    "status": "open",
+    "opened_at_run_ts": 1784364901
   }
 ]
