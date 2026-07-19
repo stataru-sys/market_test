@@ -69037,5 +69037,22 @@
     "target_close_ts": 1784529544,
     "status": "open",
     "opened_at_run_ts": 1784443167
+  },
+  {
+    "id": "493506812627_1784452145",
+    "token_id": "49350681262783522226374718611164256067728173539737669602289263763670945197688",
+    "market_id": "2804483",
+    "question": "Valorant: Nongshim RedForce vs Gen.G Esports (BO3) - VCT Pacific Group Alpha",
+    "slug": "val-ns1-geng-2026-07-19",
+    "open_ts": 1784452145,
+    "open_price": 0.38,
+    "six_h_ago_ts": 1784430006,
+    "six_h_ago_price": 0.645,
+    "dp_6h": -0.265,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1784538545,
+    "status": "open",
+    "opened_at_run_ts": 1784452232
   }
 ]
