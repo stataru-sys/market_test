@@ -71404,5 +71404,39 @@
     "target_close_ts": 1784660411,
     "status": "open",
     "opened_at_run_ts": 1784574092
+  },
+  {
+    "id": "156070041552_1784579766",
+    "token_id": "15607004155239982702077952505781760320576128715325881265940361586509790904152",
+    "market_id": "2986368",
+    "question": "Bloomfield Hills: Blaise Bicknell vs Adam Walton",
+    "slug": "atp-bicknel-walton-2026-07-20",
+    "open_ts": 1784579766,
+    "open_price": 0.365,
+    "six_h_ago_ts": 1784559614,
+    "six_h_ago_price": 0.155,
+    "dp_6h": 0.21,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1784666166,
+    "status": "open",
+    "opened_at_run_ts": 1784579776
+  },
+  {
+    "id": "262008480939_1784579706",
+    "token_id": "26200848093962890271666876148218993995385329651543834868496581438376329103946",
+    "market_id": "2851425",
+    "question": "Iran military action against a Gulf State on July 20?",
+    "slug": "iran-military-action-against-a-gulf-state-on-july-20-20260708212322945",
+    "open_ts": 1784579706,
+    "open_price": 0.235,
+    "six_h_ago_ts": 1784559613,
+    "six_h_ago_price": 0.67,
+    "dp_6h": -0.43500000000000005,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1784666106,
+    "status": "open",
+    "opened_at_run_ts": 1784579776
   }
 ]
