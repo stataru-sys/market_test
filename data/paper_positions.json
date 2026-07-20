@@ -70246,8 +70246,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1784584867,
-    "status": "open",
-    "opened_at_run_ts": 1784498526
+    "status": "closed",
+    "opened_at_run_ts": 1784498526,
+    "close_ts": 1784585287,
+    "close_price": 0.3305,
+    "gross_pnl": 0.1795
   },
   {
     "id": "888391868323_1784498404",
@@ -71438,5 +71441,56 @@
     "target_close_ts": 1784666106,
     "status": "open",
     "opened_at_run_ts": 1784579776
+  },
+  {
+    "id": "108519157657_1784585225",
+    "token_id": "108519157657951243903412566459413039481537148961857400608505078599829048830178",
+    "market_id": "2980567",
+    "question": "Palermo: Alessandra Mazzola vs Dalila Spiteri",
+    "slug": "wta-mazzola-spiteri-2026-07-20",
+    "open_ts": 1784585225,
+    "open_price": 0.355,
+    "six_h_ago_ts": 1784563207,
+    "six_h_ago_price": 0.665,
+    "dp_6h": -0.31000000000000005,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1784671625,
+    "status": "open",
+    "opened_at_run_ts": 1784585330
+  },
+  {
+    "id": "106556322868_1784585286",
+    "token_id": "106556322868560757325467339365429978800838325820047022284447042852951646650271",
+    "market_id": "2993296",
+    "question": "Bitcoin Up or Down on July 21?",
+    "slug": "bitcoin-up-or-down-on-july-21-2026",
+    "open_ts": 1784585286,
+    "open_price": 0.335,
+    "six_h_ago_ts": 1784563208,
+    "six_h_ago_price": 0.525,
+    "dp_6h": -0.19,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1784671686,
+    "status": "open",
+    "opened_at_run_ts": 1784585330
+  },
+  {
+    "id": "542755265306_1784585346",
+    "token_id": "54275526530625270906764962490728549261592968407221046607513826480269217955538",
+    "market_id": "2997827",
+    "question": "Counter-Strike: Grêmio Esports vs METANOIA WOLVES (BO3) - CCT South America Series 4 Group Stage",
+    "slug": "cs2-grmioe-mw-2026-07-20",
+    "open_ts": 1784585346,
+    "open_price": 0.675,
+    "six_h_ago_ts": 1784563211,
+    "six_h_ago_price": 0.5,
+    "dp_6h": 0.17500000000000004,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1784671746,
+    "status": "open",
+    "opened_at_run_ts": 1784585330
   }
 ]
