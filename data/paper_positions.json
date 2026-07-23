@@ -73099,8 +73099,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1784788744,
-    "status": "open",
-    "opened_at_run_ts": 1784702331
+    "status": "closed",
+    "opened_at_run_ts": 1784702331,
+    "close_ts": 1784792358,
+    "close_price": 0.505,
+    "gross_pnl": -0.24
   },
   {
     "id": "420146679302_1784702345",
@@ -74512,5 +74515,39 @@
     "target_close_ts": 1784867046,
     "status": "open",
     "opened_at_run_ts": 1784780669
+  },
+  {
+    "id": "106949007086_1784792404",
+    "token_id": "106949007086716366772270713522948897145647629764357203077795343103498965292782",
+    "market_id": "3045028",
+    "question": "Dota 2: Dandelions vs Zero Tenacity - Game 1 Winner",
+    "slug": "dota2-dan-z10-2026-07-23-game1",
+    "open_ts": 1784792404,
+    "open_price": 0.13,
+    "six_h_ago_ts": 1784772007,
+    "six_h_ago_price": 0.39,
+    "dp_6h": -0.26,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1784878804,
+    "status": "open",
+    "opened_at_run_ts": 1784792466
+  },
+  {
+    "id": "295520018730_1784792406",
+    "token_id": "29552001873099353964391754654409748155324541113890185087517179801487691311344",
+    "market_id": "2947133",
+    "question": "Will the price of Bitcoin be above $66,000 on July 23?",
+    "slug": "bitcoin-above-66k-on-july-23-2026",
+    "open_ts": 1784792406,
+    "open_price": 0.215,
+    "six_h_ago_ts": 1784772009,
+    "six_h_ago_price": 0.405,
+    "dp_6h": -0.19000000000000003,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1784878806,
+    "status": "open",
+    "opened_at_run_ts": 1784792466
   }
 ]
