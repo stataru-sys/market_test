@@ -65411,8 +65411,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1784280064,
-    "status": "open",
-    "opened_at_run_ts": 1784193707
+    "status": "closed",
+    "opened_at_run_ts": 1784193707,
+    "close_ts": 1784866993,
+    "close_price": 0.274,
+    "gross_pnl": -0.24649999999999994
   },
   {
     "id": "252446657258_1784193664",
@@ -74383,8 +74386,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1784851809,
-    "status": "open",
-    "opened_at_run_ts": 1784765397
+    "status": "closed",
+    "opened_at_run_ts": 1784765397,
+    "close_ts": 1784866925,
+    "close_price": 0.295,
+    "gross_pnl": 0.415
   },
   {
     "id": "269393273175_1784765408",
@@ -75949,5 +75955,39 @@
     "target_close_ts": 1784937614,
     "status": "open",
     "opened_at_run_ts": 1784851674
+  },
+  {
+    "id": "204652758439_1784866924",
+    "token_id": "2046527584393243417270034133934165905985239676050498183400349099861075581836",
+    "market_id": "2916661",
+    "question": "Will Elon Musk post 220-239 tweets from July 17 to July 24, 2026?",
+    "slug": "elon-musk-of-tweets-july-17-july-24-220-239",
+    "open_ts": 1784866924,
+    "open_price": 0.197,
+    "six_h_ago_ts": 1784844008,
+    "six_h_ago_price": 0.0255,
+    "dp_6h": 0.1715,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1784953324,
+    "status": "open",
+    "opened_at_run_ts": 1784867010
+  },
+  {
+    "id": "550398161415_1784866987",
+    "token_id": "55039816141578475089541962735498745172465336348321243798010720034986104919126",
+    "market_id": "3002470",
+    "question": "Will Elon Musk post 90-114 tweets from July 23 to July 25, 2026?",
+    "slug": "elon-musk-of-tweets-july-23-july-25-90-114",
+    "open_ts": 1784866987,
+    "open_price": 0.226,
+    "six_h_ago_ts": 1784844008,
+    "six_h_ago_price": 0.0475,
+    "dp_6h": 0.1785,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1784953387,
+    "status": "open",
+    "opened_at_run_ts": 1784867010
   }
 ]
