@@ -76002,8 +76002,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1784953387,
-    "status": "open",
-    "opened_at_run_ts": 1784867010
+    "status": "closed",
+    "opened_at_run_ts": 1784867010,
+    "close_ts": 1784964186,
+    "close_price": 0.2435,
+    "gross_pnl": -0.017499999999999988
   },
   {
     "id": "679123877406_1784878688",
@@ -77619,5 +77622,56 @@
     "target_close_ts": 1785039487,
     "status": "open",
     "opened_at_run_ts": 1784953169
+  },
+  {
+    "id": "110921399681_1784964187",
+    "token_id": "110921399681013706599263285585154453542824890486247526664244359492210701398489",
+    "market_id": "3004018",
+    "question": "Will \"The Odyssey\" 2nd Weekend Box Office be between 86m and 92m?",
+    "slug": "will-odyssey-2nd-weekend-box-office-be-between-86m-and-92m-20260720152420473",
+    "open_ts": 1784964187,
+    "open_price": 0.605,
+    "six_h_ago_ts": 1784941213,
+    "six_h_ago_price": 0.43,
+    "dp_6h": 0.175,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1785050587,
+    "status": "open",
+    "opened_at_run_ts": 1784964285
+  },
+  {
+    "id": "643104012667_1784964247",
+    "token_id": "64310401266722453317701600904599703453736665145435146152073977447118473024894",
+    "market_id": "3055767",
+    "question": "ODI Series Sri Lanka vs Pakistan, Women: Sri Lanka vs Pakistan",
+    "slug": "crint-lka3-pak3-2026-07-25",
+    "open_ts": 1784964247,
+    "open_price": 0.41,
+    "six_h_ago_ts": 1784941216,
+    "six_h_ago_price": 0.625,
+    "dp_6h": -0.21500000000000002,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1785050647,
+    "status": "open",
+    "opened_at_run_ts": 1784964285
+  },
+  {
+    "id": "272027778372_1784964186",
+    "token_id": "2720277783721923206648877398460634256159488478230220767967160628341163139758",
+    "market_id": "2929595",
+    "question": "Will there be Houthi military action against Saudi Arabia by July 31, 2026?",
+    "slug": "will-there-be-houthi-military-action-against-saudi-arabia-by-july-31-2026-20260714212508553",
+    "open_ts": 1784964186,
+    "open_price": 0.875,
+    "six_h_ago_ts": 1784941207,
+    "six_h_ago_price": 0.68,
+    "dp_6h": 0.19499999999999995,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1785050586,
+    "status": "open",
+    "opened_at_run_ts": 1784964285
   }
 ]
