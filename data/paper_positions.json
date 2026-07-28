@@ -81255,8 +81255,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1785253627,
-    "status": "open",
-    "opened_at_run_ts": 1785167312
+    "status": "closed",
+    "opened_at_run_ts": 1785167312,
+    "close_ts": 1785250807,
+    "close_price": 0.25,
+    "gross_pnl": -0.025000000000000022
   },
   {
     "id": "494821113749_1785167287",
@@ -81289,8 +81292,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1785253687,
-    "status": "open",
-    "opened_at_run_ts": 1785167312
+    "status": "closed",
+    "opened_at_run_ts": 1785167312,
+    "close_ts": 1785250819,
+    "close_price": 0.74,
+    "gross_pnl": -0.056499999999999995
   },
   {
     "id": "310053182294_1785167228",
@@ -82328,5 +82334,39 @@
     "target_close_ts": 1785308438,
     "status": "open",
     "opened_at_run_ts": 1785249011
+  },
+  {
+    "id": "515098588376_1785250818",
+    "token_id": "51509858837620953472169189487960341705495438368911306234684831887345304180516",
+    "market_id": "3134371",
+    "question": "ITF Wetzlar: Max Wiskandt vs Neo Niedner",
+    "slug": "itf-wiskand-niedner-2026-07-28",
+    "open_ts": 1785250818,
+    "open_price": 0.505,
+    "six_h_ago_ts": 1785232812,
+    "six_h_ago_price": 0.87,
+    "dp_6h": -0.365,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1785337218,
+    "status": "open",
+    "opened_at_run_ts": 1785257191
+  },
+  {
+    "id": "231408568150_1785250834",
+    "token_id": "23140856815032231167086071732004917142941234556765112811424365315620764444308",
+    "market_id": "3108749",
+    "question": "Will the highest temperature in Paris be 32°C on July 28?",
+    "slug": "highest-temperature-in-paris-on-july-28-2026-32c",
+    "open_ts": 1785250834,
+    "open_price": 0.39,
+    "six_h_ago_ts": 1785232831,
+    "six_h_ago_price": 0.625,
+    "dp_6h": -0.235,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1785337234,
+    "status": "open",
+    "opened_at_run_ts": 1785257191
   }
 ]
