@@ -82294,5 +82294,39 @@
     "target_close_ts": 1785304827,
     "status": "open",
     "opened_at_run_ts": 1785240301
+  },
+  {
+    "id": "603124791379_1785222039",
+    "token_id": "6031247913791059401301305897244840122530290206705552215445575741090176491857",
+    "market_id": "2968530",
+    "question": "Will Elon Musk post 260-279 tweets from July 21 to July 28, 2026?",
+    "slug": "elon-musk-of-tweets-july-21-july-28-260-279",
+    "open_ts": 1785222039,
+    "open_price": 0.358,
+    "six_h_ago_ts": 1785200418,
+    "six_h_ago_price": 0.197,
+    "dp_6h": 0.16099999999999998,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1785308439,
+    "status": "open",
+    "opened_at_run_ts": 1785249011
+  },
+  {
+    "id": "711922321035_1785222038",
+    "token_id": "71192232103555589235344726458038897681170737863921649853242211205934525539285",
+    "market_id": "3127140",
+    "question": "WTI Crude Oil (WTI) Up or Down on July 28?",
+    "slug": "wti-up-or-down-on-july-28-2026",
+    "open_ts": 1785222038,
+    "open_price": 0.305,
+    "six_h_ago_ts": 1785200416,
+    "six_h_ago_price": 0.5,
+    "dp_6h": -0.195,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1785308438,
+    "status": "open",
+    "opened_at_run_ts": 1785249011
   }
 ]
