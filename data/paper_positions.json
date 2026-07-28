@@ -80906,8 +80906,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1785213909,
-    "status": "open",
-    "opened_at_run_ts": 1785127584
+    "status": "closed",
+    "opened_at_run_ts": 1785127584,
+    "close_ts": 1785218444,
+    "close_price": 0.2275,
+    "gross_pnl": 0.1705
   },
   {
     "id": "436442012627_1785127510",
@@ -82200,5 +82203,56 @@
     "target_close_ts": 1785295642,
     "status": "open",
     "opened_at_run_ts": 1785209241
+  },
+  {
+    "id": "834452242017_1785214858",
+    "token_id": "83445224201730477663672503501128435331948018679106920391432021954054873351062",
+    "market_id": "3101973",
+    "question": "ODI Series Sri Lanka vs Pakistan, Women: Sri Lanka vs Pakistan",
+    "slug": "crint-lka3-pak3-2026-07-28",
+    "open_ts": 1785214858,
+    "open_price": 0.795,
+    "six_h_ago_ts": 1785193243,
+    "six_h_ago_price": 0.605,
+    "dp_6h": 0.19000000000000006,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1785301258,
+    "status": "open",
+    "opened_at_run_ts": 1785220520
+  },
+  {
+    "id": "551181725960_1785214858",
+    "token_id": "55118172596064806444880063710940948778766310200380470826197859907468913565246",
+    "market_id": "3108837",
+    "question": "Will the highest temperature in Hong Kong be 29°C on July 28?",
+    "slug": "highest-temperature-in-hong-kong-on-july-28-2026-29c",
+    "open_ts": 1785214858,
+    "open_price": 0.16,
+    "six_h_ago_ts": 1785193239,
+    "six_h_ago_price": 0.44,
+    "dp_6h": -0.28,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1785301258,
+    "status": "open",
+    "opened_at_run_ts": 1785220520
+  },
+  {
+    "id": "215352496209_1785218453",
+    "token_id": "21535249620998346050972110681041839766318578536659899253721202107365324655561",
+    "market_id": "3108849",
+    "question": "Will the highest temperature in Shanghai be 34°C on July 28?",
+    "slug": "highest-temperature-in-shanghai-on-july-28-2026-34c",
+    "open_ts": 1785218453,
+    "open_price": 0.49,
+    "six_h_ago_ts": 1785196847,
+    "six_h_ago_price": 0.315,
+    "dp_6h": 0.175,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1785304853,
+    "status": "open",
+    "opened_at_run_ts": 1785220520
   }
 ]
