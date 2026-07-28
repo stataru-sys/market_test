@@ -82260,5 +82260,39 @@
     "target_close_ts": 1785304853,
     "status": "open",
     "opened_at_run_ts": 1785220520
+  },
+  {
+    "id": "494818742388_1785218434",
+    "token_id": "4948187423882628117471732970735705323717711679093518818344938817831916344052",
+    "market_id": "3134131",
+    "question": "Targu Mures: Margaux Rouvroy vs Lola Radivojevic",
+    "slug": "wta-rouvroy-radivoj-2026-07-28",
+    "open_ts": 1785218434,
+    "open_price": 0.185,
+    "six_h_ago_ts": 1785196829,
+    "six_h_ago_price": 0.495,
+    "dp_6h": -0.31,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1785304834,
+    "status": "open",
+    "opened_at_run_ts": 1785240301
+  },
+  {
+    "id": "299153420523_1785218427",
+    "token_id": "29915342052391363623075701184334841691490095121451242239539894603829275270188",
+    "market_id": "3127187",
+    "question": "S&P 500 (SPX) Opens Up or Down on July 28?",
+    "slug": "spx-opens-up-or-down-on-july-28-2026",
+    "open_ts": 1785218427,
+    "open_price": 0.2,
+    "six_h_ago_ts": 1785196824,
+    "six_h_ago_price": 0.51,
+    "dp_6h": -0.31,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1785304827,
+    "status": "open",
+    "opened_at_run_ts": 1785240301
   }
 ]
