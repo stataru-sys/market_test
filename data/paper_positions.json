@@ -82927,5 +82927,39 @@
     "target_close_ts": 1785393644,
     "status": "open",
     "opened_at_run_ts": 1785307214
+  },
+  {
+    "id": "685280286713_1785326951",
+    "token_id": "68528028671390254724627803299770051164126213075627856348608404968878822651405",
+    "market_id": "3126999",
+    "question": "The Hundred, Women: Welsh Fire vs Trent Rockets",
+    "slug": "crichundredw-wel-tre-2026-07-29",
+    "open_ts": 1785326951,
+    "open_price": 0.275,
+    "six_h_ago_ts": 1785304843,
+    "six_h_ago_price": 0.435,
+    "dp_6h": -0.15999999999999998,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1785413351,
+    "status": "open",
+    "opened_at_run_ts": 1785327026
+  },
+  {
+    "id": "158357328638_1785327246",
+    "token_id": "15835732863881168677425706892675486438114712185690734955426106898415256831531",
+    "market_id": "3068194",
+    "question": "Metro Bank One Day Cup: Warwickshire vs Surrey",
+    "slug": "cricodc-war-sur-2026-07-29",
+    "open_ts": 1785327246,
+    "open_price": 0.75,
+    "six_h_ago_ts": 1785304808,
+    "six_h_ago_price": 0.525,
+    "dp_6h": 0.22499999999999998,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1785413646,
+    "status": "open",
+    "opened_at_run_ts": 1785327026
   }
 ]
