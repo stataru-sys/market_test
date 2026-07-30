@@ -81675,8 +81675,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1785260897,
-    "status": "open",
-    "opened_at_run_ts": 1785174595
+    "status": "closed",
+    "opened_at_run_ts": 1785174595,
+    "close_ts": 1785393310,
+    "close_price": 0.405,
+    "gross_pnl": -0.08499999999999996
   },
   {
     "id": "934111084235_1785181565",
@@ -83712,5 +83715,39 @@
     "target_close_ts": 1785467827,
     "status": "open",
     "opened_at_run_ts": 1785381438
+  },
+  {
+    "id": "101199866997_1785393127",
+    "token_id": "101199866997875475477762302945563324496302554506520238019180264738090486376688",
+    "market_id": "2584969",
+    "question": "U.S. anti-cartel operation outside of the U.S. by July 31?",
+    "slug": "uptspt-anti-cartel-operation-outside-of-the-uptspt-by-july-31-20260616215440524",
+    "open_ts": 1785393127,
+    "open_price": 0.694,
+    "six_h_ago_ts": 1785373214,
+    "six_h_ago_price": 0.8835,
+    "dp_6h": -0.1895,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1785479527,
+    "status": "open",
+    "opened_at_run_ts": 1785393383
+  },
+  {
+    "id": "107438762293_1785393127",
+    "token_id": "107438762293695841607335812680444386661474435594943526645061200878345594193582",
+    "market_id": "3010129",
+    "question": "Will Elon Musk post 260-279 tweets from July 24 to July 31, 2026?",
+    "slug": "elon-musk-of-tweets-july-24-july-31-260-279",
+    "open_ts": 1785393127,
+    "open_price": 0.3875,
+    "six_h_ago_ts": 1785373214,
+    "six_h_ago_price": 0.2115,
+    "dp_6h": 0.17600000000000002,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1785479527,
+    "status": "open",
+    "opened_at_run_ts": 1785393383
   }
 ]
