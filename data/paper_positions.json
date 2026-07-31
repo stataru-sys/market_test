@@ -83192,8 +83192,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1785445507,
-    "status": "open",
-    "opened_at_run_ts": 1785359257
+    "status": "closed",
+    "opened_at_run_ts": 1785359257,
+    "close_ts": 1785484989,
+    "close_price": 0.118,
+    "gross_pnl": 0.47250000000000003
   },
   {
     "id": "458157334259_1785355211",
@@ -83745,8 +83748,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1785479527,
-    "status": "open",
-    "opened_at_run_ts": 1785393383
+    "status": "closed",
+    "opened_at_run_ts": 1785393383,
+    "close_ts": 1785484990,
+    "close_price": 0.7315,
+    "gross_pnl": 0.03750000000000009
   },
   {
     "id": "107438762293_1785393127",
@@ -83762,8 +83768,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1785479527,
-    "status": "open",
-    "opened_at_run_ts": 1785393383
+    "status": "closed",
+    "opened_at_run_ts": 1785393383,
+    "close_ts": 1785484869,
+    "close_price": 0.815,
+    "gross_pnl": -0.42749999999999994
   },
   {
     "id": "806392008513_1785403869",
@@ -85073,5 +85082,90 @@
     "target_close_ts": 1785558547,
     "status": "open",
     "opened_at_run_ts": 1785472313
+  },
+  {
+    "id": "824465271869_1785485047",
+    "token_id": "82446527186967366426384765995237967617309105438642565308459582305802345710670",
+    "market_id": "3223768",
+    "question": "ITF Astana: Asylzhan Arystanbekova vs Daria Zelinskaya",
+    "slug": "itf-arystan-zelinsk-2026-07-31",
+    "open_ts": 1785485047,
+    "open_price": 0.655,
+    "six_h_ago_ts": 1785463209,
+    "six_h_ago_price": 0.365,
+    "dp_6h": 0.29000000000000004,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1785571447,
+    "status": "open",
+    "opened_at_run_ts": 1785485151
+  },
+  {
+    "id": "906376346024_1785485046",
+    "token_id": "90637634602465887787679268906394947498675150453246427560023668237516913996412",
+    "market_id": "2966560",
+    "question": "Will the total domestic gross for Spider-Man: Brand New Day be at least 900m by August 31?",
+    "slug": "will-the-total-domestic-gross-for-spider-man-brand-new-day-be-at-least-900m-by-august-31-20260717232947960",
+    "open_ts": 1785485046,
+    "open_price": 0.232,
+    "six_h_ago_ts": 1785463208,
+    "six_h_ago_price": 0.034,
+    "dp_6h": 0.198,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1785571446,
+    "status": "open",
+    "opened_at_run_ts": 1785485151
+  },
+  {
+    "id": "945682053334_1785484989",
+    "token_id": "94568205333473576204445664023306389041017771532335839943878416274419774595441",
+    "market_id": "3203577",
+    "question": "Ethereum Up or Down on July 31?",
+    "slug": "ethereum-up-or-down-on-july-31-2026",
+    "open_ts": 1785484989,
+    "open_price": 0.145,
+    "six_h_ago_ts": 1785463208,
+    "six_h_ago_price": 0.385,
+    "dp_6h": -0.24000000000000002,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1785571389,
+    "status": "open",
+    "opened_at_run_ts": 1785485151
+  },
+  {
+    "id": "577109473265_1785484868",
+    "token_id": "57710947326527517142791816702921024824946830323262226496916404734255533257132",
+    "market_id": "3206142",
+    "question": "Will the next Google Gemini Pro model be released by August 14, 2026?",
+    "slug": "will-the-next-google-gemini-pro-model-be-released-by-august-14-2026",
+    "open_ts": 1785484868,
+    "open_price": 0.595,
+    "six_h_ago_ts": 1785463207,
+    "six_h_ago_price": 0.395,
+    "dp_6h": 0.19999999999999996,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1785571268,
+    "status": "open",
+    "opened_at_run_ts": 1785485151
+  },
+  {
+    "id": "569353000233_1785485169",
+    "token_id": "56935300023315259601937627162026684325174187008635331305400887664782174426246",
+    "market_id": "3129759",
+    "question": "Will Elon Musk post 65-89 tweets from July 30 to August 1, 2026?",
+    "slug": "elon-musk-of-tweets-july-30-august-1-65-89",
+    "open_ts": 1785485169,
+    "open_price": 0.485,
+    "six_h_ago_ts": 1785463208,
+    "six_h_ago_price": 0.325,
+    "dp_6h": 0.15999999999999998,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1785571569,
+    "status": "open",
+    "opened_at_run_ts": 1785485151
   }
 ]
