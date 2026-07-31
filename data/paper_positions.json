@@ -82197,8 +82197,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1785295641,
-    "status": "open",
-    "opened_at_run_ts": 1785209241
+    "status": "closed",
+    "opened_at_run_ts": 1785209241,
+    "close_ts": 1785472146,
+    "close_price": 0.59,
+    "gross_pnl": 0.16499999999999998
   },
   {
     "id": "415995678152_1785209177",
@@ -83637,8 +83640,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1785467526,
-    "status": "open",
-    "opened_at_run_ts": 1785381438
+    "status": "closed",
+    "opened_at_run_ts": 1785381438,
+    "close_ts": 1785472146,
+    "close_price": 0.19,
+    "gross_pnl": -0.10499999999999998
   },
   {
     "id": "102235010144_1785381436",
@@ -84999,5 +85005,73 @@
     "target_close_ts": 1785542889,
     "status": "open",
     "opened_at_run_ts": 1785456702
+  },
+  {
+    "id": "561652957835_1785472089",
+    "token_id": "56165295783582585045932540577325366741513851820106305413839414055914189210289",
+    "market_id": "3010127",
+    "question": "Will Elon Musk post 240-259 tweets from July 24 to July 31, 2026?",
+    "slug": "elon-musk-of-tweets-july-24-july-31-240-259",
+    "open_ts": 1785472089,
+    "open_price": 0.1295,
+    "six_h_ago_ts": 1785448808,
+    "six_h_ago_price": 0.5355,
+    "dp_6h": -0.40599999999999997,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1785558489,
+    "status": "open",
+    "opened_at_run_ts": 1785472313
+  },
+  {
+    "id": "200917902562_1785472269",
+    "token_id": "20091790256236221395563524580877393186877379489629275113514439808672293442802",
+    "market_id": "3203576",
+    "question": "Bitcoin Up or Down on July 31?",
+    "slug": "bitcoin-up-or-down-on-july-31-2026",
+    "open_ts": 1785472269,
+    "open_price": 0.295,
+    "six_h_ago_ts": 1785452407,
+    "six_h_ago_price": 0.555,
+    "dp_6h": -0.26000000000000006,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1785558669,
+    "status": "open",
+    "opened_at_run_ts": 1785472313
+  },
+  {
+    "id": "628769586040_1785472147",
+    "token_id": "62876958604071345058055232946998134562495469224231929786569101363702789671161",
+    "market_id": "3082137",
+    "question": "Will the price of Bitcoin be above $64,000 on July 31?",
+    "slug": "bitcoin-above-64k-on-july-31-2026",
+    "open_ts": 1785472147,
+    "open_price": 0.655,
+    "six_h_ago_ts": 1785448808,
+    "six_h_ago_price": 0.815,
+    "dp_6h": -0.15999999999999992,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1785558547,
+    "status": "open",
+    "opened_at_run_ts": 1785472313
+  },
+  {
+    "id": "816794886720_1785472147",
+    "token_id": "81679488672081181483798986698831357212621382756265119188998477655908449634922",
+    "market_id": "3196677",
+    "question": "Will the highest temperature in Shenzhen be 27°C on July 31?",
+    "slug": "highest-temperature-in-shenzhen-on-july-31-2026-27c",
+    "open_ts": 1785472147,
+    "open_price": 0.8005,
+    "six_h_ago_ts": 1785448808,
+    "six_h_ago_price": 0.0145,
+    "dp_6h": 0.786,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1785558547,
+    "status": "open",
+    "opened_at_run_ts": 1785472313
   }
 ]
