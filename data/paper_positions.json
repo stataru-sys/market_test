@@ -86167,8 +86167,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1785618730,
-    "status": "open",
-    "opened_at_run_ts": 1785532562
+    "status": "closed",
+    "opened_at_run_ts": 1785532562,
+    "close_ts": 1785621851,
+    "close_price": 0.775,
+    "gross_pnl": 0.06500000000000006
   },
   {
     "id": "159599709020_1785532509",
@@ -86201,8 +86204,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1785618849,
-    "status": "open",
-    "opened_at_run_ts": 1785532562
+    "status": "closed",
+    "opened_at_run_ts": 1785532562,
+    "close_ts": 1785621849,
+    "close_price": 0.835,
+    "gross_pnl": 0.020000000000000018
   },
   {
     "id": "104511249284_1785532449",
@@ -86218,8 +86224,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1785618849,
-    "status": "open",
-    "opened_at_run_ts": 1785532562
+    "status": "closed",
+    "opened_at_run_ts": 1785532562,
+    "close_ts": 1785621850,
+    "close_price": 0.38,
+    "gross_pnl": -0.0050000000000000044
   },
   {
     "id": "775509602283_1785532450",
@@ -86235,8 +86244,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1785618850,
-    "status": "open",
-    "opened_at_run_ts": 1785532562
+    "status": "closed",
+    "opened_at_run_ts": 1785532562,
+    "close_ts": 1785621850,
+    "close_price": 0.495,
+    "gross_pnl": 0.020000000000000018
   },
   {
     "id": "815856111472_1785532269",
@@ -86252,8 +86264,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1785618669,
-    "status": "open",
-    "opened_at_run_ts": 1785532562
+    "status": "closed",
+    "opened_at_run_ts": 1785532562,
+    "close_ts": 1785621790,
+    "close_price": 0.333,
+    "gross_pnl": 0.065
   },
   {
     "id": "100240167716_1785532510",
@@ -86286,8 +86301,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1785618969,
-    "status": "open",
-    "opened_at_run_ts": 1785532562
+    "status": "closed",
+    "opened_at_run_ts": 1785532562,
+    "close_ts": 1785621850,
+    "close_price": 0.605,
+    "gross_pnl": 0.030000000000000027
   },
   {
     "id": "246727872294_1785539288",
@@ -87716,5 +87734,124 @@
     "target_close_ts": 1785704471,
     "status": "open",
     "opened_at_run_ts": 1785618282
+  },
+  {
+    "id": "112028729090_1785621790",
+    "token_id": "112028729090511423315641631612602332626103348473413579201138847335533053933819",
+    "market_id": "3155074",
+    "question": "Chicago White Sox vs. Tampa Bay Rays",
+    "slug": "mlb-cws-tb-2026-08-01",
+    "open_ts": 1785621790,
+    "open_price": 0.195,
+    "six_h_ago_ts": 1785600011,
+    "six_h_ago_price": 0.395,
+    "dp_6h": -0.2,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1785708190,
+    "status": "open",
+    "opened_at_run_ts": 1785621991
+  },
+  {
+    "id": "624080086823_1785621851",
+    "token_id": "62408008682370432009999132898256133516558981033514131846069273433730893692891",
+    "market_id": "3259706",
+    "question": "Counter-Strike: Fluxo W7M vs BESTIA (BO3) - StarLadder StarSeries South American Qualifier Playoffs",
+    "slug": "cs2-fxw7-bst-2026-08-01",
+    "open_ts": 1785621851,
+    "open_price": 0.14,
+    "six_h_ago_ts": 1785600012,
+    "six_h_ago_price": 0.435,
+    "dp_6h": -0.295,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1785708251,
+    "status": "open",
+    "opened_at_run_ts": 1785621991
+  },
+  {
+    "id": "716286493564_1785621731",
+    "token_id": "71628649356425757912273806311008575854893415441003768617281419885130823809168",
+    "market_id": "3124384",
+    "question": "Valorant: Team Envy vs FURIA Esports - Map 1 Winner",
+    "slug": "val-nv2-fur-2026-08-01-game1",
+    "open_ts": 1785621731,
+    "open_price": 0.18,
+    "six_h_ago_ts": 1785600012,
+    "six_h_ago_price": 0.335,
+    "dp_6h": -0.15500000000000003,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1785708131,
+    "status": "open",
+    "opened_at_run_ts": 1785621991
+  },
+  {
+    "id": "179852722537_1785621790",
+    "token_id": "17985272253704996930898385090799561511358631482535769769042845142753018250777",
+    "market_id": "3253788",
+    "question": "National Bank Open, Qualification: Maya Joint vs Ana Grubor",
+    "slug": "wta-joint-grubor-2026-08-01",
+    "open_ts": 1785621790,
+    "open_price": 0.473,
+    "six_h_ago_ts": 1785600011,
+    "six_h_ago_price": 0.955,
+    "dp_6h": -0.482,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1785708190,
+    "status": "open",
+    "opened_at_run_ts": 1785621991
+  },
+  {
+    "id": "987052436362_1785621850",
+    "token_id": "98705243636222304688992031944157905237396710257612708489329206021708410711109",
+    "market_id": "3241565",
+    "question": "Minnesota Twins vs. Seattle Mariners: O/U 9.5",
+    "slug": "mlb-min-sea-2026-08-01-total-9pt5",
+    "open_ts": 1785621850,
+    "open_price": 0.145,
+    "six_h_ago_ts": 1785600010,
+    "six_h_ago_price": 0.315,
+    "dp_6h": -0.17,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1785708250,
+    "status": "open",
+    "opened_at_run_ts": 1785621991
+  },
+  {
+    "id": "383391939705_1785621673",
+    "token_id": "38339193970581198490127839279813921870188522166755229808243968642969414382137",
+    "market_id": "3241566",
+    "question": "Spread: Tampa Bay Rays (-1.5)",
+    "slug": "mlb-cws-tb-2026-08-01-spread-home-1pt5",
+    "open_ts": 1785621673,
+    "open_price": 0.235,
+    "six_h_ago_ts": 1785600009,
+    "six_h_ago_price": 0.425,
+    "dp_6h": -0.19,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1785708073,
+    "status": "open",
+    "opened_at_run_ts": 1785621991
+  },
+  {
+    "id": "833442238540_1785621968",
+    "token_id": "83344223854066304611477257511626636735409813554486034166335889512842146414116",
+    "market_id": "2987939",
+    "question": "Will Fluminense FC win on 2026-08-01?",
+    "slug": "brco-vas-flu-2026-08-01-flu",
+    "open_ts": 1785621968,
+    "open_price": 0.155,
+    "six_h_ago_ts": 1785600012,
+    "six_h_ago_price": 0.395,
+    "dp_6h": -0.24000000000000002,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1785708368,
+    "status": "open",
+    "opened_at_run_ts": 1785621991
   }
 ]
