@@ -83283,8 +83283,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1785438013,
-    "status": "open",
-    "opened_at_run_ts": 1785359257
+    "status": "closed",
+    "opened_at_run_ts": 1785359257,
+    "close_ts": 1785565989,
+    "close_price": 0.545,
+    "gross_pnl": -0.07500000000000007
   },
   {
     "id": "594791849344_1785366369",
@@ -86528,5 +86531,56 @@
     "target_close_ts": 1785642190,
     "status": "open",
     "opened_at_run_ts": 1785555805
+  },
+  {
+    "id": "394967322999_1785566166",
+    "token_id": "39496732299989167056386165526395587214780012081986272407751256962423542841708",
+    "market_id": "3092787",
+    "question": "Will Katharina Pötter win the next Osnabrück mayoral election?",
+    "slug": "will-katharina-potter-win-the-next-osnabruck-mayoral-election-20260723172818473",
+    "open_ts": 1785566166,
+    "open_price": 0.575,
+    "six_h_ago_ts": 1785546009,
+    "six_h_ago_price": 0.765,
+    "dp_6h": -0.19000000000000006,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1785652566,
+    "status": "open",
+    "opened_at_run_ts": 1785566258
+  },
+  {
+    "id": "532511945988_1785566227",
+    "token_id": "53251194598825295037347002144921815770016846198679025929432370850226520268111",
+    "market_id": "3242139",
+    "question": "Dota 2: Execration vs Amaru Gaming (BO3) - Games of the Future Group A",
+    "slug": "dota2-xctn-amaru-2026-08-01",
+    "open_ts": 1785566227,
+    "open_price": 0.83,
+    "six_h_ago_ts": 1785546010,
+    "six_h_ago_price": 0.565,
+    "dp_6h": 0.265,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1785652627,
+    "status": "open",
+    "opened_at_run_ts": 1785566258
+  },
+  {
+    "id": "845570631424_1785566227",
+    "token_id": "84557063142470000499540051094229990245633046870442950697736806298965772308294",
+    "market_id": "3242165",
+    "question": "Dota 2: Midas Club vs Team Resilience (BO3) - Games of the Future Group B",
+    "slug": "dota2-midas3-tr7-2026-08-01",
+    "open_ts": 1785566227,
+    "open_price": 0.67,
+    "six_h_ago_ts": 1785546011,
+    "six_h_ago_price": 0.395,
+    "dp_6h": 0.275,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1785652627,
+    "status": "open",
+    "opened_at_run_ts": 1785566258
   }
 ]
