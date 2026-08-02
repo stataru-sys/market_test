@@ -88848,5 +88848,39 @@
     "target_close_ts": 1785764769,
     "status": "open",
     "opened_at_run_ts": 1785678397
+  },
+  {
+    "id": "337216294335_1785683471",
+    "token_id": "33721629433598040695222004005331864981778166983625438669860006311797069784424",
+    "market_id": "3123712",
+    "question": "Will AIK win on 2026-08-02?",
+    "slug": "swe-aik-org-2026-08-02-aik",
+    "open_ts": 1785683471,
+    "open_price": 0.105,
+    "six_h_ago_ts": 1785661216,
+    "six_h_ago_price": 0.665,
+    "dp_6h": -0.56,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1785769871,
+    "status": "open",
+    "opened_at_run_ts": 1785683502
+  },
+  {
+    "id": "835150585591_1785683470",
+    "token_id": "83515058559111172148406208406178571879565700452695354240692373685770041213176",
+    "market_id": "3189408",
+    "question": "Feyenoord Rotterdam vs. Atalanta BC: O/U 3.5",
+    "slug": "clf-fey-ata-2026-08-02-total-3pt5",
+    "open_ts": 1785683470,
+    "open_price": 0.106,
+    "six_h_ago_ts": 1785661212,
+    "six_h_ago_price": 0.455,
+    "dp_6h": -0.34900000000000003,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1785769870,
+    "status": "open",
+    "opened_at_run_ts": 1785683502
   }
 ]
