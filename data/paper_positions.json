@@ -88418,8 +88418,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1785739147,
-    "status": "open",
-    "opened_at_run_ts": 1785652874
+    "status": "closed",
+    "opened_at_run_ts": 1785652874,
+    "close_ts": 1785746047,
+    "close_price": 0.685,
+    "gross_pnl": -0.010000000000000009
   },
   {
     "id": "517838807605_1785652810",
@@ -88452,8 +88455,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1785739210,
-    "status": "open",
-    "opened_at_run_ts": 1785652874
+    "status": "closed",
+    "opened_at_run_ts": 1785652874,
+    "close_ts": 1785746167,
+    "close_price": 0.785,
+    "gross_pnl": -0.0
   },
   {
     "id": "167522516442_1785652809",
@@ -89967,5 +89973,73 @@
     "target_close_ts": 1785818229,
     "status": "open",
     "opened_at_run_ts": 1785731909
+  },
+  {
+    "id": "110265694267_1785746116",
+    "token_id": "110265694267936992469417700335614533467196469203686817149366068640963818137254",
+    "market_id": "3158254",
+    "question": "Will the price of Bitcoin be above $62,000 on August 4?",
+    "slug": "bitcoin-above-62k-on-august-4-2026",
+    "open_ts": 1785746116,
+    "open_price": 0.615,
+    "six_h_ago_ts": 1785726007,
+    "six_h_ago_price": 0.825,
+    "dp_6h": -0.20999999999999996,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1785832516,
+    "status": "open",
+    "opened_at_run_ts": 1785746303
+  },
+  {
+    "id": "113000723931_1785746168",
+    "token_id": "11300072393162466316189483562569457771185111017572431121808785155219743465348",
+    "market_id": "3128025",
+    "question": "Games Total: O/U 2.5",
+    "slug": "lol-gen-hle1-2026-08-03-total-games-2pt5",
+    "open_ts": 1785746168,
+    "open_price": 0.33,
+    "six_h_ago_ts": 1785726011,
+    "six_h_ago_price": 0.485,
+    "dp_6h": -0.15499999999999997,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1785832568,
+    "status": "open",
+    "opened_at_run_ts": 1785746303
+  },
+  {
+    "id": "133110945630_1785746227",
+    "token_id": "13311094563009672892622854163893292722586593978751092255588612201910994947474",
+    "market_id": "3232290",
+    "question": "Game Handicap: FOX.Y (-1.5) vs HANJIN BRION Challengers (+1.5)",
+    "slug": "lol-bro1-foxy-2026-08-03-game-handicap-home-1pt5",
+    "open_ts": 1785746227,
+    "open_price": 0.615,
+    "six_h_ago_ts": 1785726007,
+    "six_h_ago_price": 0.425,
+    "dp_6h": 0.19,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1785832627,
+    "status": "open",
+    "opened_at_run_ts": 1785746303
+  },
+  {
+    "id": "830730160051_1785746227",
+    "token_id": "83073016005127772455674698684810330866168322299927514552950080135452480714174",
+    "market_id": "3142695",
+    "question": "Game Handicap: HLE (-1.5) vs Gen.G (+1.5)",
+    "slug": "lol-gen-hle1-2026-08-03-game-handicap-home-1pt5",
+    "open_ts": 1785746227,
+    "open_price": 0.755,
+    "six_h_ago_ts": 1785726008,
+    "six_h_ago_price": 0.29,
+    "dp_6h": 0.465,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1785832627,
+    "status": "open",
+    "opened_at_run_ts": 1785746303
   }
 ]
