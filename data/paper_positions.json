@@ -88438,8 +88438,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1785739210,
-    "status": "open",
-    "opened_at_run_ts": 1785652874
+    "status": "closed",
+    "opened_at_run_ts": 1785652874,
+    "close_ts": 1785760147,
+    "close_price": 0.89,
+    "gross_pnl": -0.0050000000000000044
   },
   {
     "id": "775509602283_1785652810",
@@ -88577,8 +88580,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1785748447,
-    "status": "open",
-    "opened_at_run_ts": 1785662231
+    "status": "closed",
+    "opened_at_run_ts": 1785662231,
+    "close_ts": 1785760267,
+    "close_price": 0.835,
+    "gross_pnl": -0.485
   },
   {
     "id": "629300207845_1785662169",
@@ -90041,5 +90047,73 @@
     "target_close_ts": 1785832627,
     "status": "open",
     "opened_at_run_ts": 1785746303
+  },
+  {
+    "id": "655098288865_1785760390",
+    "token_id": "65509828886549102239802669652700772041118292288745082220915875158076298193766",
+    "market_id": "3294237",
+    "question": "Dota 2: OG vs GamerLegion (BO3) - 1win Essence Playoffs",
+    "slug": "dota2-og-gl-2026-08-03",
+    "open_ts": 1785760390,
+    "open_price": 0.795,
+    "six_h_ago_ts": 1785740407,
+    "six_h_ago_price": 0.585,
+    "dp_6h": 0.21000000000000008,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1785846790,
+    "status": "open",
+    "opened_at_run_ts": 1785760411
+  },
+  {
+    "id": "854548631649_1785760146",
+    "token_id": "85454863164935623664430671180185144877879149051520699527845183974910850985788",
+    "market_id": "3286405",
+    "question": "Counter-Strike: 1WIN vs ex-RUBY (BO3) - NODWIN Clutch Series Playoffs",
+    "slug": "cs2-1win-ruby1-2026-08-03",
+    "open_ts": 1785760146,
+    "open_price": 0.815,
+    "six_h_ago_ts": 1785736812,
+    "six_h_ago_price": 0.62,
+    "dp_6h": 0.19499999999999995,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1785846546,
+    "status": "open",
+    "opened_at_run_ts": 1785760411
+  },
+  {
+    "id": "214973550185_1785760208",
+    "token_id": "21497355018504475542074460028165701252584666826927286200168484569279749208114",
+    "market_id": "3289747",
+    "question": "Dota 2: Xtreme Gaming vs Team Resilience (BO3) - Games of the Future Playoffs",
+    "slug": "dota2-xtreme-tr7-2026-08-03",
+    "open_ts": 1785760208,
+    "open_price": 0.555,
+    "six_h_ago_ts": 1785736813,
+    "six_h_ago_price": 0.755,
+    "dp_6h": -0.19999999999999996,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1785846608,
+    "status": "open",
+    "opened_at_run_ts": 1785760411
+  },
+  {
+    "id": "431353811728_1785760327",
+    "token_id": "43135381172884678342417724361321311115739755958006814871263054621617110588064",
+    "market_id": "3293711",
+    "question": "Dota 2: OG vs GamerLegion - Game 1 Winner",
+    "slug": "dota2-og-gl-2026-08-03-game1",
+    "open_ts": 1785760327,
+    "open_price": 0.885,
+    "six_h_ago_ts": 1785740407,
+    "six_h_ago_price": 0.585,
+    "dp_6h": 0.30000000000000004,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1785846727,
+    "status": "open",
+    "opened_at_run_ts": 1785760411
   }
 ]
