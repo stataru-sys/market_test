@@ -91330,8 +91330,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1785931628,
-    "status": "open",
-    "opened_at_run_ts": 1785845350
+    "status": "closed",
+    "opened_at_run_ts": 1785845350,
+    "close_ts": 1785940151,
+    "close_price": 0.65,
+    "gross_pnl": -0.09499999999999997
   },
   {
     "id": "147482234359_1785845167",
@@ -92794,5 +92797,56 @@
     "target_close_ts": 1786018029,
     "status": "open",
     "opened_at_run_ts": 1785931618
+  },
+  {
+    "id": "678909472371_1785940102",
+    "token_id": "67890947237139860150627128235725698719107081463200643482511608759649899409844",
+    "market_id": "3290705",
+    "question": "The Hundred, Women: Trent Rockets vs Birmingham Phoenix",
+    "slug": "crichundredw-tre-bir-2026-08-05",
+    "open_ts": 1785940102,
+    "open_price": 0.82,
+    "six_h_ago_ts": 1785916810,
+    "six_h_ago_price": 0.605,
+    "dp_6h": 0.21499999999999997,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1786026502,
+    "status": "open",
+    "opened_at_run_ts": 1785940139
+  },
+  {
+    "id": "283284119876_1785939847",
+    "token_id": "28328411987671749531289858763494804604620872800167142533161122429838378058653",
+    "market_id": "3339315",
+    "question": "Plovdiv 2: Daniel Galan vs Carlos Sanchez Jover",
+    "slug": "atp-galan-jover-2026-08-05",
+    "open_ts": 1785939847,
+    "open_price": 0.405,
+    "six_h_ago_ts": 1785916811,
+    "six_h_ago_price": 0.715,
+    "dp_6h": -0.30999999999999994,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1786026247,
+    "status": "open",
+    "opened_at_run_ts": 1785940139
+  },
+  {
+    "id": "876182750402_1785940149",
+    "token_id": "8761827504025434676609046427704495792874166003012658674972032972050008880555",
+    "market_id": "3202317",
+    "question": "Will the price of Bitcoin be between $64,000 and $66,000 on August 5?",
+    "slug": "will-the-price-of-bitcoin-be-between-64000-66000-on-august-5-2026",
+    "open_ts": 1785940149,
+    "open_price": 0.875,
+    "six_h_ago_ts": 1785916809,
+    "six_h_ago_price": 0.625,
+    "dp_6h": 0.25,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1786026549,
+    "status": "open",
+    "opened_at_run_ts": 1785940139
   }
 ]
