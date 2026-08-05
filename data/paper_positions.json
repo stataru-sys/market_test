@@ -92099,8 +92099,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1785964872,
-    "status": "open",
-    "opened_at_run_ts": 1785878502
+    "status": "closed",
+    "opened_at_run_ts": 1785878502,
+    "close_ts": 1785967932,
+    "close_price": 0.45,
+    "gross_pnl": -0.04999999999999999
   },
   {
     "id": "605841569000_1785885012",
@@ -93257,5 +93260,56 @@
     "target_close_ts": 1786048642,
     "status": "open",
     "opened_at_run_ts": 1785962237
+  },
+  {
+    "id": "877254718268_1785967932",
+    "token_id": "87725471826875323547108536925914194309945369590440782669926283541009528654010",
+    "market_id": "3325263",
+    "question": "National Bank Open: Alex Michelsen vs Francisco Cerundolo",
+    "slug": "atp-michels-cerundo-2026-08-06",
+    "open_ts": 1785967932,
+    "open_price": 0.795,
+    "six_h_ago_ts": 1785945625,
+    "six_h_ago_price": 0.605,
+    "dp_6h": 0.19000000000000006,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1786054332,
+    "status": "open",
+    "opened_at_run_ts": 1785968214
+  },
+  {
+    "id": "961280578014_1785967991",
+    "token_id": "96128057801410051137764071490396926427180825018400096334190345851678303165151",
+    "market_id": "3283047",
+    "question": "LoL: Blue Otter vs Winthrop University (BO3) - North American Challengers League Group Stage",
+    "slug": "lol-blue-wu-2026-08-05",
+    "open_ts": 1785967991,
+    "open_price": 0.735,
+    "six_h_ago_ts": 1785945623,
+    "six_h_ago_price": 0.415,
+    "dp_6h": 0.32,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1786054391,
+    "status": "open",
+    "opened_at_run_ts": 1785968214
+  },
+  {
+    "id": "365655366463_1785967931",
+    "token_id": "36565536646313639150157854931805670859796215502027076754692926938130120459573",
+    "market_id": "3325107",
+    "question": "National Bank Open: Liudmila Samsonova vs Barbora Krejcikova",
+    "slug": "wta-samsono-krejcik-2026-08-06",
+    "open_ts": 1785967931,
+    "open_price": 0.615,
+    "six_h_ago_ts": 1785945624,
+    "six_h_ago_price": 0.415,
+    "dp_6h": 0.2,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1786054331,
+    "status": "open",
+    "opened_at_run_ts": 1785968214
   }
 ]
