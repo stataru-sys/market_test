@@ -91515,8 +91515,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1785943748,
-    "status": "open",
-    "opened_at_run_ts": 1785857481
+    "status": "closed",
+    "opened_at_run_ts": 1785857481,
+    "close_ts": 1786029491,
+    "close_price": 0.36,
+    "gross_pnl": -0.10500000000000004
   },
   {
     "id": "363742016918_1785857348",
@@ -94017,5 +94020,56 @@
     "target_close_ts": 1786104609,
     "status": "open",
     "opened_at_run_ts": 1786018185
+  },
+  {
+    "id": "107713901981_1786029730",
+    "token_id": "107713901981377100237951863747914027761472536162571394778018007738900477325310",
+    "market_id": "3253512",
+    "question": "Game Handicap: HRTS (-1.5) vs UB Alma Mater (+1.5)",
+    "slug": "lol-hrts-ub-2026-08-06-game-handicap-away-1pt5",
+    "open_ts": 1786029730,
+    "open_price": 0.4995,
+    "six_h_ago_ts": 1786006811,
+    "six_h_ago_price": 0.93,
+    "dp_6h": -0.43050000000000005,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1786116130,
+    "status": "open",
+    "opened_at_run_ts": 1786029781
+  },
+  {
+    "id": "872852062628_1786029610",
+    "token_id": "87285206262872765914174375078623049680594655285152121202089404252803097343852",
+    "market_id": "3327704",
+    "question": "Will the highest temperature in Munich be 24°C on August 6?",
+    "slug": "highest-temperature-in-munich-on-august-6-2026-24c",
+    "open_ts": 1786029610,
+    "open_price": 0.8255,
+    "six_h_ago_ts": 1786006811,
+    "six_h_ago_price": 0.0405,
+    "dp_6h": 0.785,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1786116010,
+    "status": "open",
+    "opened_at_run_ts": 1786029781
+  },
+  {
+    "id": "321218853630_1786029667",
+    "token_id": "32121885363017597668383533329991652639007632648488579381931552809032256708065",
+    "market_id": "3359010",
+    "question": "S&P 500 (SPX) Up or Down on August 6?",
+    "slug": "spx-up-or-down-on-august-6-2026",
+    "open_ts": 1786029667,
+    "open_price": 0.41,
+    "six_h_ago_ts": 1786006811,
+    "six_h_ago_price": 0.655,
+    "dp_6h": -0.24500000000000005,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1786116067,
+    "status": "open",
+    "opened_at_run_ts": 1786029781
   }
 ]
