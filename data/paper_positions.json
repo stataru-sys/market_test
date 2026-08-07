@@ -95854,5 +95854,22 @@
     "target_close_ts": 1786225639,
     "status": "open",
     "opened_at_run_ts": 1786139401
+  },
+  {
+    "id": "102653509845_1786142891",
+    "token_id": "102653509845549302664811227597642961684830867209960108363982438902712731059028",
+    "market_id": "3375289",
+    "question": "Set Handicap: Osaka (-1.5) vs Mertens (+1.5)",
+    "slug": "wta-mertens-osaka-2026-08-08-set-handicap-away-1pt5",
+    "open_ts": 1786142891,
+    "open_price": 0.78,
+    "six_h_ago_ts": 1786122016,
+    "six_h_ago_price": 0.47,
+    "dp_6h": 0.31000000000000005,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1786229291,
+    "status": "open",
+    "opened_at_run_ts": 1786142940
   }
 ]
