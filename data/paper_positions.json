@@ -94339,8 +94339,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1786147809,
-    "status": "open",
-    "opened_at_run_ts": 1786061435
+    "status": "closed",
+    "opened_at_run_ts": 1786061435,
+    "close_ts": 1786167969,
+    "close_price": 0.705,
+    "gross_pnl": 0.0
   },
   {
     "id": "725222043897_1786061409",
@@ -94628,8 +94631,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1786167971,
-    "status": "open",
-    "opened_at_run_ts": 1786081625
+    "status": "closed",
+    "opened_at_run_ts": 1786081625,
+    "close_ts": 1786168087,
+    "close_price": 0.225,
+    "gross_pnl": 0.11100000000000002
   },
   {
     "id": "117388961014_1786081570",
@@ -96500,5 +96506,22 @@
     "target_close_ts": 1786248972,
     "status": "open",
     "opened_at_run_ts": 1786162596
+  },
+  {
+    "id": "699893047012_1786168088",
+    "token_id": "69989304701214824853290416681083555982998620238821135973989676926971307882648",
+    "market_id": "3388254",
+    "question": "Will Max Miller drop out of the OH-07 race by August 30?",
+    "slug": "will-max-miller-drop-out-of-the-oh-07-race-by-august-30-20260806192928808",
+    "open_ts": 1786168088,
+    "open_price": 0.38,
+    "six_h_ago_ts": 1786147218,
+    "six_h_ago_price": 0.54,
+    "dp_6h": -0.16000000000000003,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1786254488,
+    "status": "open",
+    "opened_at_run_ts": 1786168251
   }
 ]
