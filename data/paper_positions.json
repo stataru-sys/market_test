@@ -99465,5 +99465,22 @@
     "target_close_ts": 1786335731,
     "status": "open",
     "opened_at_run_ts": 1786249470
+  },
+  {
+    "id": "950149776847_1786254549",
+    "token_id": "95014977684790177782599927588781820159575995214324071777486983644449266573634",
+    "market_id": "3394390",
+    "question": "Will the highest temperature in Hong Kong be 37°C on August 9?",
+    "slug": "highest-temperature-in-hong-kong-on-august-9-2026-37c",
+    "open_ts": 1786254549,
+    "open_price": 0.46,
+    "six_h_ago_ts": 1786233627,
+    "six_h_ago_price": 0.04,
+    "dp_6h": 0.42000000000000004,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1786340949,
+    "status": "open",
+    "opened_at_run_ts": 1786254794
   }
 ]
