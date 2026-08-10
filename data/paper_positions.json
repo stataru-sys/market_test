@@ -99521,8 +99521,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1786345450,
-    "status": "open",
-    "opened_at_run_ts": 1786259336
+    "status": "closed",
+    "opened_at_run_ts": 1786259336,
+    "close_ts": 1786351571,
+    "close_price": 0.335,
+    "gross_pnl": -0.21000000000000002
   },
   {
     "id": "108923810107_1786259231",
@@ -102804,5 +102807,22 @@
     "target_close_ts": 1786428910,
     "status": "open",
     "opened_at_run_ts": 1786342621
+  },
+  {
+    "id": "106581065130_1786351449",
+    "token_id": "10658106513022740953843916255035967841266928852514644432956649505360784617989",
+    "market_id": "3407476",
+    "question": "LoL: DN SOOPers Challengers vs KT Rolster Challengers (BO3) - LCK Challengers League Rounds 3-4 Challenge Group",
+    "slug": "lol-dnsc-ktc-2026-08-10",
+    "open_ts": 1786351449,
+    "open_price": 0.27,
+    "six_h_ago_ts": 1786330808,
+    "six_h_ago_price": 0.495,
+    "dp_6h": -0.22499999999999998,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1786437849,
+    "status": "open",
+    "opened_at_run_ts": 1786351613
   }
 ]
