@@ -95286,8 +95286,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1786195270,
-    "status": "open",
-    "opened_at_run_ts": 1786108996
+    "status": "closed",
+    "opened_at_run_ts": 1786108996,
+    "close_ts": 1786398565,
+    "close_price": 0.43,
+    "gross_pnl": 0.09499999999999997
   },
   {
     "id": "958335946131_1786108989",
@@ -103581,5 +103584,39 @@
     "target_close_ts": 1786481651,
     "status": "open",
     "opened_at_run_ts": 1786395292
+  },
+  {
+    "id": "890245957570_1786398491",
+    "token_id": "89024595757038494332641694762244778634558127292492915605541302715615317350845",
+    "market_id": "3409360",
+    "question": "LoL: Leviatan Esports vs RED Canids (BO3) - CBLOL Regular Season",
+    "slug": "lol-lev-red-2026-08-10",
+    "open_ts": 1786398491,
+    "open_price": 0.375,
+    "six_h_ago_ts": 1786377628,
+    "six_h_ago_price": 0.125,
+    "dp_6h": 0.25,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1786484891,
+    "status": "open",
+    "opened_at_run_ts": 1786398730
+  },
+  {
+    "id": "373398664127_1786398430",
+    "token_id": "37339866412762374521011533702388035320362413459719192311153751375518880254429",
+    "market_id": "3253759",
+    "question": "Will Elon Musk post 180-199 tweets from August 4 to August 11, 2026?",
+    "slug": "elon-musk-of-tweets-august-4-august-11-180-199",
+    "open_ts": 1786398430,
+    "open_price": 0.435,
+    "six_h_ago_ts": 1786377626,
+    "six_h_ago_price": 0.595,
+    "dp_6h": -0.15999999999999998,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1786484830,
+    "status": "open",
+    "opened_at_run_ts": 1786398730
   }
 ]
