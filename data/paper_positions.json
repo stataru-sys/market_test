@@ -100153,8 +100153,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1786361712,
-    "status": "open",
-    "opened_at_run_ts": 1786275482
+    "status": "closed",
+    "opened_at_run_ts": 1786275482,
+    "close_ts": 1786362789,
+    "close_price": 0.305,
+    "gross_pnl": 0.09000000000000002
   },
   {
     "id": "592061964722_1786275370",
@@ -102892,5 +102895,39 @@
     "target_close_ts": 1786443849,
     "status": "open",
     "opened_at_run_ts": 1786357525
+  },
+  {
+    "id": "363189841006_1786362549",
+    "token_id": "36318984100607774545075608710565469923242360696071539392844010969438918907262",
+    "market_id": "3407529",
+    "question": "LoL: Hanwha Life Esports Challengers vs Gen.G Global Academy (BO3) - LCK Challengers League Rounds 3-4 Trial Group",
+    "slug": "lol-hle-genga-2026-08-10",
+    "open_ts": 1786362549,
+    "open_price": 0.495,
+    "six_h_ago_ts": 1786341608,
+    "six_h_ago_price": 0.765,
+    "dp_6h": -0.27,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1786448949,
+    "status": "open",
+    "opened_at_run_ts": 1786362871
+  },
+  {
+    "id": "476348268659_1786362787",
+    "token_id": "47634826865992895357722255217362801821363520064147810594641020036242741165032",
+    "market_id": "3408805",
+    "question": "Valorant: TEC Esports vs Dragon Ranger Gaming (BO3) - VCT China Stage 2 Play-Ins",
+    "slug": "val-tec-drg-2026-08-10",
+    "open_ts": 1786362787,
+    "open_price": 0.615,
+    "six_h_ago_ts": 1786341610,
+    "six_h_ago_price": 0.355,
+    "dp_6h": 0.26,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1786449187,
+    "status": "open",
+    "opened_at_run_ts": 1786362871
   }
 ]
