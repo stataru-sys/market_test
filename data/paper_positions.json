@@ -103978,5 +103978,39 @@
     "target_close_ts": 1786509190,
     "status": "open",
     "opened_at_run_ts": 1786422900
+  },
+  {
+    "id": "112259547228_1786427846",
+    "token_id": "112259547228468036285022399158573079280779573669455053167100783160474504683284",
+    "market_id": "3421409",
+    "question": "Astana: Vadym Ursu vs Manoj Dhamne Manas",
+    "slug": "atp-ursu-manas-2026-08-10",
+    "open_ts": 1786427846,
+    "open_price": 0.215,
+    "six_h_ago_ts": 1786406424,
+    "six_h_ago_price": 0.375,
+    "dp_6h": -0.16,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1786514246,
+    "status": "open",
+    "opened_at_run_ts": 1786427947
+  },
+  {
+    "id": "909861629994_1786427890",
+    "token_id": "90986162999434911527551386391431322336082059787978013842263132636826709540823",
+    "market_id": "3369989",
+    "question": "Dana White's Contender Series: Alik Lorenz vs. Mahamed Aly (Light Heavyweight, Main Card)",
+    "slug": "ufc-ali8-mah4-2026-08-18",
+    "open_ts": 1786427890,
+    "open_price": 0.42,
+    "six_h_ago_ts": 1786406421,
+    "six_h_ago_price": 0.245,
+    "dp_6h": 0.175,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1786514290,
+    "status": "open",
+    "opened_at_run_ts": 1786427947
   }
 ]
