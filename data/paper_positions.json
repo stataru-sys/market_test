@@ -103909,8 +103909,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1786501209,
-    "status": "open",
-    "opened_at_run_ts": 1786414851
+    "status": "closed",
+    "opened_at_run_ts": 1786414851,
+    "close_ts": 1786510331,
+    "close_price": 0.645,
+    "gross_pnl": 0.025000000000000022
   },
   {
     "id": "233778989563_1786414691",
@@ -103977,8 +103980,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1786509072,
-    "status": "open",
-    "opened_at_run_ts": 1786422900
+    "status": "closed",
+    "opened_at_run_ts": 1786422900,
+    "close_ts": 1786510295,
+    "close_price": 0.1555,
+    "gross_pnl": -0.01200000000000001
   },
   {
     "id": "376530718746_1786422790",
@@ -105764,5 +105770,39 @@
     "target_close_ts": 1786588569,
     "status": "open",
     "opened_at_run_ts": 1786502173
+  },
+  {
+    "id": "928779828134_1786510451",
+    "token_id": "92877982813488418116498237145305526260785751322035261386090121199054608707556",
+    "market_id": "3410631",
+    "question": "Will Kai and Speed have 90 or more total in-game deaths during their Minecraft marathon?",
+    "slug": "will-kai-and-speed-have-90-or-more-total-in-game-deaths-during-their-minecraft-marathon-20260807054442845",
+    "open_ts": 1786510451,
+    "open_price": 0.105,
+    "six_h_ago_ts": 1786489212,
+    "six_h_ago_price": 0.265,
+    "dp_6h": -0.16000000000000003,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1786596851,
+    "status": "open",
+    "opened_at_run_ts": 1786510525
+  },
+  {
+    "id": "300022436689_1786510450",
+    "token_id": "30002243668977944369255393560286180317018096968522789517734208894051047320592",
+    "market_id": "3506177",
+    "question": "Cincinnati Open, Qualification: Rebecca Sramkova vs Elsa Jacquemot",
+    "slug": "wta-sramkov-jacquem-2026-08-11",
+    "open_ts": 1786510450,
+    "open_price": 0.845,
+    "six_h_ago_ts": 1786489211,
+    "six_h_ago_price": 0.665,
+    "dp_6h": 0.17999999999999994,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1786596850,
+    "status": "open",
+    "opened_at_run_ts": 1786510525
   }
 ]
