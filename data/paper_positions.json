@@ -108323,8 +108323,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1786723512,
-    "status": "open",
-    "opened_at_run_ts": 1786637220
+    "status": "closed",
+    "opened_at_run_ts": 1786637220,
+    "close_ts": 1786726629,
+    "close_price": 0.135,
+    "gross_pnl": -0.3
   },
   {
     "id": "906376346024_1786637172",
@@ -108340,8 +108343,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1786723572,
-    "status": "open",
-    "opened_at_run_ts": 1786637220
+    "status": "closed",
+    "opened_at_run_ts": 1786637220,
+    "close_ts": 1786726935,
+    "close_price": 0.161,
+    "gross_pnl": -0.20299999999999999
   },
   {
     "id": "298836797973_1786637113",
@@ -108408,8 +108414,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1786723332,
-    "status": "open",
-    "opened_at_run_ts": 1786637220
+    "status": "closed",
+    "opened_at_run_ts": 1786637220,
+    "close_ts": 1786726823,
+    "close_price": 0.83,
+    "gross_pnl": -0.22999999999999998
   },
   {
     "id": "780852922131_1786637171",
@@ -110467,5 +110476,73 @@
     "target_close_ts": 1786809313,
     "status": "open",
     "opened_at_run_ts": 1786723179
+  },
+  {
+    "id": "930842903071_1786726752",
+    "token_id": "93084290307165664269575066020030300274831273278768229420515746887264289910617",
+    "market_id": "3573156",
+    "question": "Cincinnati Open: Mananchaya Sawangkaew vs Anna Blinkova",
+    "slug": "wta-sawangk-blinkov-2026-08-14",
+    "open_ts": 1786726752,
+    "open_price": 0.855,
+    "six_h_ago_ts": 1786705216,
+    "six_h_ago_price": 0.545,
+    "dp_6h": 0.30999999999999994,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1786813152,
+    "status": "open",
+    "opened_at_run_ts": 1786726946
+  },
+  {
+    "id": "561964698827_1786726820",
+    "token_id": "56196469882788076755457523325707714549844676022380174422105448136708238161207",
+    "market_id": "3533663",
+    "question": "Cincinnati Open: Sebastian Baez vs Grigor Dimitrov",
+    "slug": "atp-baez-dimitro-2026-08-13",
+    "open_ts": 1786726820,
+    "open_price": 0.135,
+    "six_h_ago_ts": 1786705213,
+    "six_h_ago_price": 0.415,
+    "dp_6h": -0.27999999999999997,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1786813220,
+    "status": "open",
+    "opened_at_run_ts": 1786726946
+  },
+  {
+    "id": "924094644500_1786726629",
+    "token_id": "92409464450021199852187783195680755766115714032136829028509176563974536226788",
+    "market_id": "3543308",
+    "question": "Todi: Marco Cecchinato vs Juan Bautista Torres",
+    "slug": "atp-cecchin-torres-2026-08-14",
+    "open_ts": 1786726629,
+    "open_price": 0.895,
+    "six_h_ago_ts": 1786705218,
+    "six_h_ago_price": 0.715,
+    "dp_6h": 0.18000000000000005,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1786813029,
+    "status": "open",
+    "opened_at_run_ts": 1786726946
+  },
+  {
+    "id": "570148480186_1786726752",
+    "token_id": "57014848018698724232790155162891475645927426599061959743514646591212751542706",
+    "market_id": "3539432",
+    "question": "Olympique Marseille vs. Atletico Madrid: O/U 3.5",
+    "slug": "clf-olm-atm-2026-08-14-total-3pt5",
+    "open_ts": 1786726752,
+    "open_price": 0.245,
+    "six_h_ago_ts": 1786705215,
+    "six_h_ago_price": 0.395,
+    "dp_6h": -0.15000000000000002,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1786813152,
+    "status": "open",
+    "opened_at_run_ts": 1786726946
   }
 ]
