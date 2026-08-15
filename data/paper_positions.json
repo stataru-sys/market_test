@@ -112366,5 +112366,39 @@
     "target_close_ts": 1786865534,
     "status": "open",
     "opened_at_run_ts": 1786779427
+  },
+  {
+    "id": "737347708148_1786783091",
+    "token_id": "73734770814856486300500066074271446698519990158075532164869756024990283778283",
+    "market_id": "3434694",
+    "question": "LoL: Hanwha Life Esports vs KT Rolster (BO3) - LCK Round 3-4 Legend Group",
+    "slug": "lol-hle1-kt-2026-08-15",
+    "open_ts": 1786783091,
+    "open_price": 0.465,
+    "six_h_ago_ts": 1786762815,
+    "six_h_ago_price": 0.705,
+    "dp_6h": -0.23999999999999994,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1786869491,
+    "status": "open",
+    "opened_at_run_ts": 1786783151
+  },
+  {
+    "id": "654105096874_1786783152",
+    "token_id": "65410509687432809919711004831246114741707197997592218526501089206587424498172",
+    "market_id": "3551080",
+    "question": "Valorant: Bilibili Gaming vs Trace Esports (BO3) - VCT China Stage 2 Playoffs",
+    "slug": "val-blg-te-2026-08-15",
+    "open_ts": 1786783152,
+    "open_price": 0.425,
+    "six_h_ago_ts": 1786762816,
+    "six_h_ago_price": 0.585,
+    "dp_6h": -0.15999999999999998,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1786869552,
+    "status": "open",
+    "opened_at_run_ts": 1786783151
   }
 ]
