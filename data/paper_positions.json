@@ -115262,5 +115262,39 @@
     "target_close_ts": 1786944913,
     "status": "open",
     "opened_at_run_ts": 1786858578
+  },
+  {
+    "id": "595180714712_1786863068",
+    "token_id": "59518071471240405844040864746836461808957009130443088568554024384828805396512",
+    "market_id": "3445188",
+    "question": "Saskatchewan Roughriders vs. Hamilton Tiger-Cats",
+    "slug": "cfl-ssk-ham-2026-08-15",
+    "open_ts": 1786863068,
+    "open_price": 0.246,
+    "six_h_ago_ts": 1786842013,
+    "six_h_ago_price": 0.87,
+    "dp_6h": -0.624,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1786949468,
+    "status": "open",
+    "opened_at_run_ts": 1786863218
+  },
+  {
+    "id": "846865390800_1786863013",
+    "token_id": "84686539080025732830916426023462065490458695542794371523031117083477901390657",
+    "market_id": "3596038",
+    "question": "Bitcoin Up or Down - August 16, 12:00AM-4:00AM ET",
+    "slug": "btc-updown-4h-1786852800",
+    "open_ts": 1786863013,
+    "open_price": 0.185,
+    "six_h_ago_ts": 1786842014,
+    "six_h_ago_price": 0.505,
+    "dp_6h": -0.32,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1786949413,
+    "status": "open",
+    "opened_at_run_ts": 1786863218
   }
 ]
