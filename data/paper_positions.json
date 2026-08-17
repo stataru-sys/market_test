@@ -120252,5 +120252,39 @@
     "target_close_ts": 1787085371,
     "status": "open",
     "opened_at_run_ts": 1786998983
+  },
+  {
+    "id": "370855537782_1787002216",
+    "token_id": "37085553778276796294753153536142659389319650592310653004420953769545067529035",
+    "market_id": "3414461",
+    "question": "Will Elon Musk post 140-159 tweets from August 11 to August 18, 2026?",
+    "slug": "elon-musk-of-tweets-august-11-august-18-140-159",
+    "open_ts": 1787002216,
+    "open_price": 0.2815,
+    "six_h_ago_ts": 1786978818,
+    "six_h_ago_price": 0.1285,
+    "dp_6h": 0.15299999999999997,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1787088616,
+    "status": "open",
+    "opened_at_run_ts": 1787002450
+  },
+  {
+    "id": "101431603273_1787002211",
+    "token_id": "101431603273380161833439578936620063756396218446623640790672233816245506381616",
+    "market_id": "3342914",
+    "question": "Will CA Independiente win on 2026-08-17?",
+    "slug": "arg-lan-ind-2026-08-17-ind",
+    "open_ts": 1787002211,
+    "open_price": 0.665,
+    "six_h_ago_ts": 1786978812,
+    "six_h_ago_price": 0.255,
+    "dp_6h": 0.41000000000000003,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1787088611,
+    "status": "open",
+    "opened_at_run_ts": 1787002450
   }
 ]
