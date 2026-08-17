@@ -119280,5 +119280,39 @@
     "target_close_ts": 1787057834,
     "status": "open",
     "opened_at_run_ts": 1786971630
+  },
+  {
+    "id": "441901534346_1786974132",
+    "token_id": "44190153434608661460702064526271309905640489286203683777746007677600196843898",
+    "market_id": "3563923",
+    "question": "LoL: T1 vs DN SOOPers - Game 4 Winner",
+    "slug": "lol-t1-dnf-2026-08-17-game4",
+    "open_ts": 1786974132,
+    "open_price": 0.315,
+    "six_h_ago_ts": 1786953615,
+    "six_h_ago_price": 0.505,
+    "dp_6h": -0.19,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1787060532,
+    "status": "open",
+    "opened_at_run_ts": 1786974450
+  },
+  {
+    "id": "343129344724_1786974433",
+    "token_id": "34312934472421302605772370045113503910079886309086370682187744364230770346895",
+    "market_id": "3616234",
+    "question": "Bitcoin Up or Down - August 17, 9AM ET",
+    "slug": "bitcoin-up-or-down-august-17-2026-9am-et",
+    "open_ts": 1786974433,
+    "open_price": 0.73,
+    "six_h_ago_ts": 1786953616,
+    "six_h_ago_price": 0.505,
+    "dp_6h": 0.22499999999999998,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1787060833,
+    "status": "open",
+    "opened_at_run_ts": 1786974450
   }
 ]
