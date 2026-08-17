@@ -118889,5 +118889,39 @@
     "target_close_ts": 1787028732,
     "status": "open",
     "opened_at_run_ts": 1786942356
+  },
+  {
+    "id": "291739569262_1786945388",
+    "token_id": "29173956926239035794200498542957989663718964841293031378562652245173297181363",
+    "market_id": "3616193",
+    "question": "Bitcoin Up or Down - August 17, 1AM ET",
+    "slug": "bitcoin-up-or-down-august-17-2026-1am-et",
+    "open_ts": 1786945388,
+    "open_price": 0.125,
+    "six_h_ago_ts": 1786924819,
+    "six_h_ago_price": 0.505,
+    "dp_6h": -0.38,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1787031788,
+    "status": "open",
+    "opened_at_run_ts": 1786945382
+  },
+  {
+    "id": "585972415843_1786945388",
+    "token_id": "58597241584386464836844506755394501172159359211614290252841122786220929713274",
+    "market_id": "3614625",
+    "question": "Will the highest temperature in Shanghai be 31°C on August 17?",
+    "slug": "highest-temperature-in-shanghai-on-august-17-2026-31c",
+    "open_ts": 1786945388,
+    "open_price": 0.755,
+    "six_h_ago_ts": 1786924818,
+    "six_h_ago_price": 0.565,
+    "dp_6h": 0.19000000000000006,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1787031788,
+    "status": "open",
+    "opened_at_run_ts": 1786945382
   }
 ]
