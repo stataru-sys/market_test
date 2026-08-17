@@ -119263,5 +119263,22 @@
     "target_close_ts": 1787052850,
     "status": "open",
     "opened_at_run_ts": 1786966463
+  },
+  {
+    "id": "700317635981_1786971434",
+    "token_id": "70031763598155510516029177089903474979861034637581075823148264447422517133739",
+    "market_id": "3652146",
+    "question": "Counter-Strike: Noir Verse vs ex-RUSTEC (BO3) - CCT Europe Closed Qualifier: Series #7 Play-In",
+    "slug": "cs2-noirve-rustec-2026-08-17",
+    "open_ts": 1786971434,
+    "open_price": 0.23,
+    "six_h_ago_ts": 1786950015,
+    "six_h_ago_price": 0.41,
+    "dp_6h": -0.17999999999999997,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1787057834,
+    "status": "open",
+    "opened_at_run_ts": 1786971630
   }
 ]
