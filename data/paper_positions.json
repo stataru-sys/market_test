@@ -119093,5 +119093,39 @@
     "target_close_ts": 1787043188,
     "status": "open",
     "opened_at_run_ts": 1786956870
+  },
+  {
+    "id": "584733312595_1786960272",
+    "token_id": "58473331259567059917833522276395416728526754165264263916328903380142365732203",
+    "market_id": "3565497",
+    "question": "Will Elon Musk post <40 tweets from August 15 to August 17, 2026?",
+    "slug": "elon-musk-of-tweets-august-15-august-17-0-39",
+    "open_ts": 1786960272,
+    "open_price": 0.64,
+    "six_h_ago_ts": 1786939212,
+    "six_h_ago_price": 0.395,
+    "dp_6h": 0.245,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1787046672,
+    "status": "open",
+    "opened_at_run_ts": 1786960331
+  },
+  {
+    "id": "982914760768_1786960328",
+    "token_id": "98291476076829939810500785649067584653614604237110757429741869593142700497523",
+    "market_id": "3638265",
+    "question": "Prague: Andrej Martin vs Javier Barranco Cosano",
+    "slug": "atp-mar-cosano-2026-08-17",
+    "open_ts": 1786960328,
+    "open_price": 0.215,
+    "six_h_ago_ts": 1786939209,
+    "six_h_ago_price": 0.435,
+    "dp_6h": -0.22,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1787046728,
+    "status": "open",
+    "opened_at_run_ts": 1786960331
   }
 ]
