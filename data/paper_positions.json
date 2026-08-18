@@ -118842,8 +118842,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1787028489,
-    "status": "open",
-    "opened_at_run_ts": 1786942356
+    "status": "closed",
+    "opened_at_run_ts": 1786942356,
+    "close_ts": 1787031191,
+    "close_price": 0.6095,
+    "gross_pnl": -0.127
   },
   {
     "id": "333942696601_1786942089",
@@ -120986,5 +120989,39 @@
     "target_close_ts": 1787114654,
     "status": "open",
     "opened_at_run_ts": 1787028272
+  },
+  {
+    "id": "299922888724_1787031191",
+    "token_id": "29992288872423155236420990736015216750162565318197072026457337450001855014522",
+    "market_id": "3624124",
+    "question": "Will the highest temperature in Hong Kong be 32°C on August 18?",
+    "slug": "highest-temperature-in-hong-kong-on-august-18-2026-32c",
+    "open_ts": 1787031191,
+    "open_price": 0.115,
+    "six_h_ago_ts": 1787011235,
+    "six_h_ago_price": 0.42,
+    "dp_6h": -0.305,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1787117591,
+    "status": "open",
+    "opened_at_run_ts": 1787031437
+  },
+  {
+    "id": "108007474542_1787031188",
+    "token_id": "108007474542377814944823656112363686423977638709253474379849126387203898838534",
+    "market_id": "3666324",
+    "question": "ITF W15 Tianjin 3 Women: Alisa Vasileva vs Maiko Uchijima",
+    "slug": "itf-vasilev-uchijim-2026-08-18",
+    "open_ts": 1787031188,
+    "open_price": 0.79,
+    "six_h_ago_ts": 1787011226,
+    "six_h_ago_price": 0.275,
+    "dp_6h": 0.515,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1787117588,
+    "status": "open",
+    "opened_at_run_ts": 1787031437
   }
 ]
