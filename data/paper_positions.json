@@ -123010,5 +123010,39 @@
     "target_close_ts": 1787204350,
     "status": "open",
     "opened_at_run_ts": 1787117934
+  },
+  {
+    "id": "173457632321_1787122628",
+    "token_id": "17345763232198914381684095290232413846036591751352216180826307439939412129505",
+    "market_id": "3583739",
+    "question": "LoL: KT Rolster Challengers vs T1 Academy (BO3) - LCK Challengers League Rounds 3-4 Challenge Group",
+    "slug": "lol-ktc-t1a-2026-08-19",
+    "open_ts": 1787122628,
+    "open_price": 0.7,
+    "six_h_ago_ts": 1787101214,
+    "six_h_ago_price": 0.425,
+    "dp_6h": 0.27499999999999997,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1787209028,
+    "status": "open",
+    "opened_at_run_ts": 1787122744
+  },
+  {
+    "id": "491050249981_1787122513",
+    "token_id": "49105024998111384940110173887525025256443218499209994530011924748898468617348",
+    "market_id": "3655316",
+    "question": "Will the highest temperature in Hong Kong be 32°C on August 19?",
+    "slug": "highest-temperature-in-hong-kong-on-august-19-2026-32c",
+    "open_ts": 1787122513,
+    "open_price": 0.78,
+    "six_h_ago_ts": 1787101219,
+    "six_h_ago_price": 0.39,
+    "dp_6h": 0.39,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1787208913,
+    "status": "open",
+    "opened_at_run_ts": 1787122744
   }
 ]
