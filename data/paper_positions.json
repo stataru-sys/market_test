@@ -123282,5 +123282,39 @@
     "target_close_ts": 1787218754,
     "status": "open",
     "opened_at_run_ts": 1787132554
+  },
+  {
+    "id": "100951106153_1787135591",
+    "token_id": "100951106153394121159735125034669079437335833095004639200113500099962685794234",
+    "market_id": "3591439",
+    "question": "Games Total: O/U 2.5",
+    "slug": "lol-gen-kt-2026-08-19-total-games-2pt5",
+    "open_ts": 1787135591,
+    "open_price": 0.175,
+    "six_h_ago_ts": 1787115612,
+    "six_h_ago_price": 0.365,
+    "dp_6h": -0.19,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1787221991,
+    "status": "open",
+    "opened_at_run_ts": 1787135896
+  },
+  {
+    "id": "928263441568_1787135829",
+    "token_id": "92826344156877007754170434995871013633404254725590125867219960189309874372833",
+    "market_id": "3653969",
+    "question": "Will Bitcoin dip to $60,000 August 17-23?",
+    "slug": "will-bitcoin-dip-to-60k-august-17-23-2026",
+    "open_ts": 1787135829,
+    "open_price": 0.507,
+    "six_h_ago_ts": 1787115614,
+    "six_h_ago_price": 0.0435,
+    "dp_6h": 0.4635,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1787222229,
+    "status": "open",
+    "opened_at_run_ts": 1787135896
   }
 ]
