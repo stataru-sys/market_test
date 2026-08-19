@@ -122993,5 +122993,22 @@
     "target_close_ts": 1787197875,
     "status": "open",
     "opened_at_run_ts": 1787111679
+  },
+  {
+    "id": "830876015508_1787117950",
+    "token_id": "83087601550838921096796275547503698014069788336206087559155884723435530672664",
+    "market_id": "3575626",
+    "question": "Will Sri Lanka win?",
+    "slug": "crint-lka-ind-2026-08-15-lka",
+    "open_ts": 1787117950,
+    "open_price": 0.4625,
+    "six_h_ago_ts": 1787097617,
+    "six_h_ago_price": 0.01,
+    "dp_6h": 0.4525,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1787204350,
+    "status": "open",
+    "opened_at_run_ts": 1787117934
   }
 ]
