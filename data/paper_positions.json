@@ -122959,5 +122959,39 @@
     "target_close_ts": 1787195051,
     "status": "open",
     "opened_at_run_ts": 1787108758
+  },
+  {
+    "id": "649044512043_1787111529",
+    "token_id": "64904451204354428597256603846990032583068096503100929230087190028816886686709",
+    "market_id": "3656033",
+    "question": "Cancun: Pablo Llamas Ruiz vs Francisco Comesana",
+    "slug": "atp-ruiz-comesan-2026-08-18",
+    "open_ts": 1787111529,
+    "open_price": 0.685,
+    "six_h_ago_ts": 1787090412,
+    "six_h_ago_price": 0.495,
+    "dp_6h": 0.19000000000000006,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1787197929,
+    "status": "open",
+    "opened_at_run_ts": 1787111679
+  },
+  {
+    "id": "953502171261_1787111475",
+    "token_id": "95350217126154942222058223565159642588767168393300569055263957940538649214981",
+    "market_id": "3653499",
+    "question": "Bitcoin Up or Down - August 18, 11PM ET",
+    "slug": "bitcoin-up-or-down-august-18-2026-11pm-et",
+    "open_ts": 1787111475,
+    "open_price": 0.715,
+    "six_h_ago_ts": 1787090416,
+    "six_h_ago_price": 0.505,
+    "dp_6h": 0.20999999999999996,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1787197875,
+    "status": "open",
+    "opened_at_run_ts": 1787111679
   }
 ]
