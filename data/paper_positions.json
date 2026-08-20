@@ -126104,5 +126104,22 @@
     "target_close_ts": 1787295372,
     "status": "open",
     "opened_at_run_ts": 1787209188
+  },
+  {
+    "id": "101028650168_1787212034",
+    "token_id": "101028650168194677069630427574598819381546668487248022828323675030946075448144",
+    "market_id": "3632455",
+    "question": "Dota 2: TEAM VISION vs BoomBoys (BO3) - The International Playoffs",
+    "slug": "dota2-vsn2-boombo-2026-08-20",
+    "open_ts": 1787212034,
+    "open_price": 0.885,
+    "six_h_ago_ts": 1787191220,
+    "six_h_ago_price": 0.725,
+    "dp_6h": 0.16000000000000003,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1787298434,
+    "status": "open",
+    "opened_at_run_ts": 1787212184
   }
 ]
