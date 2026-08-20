@@ -126070,5 +126070,39 @@
     "target_close_ts": 1787290512,
     "status": "open",
     "opened_at_run_ts": 1787204324
+  },
+  {
+    "id": "621944972477_1787208912",
+    "token_id": "62194497247731958880831733175162777903188137364561473475028477003266544281896",
+    "market_id": "3632453",
+    "question": "Dota 2: TEAM VISION vs BoomBoys - Game 1 Winner",
+    "slug": "dota2-vsn2-boombo-2026-08-20-game1",
+    "open_ts": 1787208912,
+    "open_price": 0.325,
+    "six_h_ago_ts": 1787187613,
+    "six_h_ago_price": 0.665,
+    "dp_6h": -0.34,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1787295312,
+    "status": "open",
+    "opened_at_run_ts": 1787209188
+  },
+  {
+    "id": "147481329896_1787208972",
+    "token_id": "14748132989688971023897202073424428570908598961757828560837166852224644365908",
+    "market_id": "3632457",
+    "question": "Game Handicap: VSN (-1.5) vs BoomBoys (+1.5)",
+    "slug": "dota2-vsn2-boombo-2026-08-20-game-handicap-away-1pt5",
+    "open_ts": 1787208972,
+    "open_price": 0.21,
+    "six_h_ago_ts": 1787187613,
+    "six_h_ago_price": 0.445,
+    "dp_6h": -0.23500000000000001,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1787295372,
+    "status": "open",
+    "opened_at_run_ts": 1787209188
   }
 ]
