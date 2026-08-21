@@ -128568,5 +128568,39 @@
     "target_close_ts": 1787381889,
     "status": "open",
     "opened_at_run_ts": 1787295672
+  },
+  {
+    "id": "404989510460_1787298368",
+    "token_id": "4049895104609711288737144352047435266796318342609701121176261363538907943447",
+    "market_id": "3747863",
+    "question": "Dota 2: Team Liquid vs Team Falcons (BO3) - The International Playoffs",
+    "slug": "dota2-liquid-flc-2026-08-21",
+    "open_ts": 1787298368,
+    "open_price": 0.275,
+    "six_h_ago_ts": 1787277613,
+    "six_h_ago_price": 0.525,
+    "dp_6h": -0.25,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1787384768,
+    "status": "open",
+    "opened_at_run_ts": 1787298647
+  },
+  {
+    "id": "317344241682_1787298490",
+    "token_id": "31734424168237596878093202625176187840132850737494147629944991624389395017927",
+    "market_id": "3572184",
+    "question": "LoL: EDward Gaming vs ThunderTalk Gaming (BO3) - LPL Group Ascend",
+    "slug": "lol-edg-tt-2026-08-21",
+    "open_ts": 1787298490,
+    "open_price": 0.645,
+    "six_h_ago_ts": 1787277616,
+    "six_h_ago_price": 0.425,
+    "dp_6h": 0.22000000000000003,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1787384890,
+    "status": "open",
+    "opened_at_run_ts": 1787298647
   }
 ]
