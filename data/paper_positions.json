@@ -128551,5 +128551,22 @@
     "target_close_ts": 1787377271,
     "status": "open",
     "opened_at_run_ts": 1787290852
+  },
+  {
+    "id": "214581034740_1787295489",
+    "token_id": "2145810347400408975553852975525892897932466069376795760115988813199487017927",
+    "market_id": "3747861",
+    "question": "Dota 2: Team Liquid vs Team Falcons - Game 1 Winner",
+    "slug": "dota2-liquid-flc-2026-08-21-game1",
+    "open_ts": 1787295489,
+    "open_price": 0.27,
+    "six_h_ago_ts": 1787274029,
+    "six_h_ago_price": 0.515,
+    "dp_6h": -0.245,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1787381889,
+    "status": "open",
+    "opened_at_run_ts": 1787295672
   }
 ]
