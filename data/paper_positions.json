@@ -129217,5 +129217,39 @@
     "target_close_ts": 1787403792,
     "status": "open",
     "opened_at_run_ts": 1787317439
+  },
+  {
+    "id": "428405477999_1787320153",
+    "token_id": "42840547799923521862917683330113445000672298393391372905927742267668738358839",
+    "market_id": "3720710",
+    "question": "Bitcoin Up or Down - August 21, 9AM ET",
+    "slug": "bitcoin-up-or-down-august-21-2026-9am-et",
+    "open_ts": 1787320153,
+    "open_price": 0.725,
+    "six_h_ago_ts": 1787299220,
+    "six_h_ago_price": 0.505,
+    "dp_6h": 0.21999999999999997,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1787406553,
+    "status": "open",
+    "opened_at_run_ts": 1787320423
+  },
+  {
+    "id": "480869881032_1787320454",
+    "token_id": "48086988103240525036680925324915244711452675241006064898926733708967313694812",
+    "market_id": "3603616",
+    "question": "KBO: KT Wiz vs. SSG Landers",
+    "slug": "kbo-kt-ssg-2026-08-21",
+    "open_ts": 1787320454,
+    "open_price": 0.325,
+    "six_h_ago_ts": 1787299226,
+    "six_h_ago_price": 0.615,
+    "dp_6h": -0.29,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1787406854,
+    "status": "open",
+    "opened_at_run_ts": 1787320423
   }
 ]
