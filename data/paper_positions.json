@@ -128646,8 +128646,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1787388609,
-    "status": "open",
-    "opened_at_run_ts": 1787302344
+    "status": "closed",
+    "opened_at_run_ts": 1787302344,
+    "close_ts": 1787391264,
+    "close_price": 0.3355,
+    "gross_pnl": 0.1245
   },
   {
     "id": "112241751071_1787302212",
@@ -128663,8 +128666,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1787388612,
-    "status": "open",
-    "opened_at_run_ts": 1787302344
+    "status": "closed",
+    "opened_at_run_ts": 1787302344,
+    "close_ts": 1787391313,
+    "close_price": 0.1805,
+    "gross_pnl": 0.07150000000000001
   },
   {
     "id": "939249694699_1787302274",
@@ -128680,8 +128686,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1787388674,
-    "status": "open",
-    "opened_at_run_ts": 1787302344
+    "status": "closed",
+    "opened_at_run_ts": 1787302344,
+    "close_ts": 1787391313,
+    "close_price": 0.845,
+    "gross_pnl": 0.020000000000000018
   },
   {
     "id": "107328005707_1787302089",
@@ -128782,8 +128791,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1787388745,
-    "status": "open",
-    "opened_at_run_ts": 1787302344
+    "status": "closed",
+    "opened_at_run_ts": 1787302344,
+    "close_ts": 1787391135,
+    "close_price": 0.472,
+    "gross_pnl": 0.02350000000000002
   },
   {
     "id": "330079104334_1787302088",
@@ -131045,5 +131057,90 @@
     "target_close_ts": 1787474109,
     "status": "open",
     "opened_at_run_ts": 1787388030
+  },
+  {
+    "id": "775517491876_1787391192",
+    "token_id": "77551749187607789127730557185142783042608045973520109508207216328701933950175",
+    "market_id": "3764981",
+    "question": "Dota 2: TEAM VISION vs Team Yandex - Game 1 Winner",
+    "slug": "dota2-vsn2-ty-2026-08-22-game1",
+    "open_ts": 1787391192,
+    "open_price": 0.865,
+    "six_h_ago_ts": 1787371214,
+    "six_h_ago_price": 0.685,
+    "dp_6h": 0.17999999999999994,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1787477592,
+    "status": "open",
+    "opened_at_run_ts": 1787391350
+  },
+  {
+    "id": "348310076227_1787391265",
+    "token_id": "34831007622752009482478670017146696652033019710166849651975981799034568366373",
+    "market_id": "3591575",
+    "question": "LoL: Dplus KIA vs Gen.G - Game 2 Winner",
+    "slug": "lol-dk-gen-2026-08-22-game2",
+    "open_ts": 1787391265,
+    "open_price": 0.555,
+    "six_h_ago_ts": 1787371215,
+    "six_h_ago_price": 0.385,
+    "dp_6h": 0.17000000000000004,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1787477665,
+    "status": "open",
+    "opened_at_run_ts": 1787391350
+  },
+  {
+    "id": "938615748309_1787391311",
+    "token_id": "93861574830947991069417944189096086914201740535860525485929519908100205813418",
+    "market_id": "3732775",
+    "question": "Valorant: ONSIDE GAMING vs FULL SENSE (BO3) - VCT Pacific Play-In",
+    "slug": "val-osg-fs1-2026-08-22",
+    "open_ts": 1787391311,
+    "open_price": 0.735,
+    "six_h_ago_ts": 1787371216,
+    "six_h_ago_price": 0.355,
+    "dp_6h": 0.38,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1787477711,
+    "status": "open",
+    "opened_at_run_ts": 1787391350
+  },
+  {
+    "id": "774325207151_1787391312",
+    "token_id": "77432520715106007290641416952741486321499072580902162349246574449087781100707",
+    "market_id": "3731522",
+    "question": "Counter-Strike: Team Nemesis vs Color (BO3) - Moscow Cyber Games European Qualifier Group Stage",
+    "slug": "cs2-nem-color-2026-08-22",
+    "open_ts": 1787391312,
+    "open_price": 0.79,
+    "six_h_ago_ts": 1787371217,
+    "six_h_ago_price": 0.595,
+    "dp_6h": 0.19500000000000006,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1787477712,
+    "status": "open",
+    "opened_at_run_ts": 1787391350
+  },
+  {
+    "id": "663582461707_1787391312",
+    "token_id": "66358246170707022877644536642435028105279168213652007721558722531180998156805",
+    "market_id": "3761279",
+    "question": "Valorant: Bilibili Gaming vs TYLOO (BO5) - VCT China Stage 2 Playoffs",
+    "slug": "val-blg-tyloo-2026-08-22",
+    "open_ts": 1787391312,
+    "open_price": 0.17,
+    "six_h_ago_ts": 1787371217,
+    "six_h_ago_price": 0.425,
+    "dp_6h": -0.255,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1787477712,
+    "status": "open",
+    "opened_at_run_ts": 1787391350
   }
 ]
