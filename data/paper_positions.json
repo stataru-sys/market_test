@@ -128490,8 +128490,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1787374093,
-    "status": "open",
-    "opened_at_run_ts": 1787287733
+    "status": "closed",
+    "opened_at_run_ts": 1787287733,
+    "close_ts": 1787376730,
+    "close_price": 0.603,
+    "gross_pnl": -0.2935
   },
   {
     "id": "403779699079_1787287691",
@@ -130872,5 +130875,39 @@
     "target_close_ts": 1787459831,
     "status": "open",
     "opened_at_run_ts": 1787373735
+  },
+  {
+    "id": "249005278656_1787376793",
+    "token_id": "24900527865627550329216442013516860709508871655953809120326211285852347866467",
+    "market_id": "3746515",
+    "question": "Ethereum Up or Down on August 22?",
+    "slug": "ethereum-up-or-down-on-august-22-2026",
+    "open_ts": 1787376793,
+    "open_price": 0.7535,
+    "six_h_ago_ts": 1787356818,
+    "six_h_ago_price": 0.94,
+    "dp_6h": -0.1865,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1787463193,
+    "status": "open",
+    "opened_at_run_ts": 1787376940
+  },
+  {
+    "id": "338512548667_1787376854",
+    "token_id": "33851254866716500524384873189804749888404321874672512805108428171240062360118",
+    "market_id": "3651221",
+    "question": "Will the price of Ethereum be above $2,400 on August 22?",
+    "slug": "ethereum-above-2400-on-august-22-2026",
+    "open_ts": 1787376854,
+    "open_price": 0.7305,
+    "six_h_ago_ts": 1787356826,
+    "six_h_ago_price": 0.94,
+    "dp_6h": -0.2094999999999999,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1787463254,
+    "status": "open",
+    "opened_at_run_ts": 1787376940
   }
 ]
