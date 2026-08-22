@@ -130109,8 +130109,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1787430852,
-    "status": "open",
-    "opened_at_run_ts": 1787344469
+    "status": "closed",
+    "opened_at_run_ts": 1787344469,
+    "close_ts": 1787433912,
+    "close_price": 0.785,
+    "gross_pnl": -0.31500000000000006
   },
   {
     "id": "136963503366_1787347693",
@@ -132474,5 +132477,22 @@
     "target_close_ts": 1787517016,
     "status": "open",
     "opened_at_run_ts": 1787430808
+  },
+  {
+    "id": "169624991230_1787434214",
+    "token_id": "16962499123031962322246837377152823866214858594652896431147953664570585052158",
+    "market_id": "3709095",
+    "question": "Will \"Insidious: Out of the Further\" Opening Weekend Box Office be less than 25m?",
+    "slug": "will-insidious-out-of-the-further-opening-weekend-box-office-be-less-than-25m",
+    "open_ts": 1787434214,
+    "open_price": 0.815,
+    "six_h_ago_ts": 1787410815,
+    "six_h_ago_price": 0.615,
+    "dp_6h": 0.19999999999999996,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1787520614,
+    "status": "open",
+    "opened_at_run_ts": 1787434202
   }
 ]
