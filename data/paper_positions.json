@@ -130960,5 +130960,22 @@
     "target_close_ts": 1787467929,
     "status": "open",
     "opened_at_run_ts": 1787381642
+  },
+  {
+    "id": "988020195643_1787384053",
+    "token_id": "98802019564393576331409021243060789168476497195245159514595415023143663200259",
+    "market_id": "3589197",
+    "question": "LoL: Team WE vs LGD Gaming (BO3) - LPL Group Ascend",
+    "slug": "lol-we-lgd-2026-08-22",
+    "open_ts": 1787384053,
+    "open_price": 0.345,
+    "six_h_ago_ts": 1787364014,
+    "six_h_ago_price": 0.585,
+    "dp_6h": -0.24,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1787470453,
+    "status": "open",
+    "opened_at_run_ts": 1787384304
   }
 ]
