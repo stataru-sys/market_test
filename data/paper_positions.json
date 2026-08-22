@@ -119021,8 +119021,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1787036952,
-    "status": "open",
-    "opened_at_run_ts": 1786950629
+    "status": "closed",
+    "opened_at_run_ts": 1786950629,
+    "close_ts": 1787416214,
+    "close_price": 0.435,
+    "gross_pnl": -0.030000000000000027
   },
   {
     "id": "471603805730_1786950552",
@@ -131689,5 +131692,39 @@
     "target_close_ts": 1787498892,
     "status": "open",
     "opened_at_run_ts": 1787412601
+  },
+  {
+    "id": "979862444299_1787416465",
+    "token_id": "97986244429993405301006613239860350847262749399039648046285499627250726259070",
+    "market_id": "3761199",
+    "question": "Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs",
+    "slug": "cs2-furia-fut-2026-08-22",
+    "open_ts": 1787416465,
+    "open_price": 0.875,
+    "six_h_ago_ts": 1787396429,
+    "six_h_ago_price": 0.615,
+    "dp_6h": 0.26,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1787502865,
+    "status": "open",
+    "opened_at_run_ts": 1787416496
+  },
+  {
+    "id": "928884215812_1787416394",
+    "token_id": "9288842158129009611105062819815566607344531324612068813116242739677485155336",
+    "market_id": "3438300",
+    "question": "Will CD Leganés win on 2026-08-22?",
+    "slug": "es2-ovi-leg-2026-08-22-leg",
+    "open_ts": 1787416394,
+    "open_price": 0.505,
+    "six_h_ago_ts": 1787396434,
+    "six_h_ago_price": 0.18,
+    "dp_6h": 0.325,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1787502794,
+    "status": "open",
+    "opened_at_run_ts": 1787416496
   }
 ]
