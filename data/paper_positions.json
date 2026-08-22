@@ -130838,5 +130838,39 @@
     "target_close_ts": 1787456953,
     "status": "open",
     "opened_at_run_ts": 1787370562
+  },
+  {
+    "id": "368034210041_1787373444",
+    "token_id": "36803421004188977196192688370181134836773604910806192948043997181943818452388",
+    "market_id": "3452506",
+    "question": "Will Querétaro FC win on 2026-08-22?",
+    "slug": "mex-que-tol-2026-08-22-que",
+    "open_ts": 1787373444,
+    "open_price": 0.425,
+    "six_h_ago_ts": 1787353222,
+    "six_h_ago_price": 0.245,
+    "dp_6h": 0.18,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1787459844,
+    "status": "open",
+    "opened_at_run_ts": 1787373735
+  },
+  {
+    "id": "157597164671_1787373431",
+    "token_id": "15759716467188492076578077912707517052549389817229865807573417166796931262503",
+    "market_id": "1383905",
+    "question": "Extended FDV above $150M one day after launch?",
+    "slug": "extended-fdv-above-150m-one-day-after-launch-452",
+    "open_ts": 1787373431,
+    "open_price": 0.455,
+    "six_h_ago_ts": 1787353218,
+    "six_h_ago_price": 0.675,
+    "dp_6h": -0.22000000000000003,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1787459831,
+    "status": "open",
+    "opened_at_run_ts": 1787373735
   }
 ]
