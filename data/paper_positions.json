@@ -130282,8 +130282,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1787437873,
-    "status": "open",
-    "opened_at_run_ts": 1787351655
+    "status": "closed",
+    "opened_at_run_ts": 1787351655,
+    "close_ts": 1787437813,
+    "close_price": 0.2665,
+    "gross_pnl": 0.25499999999999995
   },
   {
     "id": "312569698023_1787351416",
@@ -132494,5 +132497,56 @@
     "target_close_ts": 1787520614,
     "status": "open",
     "opened_at_run_ts": 1787434202
+  },
+  {
+    "id": "323668379536_1787437632",
+    "token_id": "32366837953602648093983985749524619553148716092686729481793566720157075169260",
+    "market_id": "3632984",
+    "question": "St. Louis Cardinals vs. Philadelphia Phillies",
+    "slug": "mlb-stl-phi-2026-08-22",
+    "open_ts": 1787437632,
+    "open_price": 0.155,
+    "six_h_ago_ts": 1787414414,
+    "six_h_ago_price": 0.415,
+    "dp_6h": -0.26,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1787524032,
+    "status": "open",
+    "opened_at_run_ts": 1787437925
+  },
+  {
+    "id": "103566823162_1787437572",
+    "token_id": "10356682316280794881747054881575566339426794710364605084777136179350021236559",
+    "market_id": "3716063",
+    "question": "LoL: Disguised vs Dignitas (BO3) - LCS Regular Season",
+    "slug": "lol-dsg-dig-2026-08-22",
+    "open_ts": 1787437572,
+    "open_price": 0.73,
+    "six_h_ago_ts": 1787414414,
+    "six_h_ago_price": 0.505,
+    "dp_6h": 0.22499999999999998,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1787523972,
+    "status": "open",
+    "opened_at_run_ts": 1787437925
+  },
+  {
+    "id": "779159216720_1787437932",
+    "token_id": "77915921672045720173310239244909663841575188703766751320239210040560552669481",
+    "market_id": "3767150",
+    "question": "Washington Nationals vs. Miami Marlins: O/U 7.5",
+    "slug": "mlb-wsh-mia-2026-08-22-total-7pt5",
+    "open_ts": 1787437932,
+    "open_price": 0.315,
+    "six_h_ago_ts": 1787418013,
+    "six_h_ago_price": 0.485,
+    "dp_6h": -0.16999999999999998,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1787524332,
+    "status": "open",
+    "opened_at_run_ts": 1787437925
   }
 ]
