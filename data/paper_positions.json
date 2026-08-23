@@ -132993,5 +132993,39 @@
     "target_close_ts": 1787540951,
     "status": "open",
     "opened_at_run_ts": 1787454671
+  },
+  {
+    "id": "327278128845_1787460433",
+    "token_id": "32727812884566231918210982280899114078892702626226444568069546429074538237520",
+    "market_id": "3479191",
+    "question": "CF Cruz Azul vs. Atlas FC: O/U 3.5",
+    "slug": "mex-caz-atl-2026-08-22-total-3pt5",
+    "open_ts": 1787460433,
+    "open_price": 0.11,
+    "six_h_ago_ts": 1787439619,
+    "six_h_ago_price": 0.315,
+    "dp_6h": -0.20500000000000002,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1787546833,
+    "status": "open",
+    "opened_at_run_ts": 1787460426
+  },
+  {
+    "id": "494380797667_1787460193",
+    "token_id": "49438079766703591260388301030217240270715060101952198647497841389872445941711",
+    "market_id": "3746509",
+    "question": "Will Elon Musk post <40 tweets from August 22 to August 24, 2026?",
+    "slug": "elon-musk-of-tweets-august-22-august-24-2026-0-39",
+    "open_ts": 1787460193,
+    "open_price": 0.38,
+    "six_h_ago_ts": 1787439619,
+    "six_h_ago_price": 0.23,
+    "dp_6h": 0.15,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1787546593,
+    "status": "open",
+    "opened_at_run_ts": 1787460426
   }
 ]
