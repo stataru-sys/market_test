@@ -133876,8 +133876,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1787578573,
-    "status": "open",
-    "opened_at_run_ts": 1787492385
+    "status": "closed",
+    "opened_at_run_ts": 1787492385,
+    "close_ts": 1787579773,
+    "close_price": 0.7455,
+    "gross_pnl": -0.13850000000000007
   },
   {
     "id": "967854674855_1787492293",
@@ -136428,5 +136431,22 @@
     "target_close_ts": 1787663170,
     "status": "open",
     "opened_at_run_ts": 1787576784
+  },
+  {
+    "id": "808109507831_1787579716",
+    "token_id": "808109507831600571315954413528756126251178755202509145193729518469031951200",
+    "market_id": "3789949",
+    "question": "Augsburg: Sandro Kopp vs Eduardo Ribeiro",
+    "slug": "atp-kopp-ribeiro-2026-08-24",
+    "open_ts": 1787579716,
+    "open_price": 0.825,
+    "six_h_ago_ts": 1787558455,
+    "six_h_ago_price": 0.67,
+    "dp_6h": 0.15499999999999992,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1787666116,
+    "status": "open",
+    "opened_at_run_ts": 1787579915
   }
 ]
