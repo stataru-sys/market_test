@@ -136014,5 +136014,39 @@
     "target_close_ts": 1787642063,
     "status": "open",
     "opened_at_run_ts": 1787555646
+  },
+  {
+    "id": "672614411973_1787561659",
+    "token_id": "67261441197315798905022092546336660971884205026400918107231936005489294735970",
+    "market_id": "3595817",
+    "question": "Will Elon Musk post 300-319 tweets from August 18 to August 25, 2026?",
+    "slug": "elon-musk-of-tweets-august-18-august-25-300-319",
+    "open_ts": 1787561659,
+    "open_price": 0.379,
+    "six_h_ago_ts": 1787540418,
+    "six_h_ago_price": 0.196,
+    "dp_6h": 0.183,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1787648059,
+    "status": "open",
+    "opened_at_run_ts": 1787561889
+  },
+  {
+    "id": "110173485370_1787561773",
+    "token_id": "110173485370945356736847141614478337435868519063321699943227146789726005983878",
+    "market_id": "3710658",
+    "question": "Houthis successfully target shipping by August 31, 2026?",
+    "slug": "houthis-successfully-target-shipping-by-august-31-2026",
+    "open_ts": 1787561773,
+    "open_price": 0.73,
+    "six_h_ago_ts": 1787540417,
+    "six_h_ago_price": 0.395,
+    "dp_6h": 0.33499999999999996,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1787648173,
+    "status": "open",
+    "opened_at_run_ts": 1787561889
   }
 ]
