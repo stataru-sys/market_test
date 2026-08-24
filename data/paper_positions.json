@@ -133632,8 +133632,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1787570953,
-    "status": "open",
-    "opened_at_run_ts": 1787484570
+    "status": "closed",
+    "opened_at_run_ts": 1787484570,
+    "close_ts": 1787571193,
+    "close_price": 0.39,
+    "gross_pnl": -0.135
   },
   {
     "id": "585534638710_1787489652",
@@ -136252,5 +136255,39 @@
     "target_close_ts": 1787654770,
     "status": "open",
     "opened_at_run_ts": 1787568451
+  },
+  {
+    "id": "725542907987_1787571193",
+    "token_id": "72554290798775333963035842919123521127454754014559281999117312956817040983287",
+    "market_id": "3762572",
+    "question": "LoL: BNK FearX Youth vs Hanwha Life Esports Challengers - Game 3 Winner",
+    "slug": "lol-foxy-hle-2026-08-24-game3",
+    "open_ts": 1787571193,
+    "open_price": 0.415,
+    "six_h_ago_ts": 1787551217,
+    "six_h_ago_price": 0.625,
+    "dp_6h": -0.21000000000000002,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1787657593,
+    "status": "open",
+    "opened_at_run_ts": 1787571443
+  },
+  {
+    "id": "149809633601_1787571429",
+    "token_id": "14980963360194082982852774230481720650835263236058702752134160176173320458734",
+    "market_id": "3811703",
+    "question": "Roehampton 2: Inaki Montes-De La Torre vs Oskari Paldanius",
+    "slug": "atp-torr-paldani-2026-08-24",
+    "open_ts": 1787571429,
+    "open_price": 0.205,
+    "six_h_ago_ts": 1787551214,
+    "six_h_ago_price": 0.705,
+    "dp_6h": -0.5,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1787657829,
+    "status": "open",
+    "opened_at_run_ts": 1787571443
   }
 ]
