@@ -133187,8 +133187,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1787554285,
-    "status": "open",
-    "opened_at_run_ts": 1787468111
+    "status": "closed",
+    "opened_at_run_ts": 1787468111,
+    "close_ts": 1787555531,
+    "close_price": 0.595,
+    "gross_pnl": 0.21999999999999997
   },
   {
     "id": "135742047720_1787470690",
@@ -135960,5 +135963,56 @@
     "target_close_ts": 1787636773,
     "status": "open",
     "opened_at_run_ts": 1787550473
+  },
+  {
+    "id": "819844644110_1787555527",
+    "token_id": "81984464411052595213578707727460178277776453090873482642578090992591093400626",
+    "market_id": "3762538",
+    "question": "Game Handicap: DNS.C (-1.5) vs Kiwoom DRX Challengers (+1.5)",
+    "slug": "lol-dnsc-drxc-2026-08-24-game-handicap-away-1pt5",
+    "open_ts": 1787555527,
+    "open_price": 0.89,
+    "six_h_ago_ts": 1787533212,
+    "six_h_ago_price": 0.455,
+    "dp_6h": 0.435,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1787641927,
+    "status": "open",
+    "opened_at_run_ts": 1787555646
+  },
+  {
+    "id": "791561057686_1787555663",
+    "token_id": "79156105768636969656888722506802175592141321140216380102317652964763589260680",
+    "market_id": "3094312",
+    "question": "Will the total domestic gross for The Odyssey be at least 570m by August 31?",
+    "slug": "will-the-total-domestic-gross-for-the-odyssey-be-greater-than-570m-by-august-31-20260724150841342",
+    "open_ts": 1787555663,
+    "open_price": 0.411,
+    "six_h_ago_ts": 1787533214,
+    "six_h_ago_price": 0.229,
+    "dp_6h": 0.18199999999999997,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1787642063,
+    "status": "open",
+    "opened_at_run_ts": 1787555646
+  },
+  {
+    "id": "173637528369_1787555663",
+    "token_id": "17363752836939184633429854863914755388039251920143257658380200400025969930999",
+    "market_id": "3812116",
+    "question": "Counter-Strike: The Huns Esports vs Vitalem Aerem (BO3) - Moscow Cyber Games Asian Qualifier Group A",
+    "slug": "cs2-the9-va-2026-08-24",
+    "open_ts": 1787555663,
+    "open_price": 0.495,
+    "six_h_ago_ts": 1787533213,
+    "six_h_ago_price": 0.705,
+    "dp_6h": -0.20999999999999996,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1787642063,
+    "status": "open",
+    "opened_at_run_ts": 1787555646
   }
 ]
