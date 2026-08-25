@@ -136489,8 +136489,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1787669533,
-    "status": "open",
-    "opened_at_run_ts": 1787583174
+    "status": "closed",
+    "opened_at_run_ts": 1787583174,
+    "close_ts": 1787669474,
+    "close_price": 0.365,
+    "gross_pnl": -0.020000000000000018
   },
   {
     "id": "447265450110_1787583131",
@@ -136523,8 +136526,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1787669414,
-    "status": "open",
-    "opened_at_run_ts": 1787583174
+    "status": "closed",
+    "opened_at_run_ts": 1787583174,
+    "close_ts": 1787669474,
+    "close_price": 0.2555,
+    "gross_pnl": 0.08150000000000002
   },
   {
     "id": "872051763633_1787583015",
@@ -136540,8 +136546,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1787669415,
-    "status": "open",
-    "opened_at_run_ts": 1787583174
+    "status": "closed",
+    "opened_at_run_ts": 1787583174,
+    "close_ts": 1787669474,
+    "close_price": 0.556,
+    "gross_pnl": 0.16799999999999993
   },
   {
     "id": "182349376152_1787583132",
@@ -138786,5 +138795,73 @@
     "target_close_ts": 1787752694,
     "status": "open",
     "opened_at_run_ts": 1787666323
+  },
+  {
+    "id": "962088841135_1787669712",
+    "token_id": "96208884113525919273520520881527578732296495792653437889731317258370036181",
+    "market_id": "3789945",
+    "question": "Augsburg: Cezar Cretu vs Niels McDonald",
+    "slug": "atp-cretu-mcdona-2026-08-24",
+    "open_ts": 1787669712,
+    "open_price": 0.785,
+    "six_h_ago_ts": 1787648431,
+    "six_h_ago_price": 0.535,
+    "dp_6h": 0.25,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1787756112,
+    "status": "open",
+    "opened_at_run_ts": 1787669752
+  },
+  {
+    "id": "163807460652_1787669533",
+    "token_id": "16380746065286739746851239876797010273687906708313676168981213522333233011030",
+    "market_id": "3822978",
+    "question": "Counter-Strike: G2 Ares vs ex-RUSTEC (BO3) - CCT Europe Series #7 Group Stage",
+    "slug": "cs2-g2a-rustec-2026-08-25",
+    "open_ts": 1787669533,
+    "open_price": 0.185,
+    "six_h_ago_ts": 1787648437,
+    "six_h_ago_price": 0.425,
+    "dp_6h": -0.24,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1787755933,
+    "status": "open",
+    "opened_at_run_ts": 1787669752
+  },
+  {
+    "id": "951824085523_1787669605",
+    "token_id": "95182408552384873371276032076029546265069375278819627758312680338202547121324",
+    "market_id": "3860964",
+    "question": "LoL: Onion Team vs CITA Kaizen (BO3) - Hitpoint Masters Regular Season",
+    "slug": "lol-ot-ckz-2026-08-25",
+    "open_ts": 1787669605,
+    "open_price": 0.3535,
+    "six_h_ago_ts": 1787648433,
+    "six_h_ago_price": 0.085,
+    "dp_6h": 0.26849999999999996,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1787756005,
+    "status": "open",
+    "opened_at_run_ts": 1787669752
+  },
+  {
+    "id": "478841439670_1787669605",
+    "token_id": "47884143967063481828698060886705990508335584539510481132671753343960596868093",
+    "market_id": "3860842",
+    "question": "Dota 2: Team Syntax vs RE.Arise - Game 1 Winner",
+    "slug": "dota2-stx-rearis-2026-08-25-game1",
+    "open_ts": 1787669605,
+    "open_price": 0.495,
+    "six_h_ago_ts": 1787648434,
+    "six_h_ago_price": 0.285,
+    "dp_6h": 0.21000000000000002,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1787756005,
+    "status": "open",
+    "opened_at_run_ts": 1787669752
   }
 ]
