@@ -136350,8 +136350,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1787662992,
-    "status": "open",
-    "opened_at_run_ts": 1787576784
+    "status": "closed",
+    "opened_at_run_ts": 1787576784,
+    "close_ts": 1787662815,
+    "close_price": 0.4685,
+    "gross_pnl": 0.06299999999999994
   },
   {
     "id": "263119963180_1787576545",
@@ -138681,5 +138684,39 @@
     "target_close_ts": 1787743869,
     "status": "open",
     "opened_at_run_ts": 1787657771
+  },
+  {
+    "id": "166604581910_1787662815",
+    "token_id": "16660458191021756622068902558426066843466924548071576933103116756218453851671",
+    "market_id": "3822970",
+    "question": "Counter-Strike: Leo Team vs UNiTY esports (BO3) - CCT Europe Series #7 Group Stage",
+    "slug": "cs2-leo2-unity-2026-08-25",
+    "open_ts": 1787662815,
+    "open_price": 0.67,
+    "six_h_ago_ts": 1787641219,
+    "six_h_ago_price": 0.455,
+    "dp_6h": 0.21500000000000002,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1787749215,
+    "status": "open",
+    "opened_at_run_ts": 1787663068
+  },
+  {
+    "id": "424396378609_1787662819",
+    "token_id": "42439637860964582298429398071002235664989306220567553263664789443560547392523",
+    "market_id": "3789941",
+    "question": "Augsburg: Petr Brunclik vs Daniel Masur",
+    "slug": "atp-bruncli-masur-2026-08-24",
+    "open_ts": 1787662819,
+    "open_price": 0.445,
+    "six_h_ago_ts": 1787641224,
+    "six_h_ago_price": 0.655,
+    "dp_6h": -0.21000000000000002,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1787749219,
+    "status": "open",
+    "opened_at_run_ts": 1787663068
   }
 ]
