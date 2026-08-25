@@ -138562,5 +138562,22 @@
     "target_close_ts": 1787737332,
     "status": "open",
     "opened_at_run_ts": 1787651136
+  },
+  {
+    "id": "845892968486_1787654533",
+    "token_id": "84589296848672265471686366848776307809416051774525491309497270857115645472172",
+    "market_id": "3835797",
+    "question": "Bitcoin Up or Down - August 25, 4:00AM-8:00AM ET",
+    "slug": "btc-updown-4h-1787644800",
+    "open_ts": 1787654533,
+    "open_price": 0.145,
+    "six_h_ago_ts": 1787634015,
+    "six_h_ago_price": 0.505,
+    "dp_6h": -0.36,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1787740933,
+    "status": "open",
+    "opened_at_run_ts": 1787654551
   }
 ]
