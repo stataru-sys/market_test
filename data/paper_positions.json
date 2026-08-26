@@ -140991,5 +140991,39 @@
     "target_close_ts": 1787805972,
     "status": "open",
     "opened_at_run_ts": 1787719805
+  },
+  {
+    "id": "502324258683_1787722754",
+    "token_id": "50232425868328490292357358979146728527455962316218294345849651240570852559745",
+    "market_id": "3724031",
+    "question": "Will the price of Bitcoin be above $78,000 on August 26?",
+    "slug": "bitcoin-above-78k-on-august-26-2026",
+    "open_ts": 1787722754,
+    "open_price": 0.79,
+    "six_h_ago_ts": 1787702425,
+    "six_h_ago_price": 0.639,
+    "dp_6h": 0.15100000000000002,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1787809154,
+    "status": "open",
+    "opened_at_run_ts": 1787722951
+  },
+  {
+    "id": "587962664081_1787722870",
+    "token_id": "58796266408126383393922411138384027313399817411036364767239174643845349541617",
+    "market_id": "3780237",
+    "question": "Will Elon Musk post 65-89 tweets from August 24 to August 26, 2026?",
+    "slug": "elon-musk-of-tweets-august-24-august-26-2026-65-89",
+    "open_ts": 1787722870,
+    "open_price": 0.62,
+    "six_h_ago_ts": 1787702423,
+    "six_h_ago_price": 0.465,
+    "dp_6h": 0.15499999999999997,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1787809270,
+    "status": "open",
+    "opened_at_run_ts": 1787722951
   }
 ]
