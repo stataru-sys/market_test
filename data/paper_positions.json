@@ -141025,5 +141025,22 @@
     "target_close_ts": 1787809270,
     "status": "open",
     "opened_at_run_ts": 1787722951
+  },
+  {
+    "id": "214609660831_1787730547",
+    "token_id": "21460966083113765189156450940806836436651380891364814001874031144541123129716",
+    "market_id": "3606643",
+    "question": "Club León FC vs. Real Salt Lake: O/U 1.5",
+    "slug": "lec-leo-rsl-2026-08-25-total-1pt5",
+    "open_ts": 1787730547,
+    "open_price": 0.605,
+    "six_h_ago_ts": 1787709613,
+    "six_h_ago_price": 0.805,
+    "dp_6h": -0.20000000000000007,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1787816947,
+    "status": "open",
+    "opened_at_run_ts": 1787730814
   }
 ]
