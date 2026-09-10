@@ -155100,8 +155100,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1789032913,
-    "status": "open",
-    "opened_at_run_ts": 1788946576
+    "status": "closed",
+    "opened_at_run_ts": 1788946576,
+    "close_ts": 1789032740,
+    "close_price": 0.3645,
+    "gross_pnl": -0.0040000000000000036
   },
   {
     "id": "842469408922_1788946462",
@@ -155134,8 +155137,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1789032806,
-    "status": "open",
-    "opened_at_run_ts": 1788946576
+    "status": "closed",
+    "opened_at_run_ts": 1788946576,
+    "close_ts": 1789032869,
+    "close_price": 0.5055,
+    "gross_pnl": -0.061999999999999944
   },
   {
     "id": "404314316161_1788946454",
@@ -155986,5 +155992,56 @@
     "target_close_ts": 1789101195,
     "status": "open",
     "opened_at_run_ts": 1789014773
+  },
+  {
+    "id": "760473998216_1789030817",
+    "token_id": "76047399821623694080040814925634557706654128405508911415805655991647725062533",
+    "market_id": "4409088",
+    "question": "Counter-Strike: Nuclear TigeRES vs BET-M 33 (BO3) - PGL Masters Bucharest: European Qualifier Playoffs",
+    "slug": "cs2-ntr-33-2026-09-10",
+    "open_ts": 1789030817,
+    "open_price": 0.81,
+    "six_h_ago_ts": 1789009218,
+    "six_h_ago_price": 0.605,
+    "dp_6h": 0.20500000000000007,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1789117217,
+    "status": "open",
+    "opened_at_run_ts": 1789032932
+  },
+  {
+    "id": "393589236603_1789032669",
+    "token_id": "39358923660396992406990602446857024644663032644484291534700389836727346007345",
+    "market_id": "4406638",
+    "question": "Counter-Strike: Heroic vs K27 (BO3) - Thunderpick World Championship Closed Qualifier Group A",
+    "slug": "cs2-hero-k271-2026-09-10",
+    "open_ts": 1789032669,
+    "open_price": 0.375,
+    "six_h_ago_ts": 1789012814,
+    "six_h_ago_price": 0.635,
+    "dp_6h": -0.26,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1789119069,
+    "status": "open",
+    "opened_at_run_ts": 1789032932
+  },
+  {
+    "id": "361746811540_1789032867",
+    "token_id": "36174681154030375702078892057398305644632275956162927580086409782722309128787",
+    "market_id": "4050692",
+    "question": "Will Elon Musk post 180-199 tweets from September 4 to September 11, 2026?",
+    "slug": "elon-musk-of-tweets-september-4-september-11-2026-180-199",
+    "open_ts": 1789032867,
+    "open_price": 0.155,
+    "six_h_ago_ts": 1789012816,
+    "six_h_ago_price": 0.325,
+    "dp_6h": -0.17,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1789119267,
+    "status": "open",
+    "opened_at_run_ts": 1789032932
   }
 ]
