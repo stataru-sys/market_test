@@ -148184,8 +148184,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1788471918,
-    "status": "open",
-    "opened_at_run_ts": 1788385494
+    "status": "closed",
+    "opened_at_run_ts": 1788385494,
+    "close_ts": 1789100532,
+    "close_price": 0.205,
+    "gross_pnl": 0.23
   },
   {
     "id": "485852515548_1788393794",
@@ -155653,8 +155656,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1789076052,
-    "status": "open",
-    "opened_at_run_ts": 1788989903
+    "status": "closed",
+    "opened_at_run_ts": 1788989903,
+    "close_ts": 1789100532,
+    "close_price": 0.675,
+    "gross_pnl": 0.39000000000000007
   },
   {
     "id": "113160385392_1788998417",
@@ -156658,5 +156664,73 @@
     "target_close_ts": 1789171289,
     "status": "open",
     "opened_at_run_ts": 1789084867
+  },
+  {
+    "id": "592212511148_1789100596",
+    "token_id": "59221251114832311658619840473654159323114843367368554826614836450596445395518",
+    "market_id": "4404008",
+    "question": "Phan Thiet 3: Hiroki Moriya vs Yuta Shimizu",
+    "slug": "atp-moriya-shimizu-2026-09-10",
+    "open_ts": 1789100596,
+    "open_price": 0.875,
+    "six_h_ago_ts": 1789077618,
+    "six_h_ago_price": 0.265,
+    "dp_6h": 0.61,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1789186996,
+    "status": "open",
+    "opened_at_run_ts": 1789100850
+  },
+  {
+    "id": "108631385361_1789100657",
+    "token_id": "108631385361440485481595079708534333651533411429286989603618948391847251894034",
+    "market_id": "1088652",
+    "question": "Will Aryna Sabalenka win the 2026 Women’s US Open?",
+    "slug": "will-aryna-sabalenka-win-the-2026-womens-us-open",
+    "open_ts": 1789100657,
+    "open_price": 0.56,
+    "six_h_ago_ts": 1789077619,
+    "six_h_ago_price": 0.375,
+    "dp_6h": 0.18500000000000005,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1789187057,
+    "status": "open",
+    "opened_at_run_ts": 1789100850
+  },
+  {
+    "id": "573159809114_1789100595",
+    "token_id": "57315980911448324494504383860157479214263362295631111118265230561674370667205",
+    "market_id": "1088656",
+    "question": "Will Elena Rybakina win the 2026 Women’s US Open?",
+    "slug": "will-elena-rybakina-win-the-2026-womens-us-open",
+    "open_ts": 1789100595,
+    "open_price": 0.426,
+    "six_h_ago_ts": 1789077616,
+    "six_h_ago_price": 0.254,
+    "dp_6h": 0.172,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1789186995,
+    "status": "open",
+    "opened_at_run_ts": 1789100850
+  },
+  {
+    "id": "104670161083_1789100658",
+    "token_id": "104670161083161236416355530337454568533099961241029154263046548581022044538911",
+    "market_id": "4429683",
+    "question": "Counter-Strike: Liquid vs Marsborne (BO3) - PGL Masters Bucharest: North American Qualifier Playoffs",
+    "slug": "cs2-tl1-mars-2026-09-10",
+    "open_ts": 1789100658,
+    "open_price": 0.7155,
+    "six_h_ago_ts": 1789077620,
+    "six_h_ago_price": 0.895,
+    "dp_6h": -0.1795,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1789187058,
+    "status": "open",
+    "opened_at_run_ts": 1789100850
   }
 ]
