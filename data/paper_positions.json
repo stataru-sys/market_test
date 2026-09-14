@@ -156959,8 +156959,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1789222515,
-    "status": "open",
-    "opened_at_run_ts": 1789136344
+    "status": "closed",
+    "opened_at_run_ts": 1789136344,
+    "close_ts": 1789424413,
+    "close_price": 0.805,
+    "gross_pnl": 0.06999999999999995
   },
   {
     "id": "109074178389_1789136296",
@@ -160116,8 +160119,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1789424175,
-    "status": "open",
-    "opened_at_run_ts": 1789338059
+    "status": "closed",
+    "opened_at_run_ts": 1789338059,
+    "close_ts": 1789424594,
+    "close_price": 0.875,
+    "gross_pnl": -0.020000000000000018
   },
   {
     "id": "320922829710_1789337727",
@@ -160150,8 +160156,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1789424232,
-    "status": "open",
-    "opened_at_run_ts": 1789338059
+    "status": "closed",
+    "opened_at_run_ts": 1789338059,
+    "close_ts": 1789424532,
+    "close_price": 0.115,
+    "gross_pnl": -0.029999999999999985
   },
   {
     "id": "667300972279_1789337834",
@@ -160320,8 +160329,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1789424173,
-    "status": "open",
-    "opened_at_run_ts": 1789338059
+    "status": "closed",
+    "opened_at_run_ts": 1789338059,
+    "close_ts": 1789424592,
+    "close_price": 0.7145,
+    "gross_pnl": 0.11149999999999993
   },
   {
     "id": "758231702622_1789337773",
@@ -160968,5 +160980,56 @@
     "target_close_ts": 1789497014,
     "status": "open",
     "opened_at_run_ts": 1789410712
+  },
+  {
+    "id": "825153515338_1789424472",
+    "token_id": "82515351533876544468827571043798586514531207264724902447814442349016124315942",
+    "market_id": "4493224",
+    "question": "Guadalajara Open Akron: Tatjana Maria vs Taylor Townsend",
+    "slug": "wta-maria-townsen-2026-09-13",
+    "open_ts": 1789424472,
+    "open_price": 0.465,
+    "six_h_ago_ts": 1789401613,
+    "six_h_ago_price": 0.275,
+    "dp_6h": 0.19,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1789510872,
+    "status": "open",
+    "opened_at_run_ts": 1789424710
+  },
+  {
+    "id": "733235589739_1789424534",
+    "token_id": "73323558973910804774897612892666972889584393092641018729960853480391859765967",
+    "market_id": "4440616",
+    "question": "Israel x Lebanon diplomatic meeting by September 18, 2026?",
+    "slug": "israel-x-lebanon-diplomatic-meeting-by-september-18-2026",
+    "open_ts": 1789424534,
+    "open_price": 0.895,
+    "six_h_ago_ts": 1789401616,
+    "six_h_ago_price": 0.65,
+    "dp_6h": 0.245,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1789510934,
+    "status": "open",
+    "opened_at_run_ts": 1789424710
+  },
+  {
+    "id": "602919372714_1789424534",
+    "token_id": "60291937271449004034266716546737892316980742130770536800218582235841289801420",
+    "market_id": "4063920",
+    "question": "Exact Score: CA Banfield 3 - 3 CA Barracas Central?",
+    "slug": "arg-ban-bar-2026-09-14-exact-score-3-3",
+    "open_ts": 1789424534,
+    "open_price": 0.4905,
+    "six_h_ago_ts": 1789401615,
+    "six_h_ago_price": 0.004,
+    "dp_6h": 0.4865,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1789510934,
+    "status": "open",
+    "opened_at_run_ts": 1789424710
   }
 ]
