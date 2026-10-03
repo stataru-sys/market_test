@@ -176373,8 +176373,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1790836277,
-    "status": "open",
-    "opened_at_run_ts": 1790750167
+    "status": "closed",
+    "opened_at_run_ts": 1790750167,
+    "close_ts": 1791008532,
+    "close_price": 0.145,
+    "gross_pnl": -0.23
   },
   {
     "id": "883911148731_1790775258",
@@ -176543,8 +176546,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1790861530,
-    "status": "open",
-    "opened_at_run_ts": 1790775322
+    "status": "closed",
+    "opened_at_run_ts": 1790775322,
+    "close_ts": 1791008531,
+    "close_price": 0.245,
+    "gross_pnl": -0.07
   },
   {
     "id": "916542876673_1790775131",
@@ -178090,5 +178096,56 @@
     "target_close_ts": 1791075791,
     "status": "open",
     "opened_at_run_ts": 1790989473
+  },
+  {
+    "id": "371262352931_1791008531",
+    "token_id": "37126235293166018320734691611098512250214926266208126232988089367824919257013",
+    "market_id": "5183373",
+    "question": "China Open: Andrey Rublev vs Roman Safiullin",
+    "slug": "atp-rublev-safiull-2026-10-02",
+    "open_ts": 1791008531,
+    "open_price": 0.845,
+    "six_h_ago_ts": 1790985623,
+    "six_h_ago_price": 0.575,
+    "dp_6h": 0.27,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1791094931,
+    "status": "open",
+    "opened_at_run_ts": 1791008647
+  },
+  {
+    "id": "387791411631_1791008656",
+    "token_id": "38779141163129103012217097522046084154705855098558667212663497343931534377841",
+    "market_id": "5179176",
+    "question": "Will Louisiana enact a data center moratorium by December 31, 2028?",
+    "slug": "will-louisiana-enact-a-data-center-moratorium-by-december-31-2028",
+    "open_ts": 1791008656,
+    "open_price": 0.195,
+    "six_h_ago_ts": 1790985622,
+    "six_h_ago_price": 0.365,
+    "dp_6h": -0.16999999999999998,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1791095056,
+    "status": "open",
+    "opened_at_run_ts": 1791008647
+  },
+  {
+    "id": "411971136177_1791008656",
+    "token_id": "41197113617754280837303166236593000053425715120746728551789032565926541196161",
+    "market_id": "5201294",
+    "question": "Jingshan: Emerson Jones vs Alexandra Shubladze",
+    "slug": "wta-jone-shublad-2026-10-02",
+    "open_ts": 1791008656,
+    "open_price": 0.185,
+    "six_h_ago_ts": 1790985623,
+    "six_h_ago_price": 0.415,
+    "dp_6h": -0.22999999999999998,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1791095056,
+    "status": "open",
+    "opened_at_run_ts": 1791008647
   }
 ]
