@@ -186823,5 +186823,39 @@
     "target_close_ts": 1792088782,
     "status": "open",
     "opened_at_run_ts": 1792002589
+  },
+  {
+    "id": "846302502111_1792015703",
+    "token_id": "8463025021116158280396579360737942337712309281649494584390899078260193796230",
+    "market_id": "5642217",
+    "question": "Santa Cruz 2: Rodrigo Pacheco vs Hugo Dellien",
+    "slug": "atp-pacheco-dellien-2026-10-14",
+    "open_ts": 1792015703,
+    "open_price": 0.105,
+    "six_h_ago_ts": 1791993620,
+    "six_h_ago_price": 0.385,
+    "dp_6h": -0.28,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1792102103,
+    "status": "open",
+    "opened_at_run_ts": 1792015951
+  },
+  {
+    "id": "418534403366_1792015228",
+    "token_id": "41853440336677059605697490067280730271278198092717227250540134579133875590887",
+    "market_id": "5373675",
+    "question": "Valorant: FlyQuest RED vs MIBR GC (BO3) - VCT Game Changers Americas Last Chance Qualifier Group Stage",
+    "slug": "val-flyr-mibrf-2026-10-14",
+    "open_ts": 1792015228,
+    "open_price": 0.62,
+    "six_h_ago_ts": 1791993620,
+    "six_h_ago_price": 0.435,
+    "dp_6h": 0.185,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1792101628,
+    "status": "open",
+    "opened_at_run_ts": 1792015951
   }
 ]
