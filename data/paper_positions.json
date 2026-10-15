@@ -186243,8 +186243,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1791993025,
-    "status": "open",
-    "opened_at_run_ts": 1791906725
+    "status": "closed",
+    "opened_at_run_ts": 1791906725,
+    "close_ts": 1792101927,
+    "close_price": 0.8865,
+    "gross_pnl": -0.11349999999999993
   },
   {
     "id": "354170172638_1791925234",
@@ -187458,5 +187461,56 @@
     "target_close_ts": 1792174176,
     "status": "open",
     "opened_at_run_ts": 1792087912
+  },
+  {
+    "id": "170075040287_1792101812",
+    "token_id": "17007504028749979278098632250458904655913955646755634884054333765044785493477",
+    "market_id": "5658654",
+    "question": "Mallorca: Ane Mintegi Del Olmo vs Rebeka Masarova",
+    "slug": "wta-olmo-masarov-2026-10-15",
+    "open_ts": 1792101812,
+    "open_price": 0.586,
+    "six_h_ago_ts": 1792080042,
+    "six_h_ago_price": 0.1515,
+    "dp_6h": 0.4345,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1792188212,
+    "status": "open",
+    "opened_at_run_ts": 1792102106
+  },
+  {
+    "id": "654291351313_1792101928",
+    "token_id": "6542913513131023668160858225216309906934366124332563049538921490755917422376",
+    "market_id": "5719562",
+    "question": "Will Bitcoin reach $83,000 on October 15?",
+    "slug": "will-bitcoin-reach-83k-on-october-15-2026",
+    "open_ts": 1792101928,
+    "open_price": 0.38,
+    "six_h_ago_ts": 1792080043,
+    "six_h_ago_price": 0.575,
+    "dp_6h": -0.19499999999999995,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1792188328,
+    "status": "open",
+    "opened_at_run_ts": 1792102106
+  },
+  {
+    "id": "900870642312_1792102044",
+    "token_id": "90087064231222823829258707097743042648808175390347406871699604009930580484301",
+    "market_id": "5690201",
+    "question": "Ethereum Up or Down on October 16?",
+    "slug": "ethereum-up-or-down-on-october-16-2026",
+    "open_ts": 1792102044,
+    "open_price": 0.665,
+    "six_h_ago_ts": 1792080041,
+    "six_h_ago_price": 0.505,
+    "dp_6h": 0.16000000000000003,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1792188444,
+    "status": "open",
+    "opened_at_run_ts": 1792102106
   }
 ]
