@@ -186127,8 +186127,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1791963451,
-    "status": "open",
-    "opened_at_run_ts": 1791877071
+    "status": "closed",
+    "opened_at_run_ts": 1791877071,
+    "close_ts": 1792133838,
+    "close_price": 0.615,
+    "gross_pnl": 0.22999999999999998
   },
   {
     "id": "270188060894_1791876984",
@@ -187651,5 +187654,39 @@
     "target_close_ts": 1792195232,
     "status": "open",
     "opened_at_run_ts": 1792113098
+  },
+  {
+    "id": "415584028461_1792133960",
+    "token_id": "41558402846100433905941279701532348286802841380654283303407937770794440486916",
+    "market_id": "5504916",
+    "question": "Valorant: Team Vitality vs LOUD (BO3) - VCT Champions Playoffs",
+    "slug": "val-vit-loud-2026-10-16",
+    "open_ts": 1792133960,
+    "open_price": 0.605,
+    "six_h_ago_ts": 1792108821,
+    "six_h_ago_price": 0.435,
+    "dp_6h": 0.16999999999999998,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1792220360,
+    "status": "open",
+    "opened_at_run_ts": 1792134135
+  },
+  {
+    "id": "211572201724_1792133835",
+    "token_id": "21157220172463247841906965134485325294773422802939066842551903946010611230769",
+    "market_id": "5362547",
+    "question": "Will Elon Musk post 340-359 tweets from October 9 to October 16, 2026?",
+    "slug": "elon-musk-of-tweets-october-9-october-16-2026-340-359",
+    "open_ts": 1792133835,
+    "open_price": 0.7025,
+    "six_h_ago_ts": 1792108828,
+    "six_h_ago_price": 0.314,
+    "dp_6h": 0.3885,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1792220235,
+    "status": "open",
+    "opened_at_run_ts": 1792134135
   }
 ]
