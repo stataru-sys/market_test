@@ -191952,8 +191952,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1792576641,
-    "status": "open",
-    "opened_at_run_ts": 1792490238
+    "status": "closed",
+    "opened_at_run_ts": 1792490238,
+    "close_ts": 1792576845,
+    "close_price": 0.42,
+    "gross_pnl": 0.14999999999999997
   },
   {
     "id": "110542890055_1792490241",
@@ -192362,5 +192365,56 @@
     "target_close_ts": 1792643429,
     "status": "open",
     "opened_at_run_ts": 1792557057
+  },
+  {
+    "id": "644646893324_1792576761",
+    "token_id": "64464689332461329361543300378814154174264980461989762248069889200386788310028",
+    "market_id": "5978757",
+    "question": "Counter-Strike: magic vs TheMongolz (BO3) - 1win Private Club Playoffs",
+    "slug": "cs2-mgc-mglz-2026-10-21",
+    "open_ts": 1792576761,
+    "open_price": 0.275,
+    "six_h_ago_ts": 1792555234,
+    "six_h_ago_price": 0.485,
+    "dp_6h": -0.20999999999999996,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1792663161,
+    "status": "open",
+    "opened_at_run_ts": 1792576857
+  },
+  {
+    "id": "163056472113_1792576761",
+    "token_id": "16305647211360198005585294154908248469148642404200965480597127311173880856053",
+    "market_id": "5929766",
+    "question": "Bitcoin Up or Down on October 21?",
+    "slug": "bitcoin-up-or-down-on-october-21-2026",
+    "open_ts": 1792576761,
+    "open_price": 0.86,
+    "six_h_ago_ts": 1792555233,
+    "six_h_ago_price": 0.545,
+    "dp_6h": 0.31499999999999995,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1792663161,
+    "status": "open",
+    "opened_at_run_ts": 1792576857
+  },
+  {
+    "id": "360680067893_1792576580",
+    "token_id": "36068006789324572684861029557397912467753591130885824951874111943894227132569",
+    "market_id": "5714365",
+    "question": "US imports Russian diesel by November 30?",
+    "slug": "us-imports-russian-diesel-by-november-30",
+    "open_ts": 1792576580,
+    "open_price": 0.65,
+    "six_h_ago_ts": 1792555231,
+    "six_h_ago_price": 0.245,
+    "dp_6h": 0.405,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1792662980,
+    "status": "open",
+    "opened_at_run_ts": 1792576857
   }
 ]
