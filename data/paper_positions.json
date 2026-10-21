@@ -163139,8 +163139,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1789716669,
-    "status": "open",
-    "opened_at_run_ts": 1789630404
+    "status": "closed",
+    "opened_at_run_ts": 1789630404,
+    "close_ts": 1792610087,
+    "close_price": 0.765,
+    "gross_pnl": 0.445
   },
   {
     "id": "379217758827_1789630394",
@@ -192467,5 +192470,56 @@
     "target_close_ts": 1792681333,
     "status": "open",
     "opened_at_run_ts": 1792595088
+  },
+  {
+    "id": "443559489296_1792610123",
+    "token_id": "44355948929668768554051906431685691266196614454105704522310200484664607661877",
+    "market_id": "5978942",
+    "question": "Lisbon: Marco Trungelliti vs Carlo Alberto Caniato",
+    "slug": "atp-trungel-caniato-2026-10-21",
+    "open_ts": 1792610123,
+    "open_price": 0.42,
+    "six_h_ago_ts": 1792587621,
+    "six_h_ago_price": 0.615,
+    "dp_6h": -0.195,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1792696523,
+    "status": "open",
+    "opened_at_run_ts": 1792610137
+  },
+  {
+    "id": "280337145621_1792609939",
+    "token_id": "28033714562179248107619358836440830649647001745106869357485248197032568176815",
+    "market_id": "4182985",
+    "question": "Will Levante UD win on 2026-09-16?",
+    "slug": "lal-lev-bil-2026-09-16-lev",
+    "open_ts": 1792609939,
+    "open_price": 0.815,
+    "six_h_ago_ts": 1792587620,
+    "six_h_ago_price": 0.255,
+    "dp_6h": 0.5599999999999999,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1792696339,
+    "status": "open",
+    "opened_at_run_ts": 1792610137
+  },
+  {
+    "id": "960880210345_1792609224",
+    "token_id": "9608802103451716500065699878093713304109367684669028444641409985516196976739",
+    "market_id": "5977746",
+    "question": "Will Ethereum dip to $2,400 in October?",
+    "slug": "will-ethereum-dip-to-2400-in-october-2026-from-october-20",
+    "open_ts": 1792609224,
+    "open_price": 0.485,
+    "six_h_ago_ts": 1792587623,
+    "six_h_ago_price": 0.72,
+    "dp_6h": -0.235,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1792695624,
+    "status": "open",
+    "opened_at_run_ts": 1792610137
   }
 ]
