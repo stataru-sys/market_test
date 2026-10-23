@@ -193409,5 +193409,39 @@
     "target_close_ts": 1792868664,
     "status": "open",
     "opened_at_run_ts": 1792782303
+  },
+  {
+    "id": "671459977158_1792792824",
+    "token_id": "67145997715863416626901336033083127559176685088713907112243216297739996361677",
+    "market_id": "5545713",
+    "question": "CA Gimnasia y Esgrima de Mendoza vs. CA Platense: O/U 2.5",
+    "slug": "arg-gye-pla-2026-10-23-total-2pt5",
+    "open_ts": 1792792824,
+    "open_price": 0.615,
+    "six_h_ago_ts": 1792771223,
+    "six_h_ago_price": 0.405,
+    "dp_6h": 0.20999999999999996,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1792879224,
+    "status": "open",
+    "opened_at_run_ts": 1792792991
+  },
+  {
+    "id": "944535139220_1792792762",
+    "token_id": "94453513922008114742509483792156991564558068613251343655110182344014933679063",
+    "market_id": "6044504",
+    "question": "NATO x Russia military clash by November 30, 2026?",
+    "slug": "nato-x-russia-military-clash-by-november-30-2026",
+    "open_ts": 1792792762,
+    "open_price": 0.105,
+    "six_h_ago_ts": 1792771224,
+    "six_h_ago_price": 0.265,
+    "dp_6h": -0.16000000000000003,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1792879162,
+    "status": "open",
+    "opened_at_run_ts": 1792792991
   }
 ]
