@@ -192148,8 +192148,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1792594642,
-    "status": "open",
-    "opened_at_run_ts": 1792508231
+    "status": "closed",
+    "opened_at_run_ts": 1792508231,
+    "close_ts": 1792729826,
+    "close_price": 0.384,
+    "gross_pnl": 0.506
   },
   {
     "id": "791853616933_1792523067",
@@ -192454,8 +192457,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1792681279,
-    "status": "open",
-    "opened_at_run_ts": 1792595088
+    "status": "closed",
+    "opened_at_run_ts": 1792595088,
+    "close_ts": 1792729827,
+    "close_price": 0.65,
+    "gross_pnl": -0.040000000000000036
   },
   {
     "id": "114038073393_1792594933",
@@ -192698,8 +192704,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1792729731,
-    "status": "open",
-    "opened_at_run_ts": 1792643385
+    "status": "closed",
+    "opened_at_run_ts": 1792643385,
+    "close_ts": 1792729764,
+    "close_price": 0.465,
+    "gross_pnl": -0.12999999999999995
   },
   {
     "id": "107725156035_1792643121",
@@ -193159,5 +193168,22 @@
     "target_close_ts": 1792782407,
     "status": "open",
     "opened_at_run_ts": 1792696251
+  },
+  {
+    "id": "577737212207_1792729821",
+    "token_id": "57773721220794536008740287275647795934857992888034733882132648619946504375884",
+    "market_id": "4950307",
+    "question": "Utah vs. Kraken",
+    "slug": "nhl-utah-sea-2026-10-22",
+    "open_ts": 1792729821,
+    "open_price": 0.365,
+    "six_h_ago_ts": 1792706421,
+    "six_h_ago_price": 0.625,
+    "dp_6h": -0.26,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1792816221,
+    "status": "open",
+    "opened_at_run_ts": 1792730102
   }
 ]
