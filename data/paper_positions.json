@@ -194367,5 +194367,22 @@
     "target_close_ts": 1792960765,
     "status": "open",
     "opened_at_run_ts": 1792874384
+  },
+  {
+    "id": "916548061677_1792883062",
+    "token_id": "91654806167703875024166866153496484514503607001545194494263355738177365695546",
+    "market_id": "6108173",
+    "question": "Fort Worth: Jenson Brooksby vs Gabriel Debru",
+    "slug": "atp-brooksb-debru-2026-10-24",
+    "open_ts": 1792883062,
+    "open_price": 0.535,
+    "six_h_ago_ts": 1792861212,
+    "six_h_ago_price": 0.81,
+    "dp_6h": -0.275,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1792969462,
+    "status": "open",
+    "opened_at_run_ts": 1792883148
   }
 ]
