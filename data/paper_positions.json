@@ -194911,5 +194911,22 @@
     "target_close_ts": 1793013193,
     "status": "open",
     "opened_at_run_ts": 1792926822
+  },
+  {
+    "id": "188850734792_1792944084",
+    "token_id": "18885073479230982461606799197596100097128791926429581201518480652230700430517",
+    "market_id": "5582271",
+    "question": "Will AC Horsens win on 2026-10-25?",
+    "slug": "den-hor-sjs-2026-10-25-hor",
+    "open_ts": 1792944084,
+    "open_price": 0.855,
+    "six_h_ago_ts": 1792922421,
+    "six_h_ago_price": 0.385,
+    "dp_6h": 0.47,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1793030484,
+    "status": "open",
+    "opened_at_run_ts": 1792944062
   }
 ]
