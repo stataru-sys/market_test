@@ -196019,5 +196019,22 @@
     "target_close_ts": 1793080461,
     "status": "open",
     "opened_at_run_ts": 1792994402
+  },
+  {
+    "id": "805173898267_1793018842",
+    "token_id": "80517389826741546131428876277360430706374249445232475244208245178912085465839",
+    "market_id": "5964847",
+    "question": "Ningbo Rockets vs. Jilin Northeast Tigers",
+    "slug": "bkcba-nin-jil-2026-10-26",
+    "open_ts": 1793018842,
+    "open_price": 0.625,
+    "six_h_ago_ts": 1792998024,
+    "six_h_ago_price": 0.335,
+    "dp_6h": 0.29,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1793105242,
+    "status": "open",
+    "opened_at_run_ts": 1793018866
   }
 ]
