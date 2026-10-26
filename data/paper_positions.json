@@ -196002,5 +196002,22 @@
     "target_close_ts": 1793059700,
     "status": "open",
     "opened_at_run_ts": 1792973305
+  },
+  {
+    "id": "111402112380_1792994061",
+    "token_id": "111402112380432324598151780281249259277807804459589930907139578820718924357458",
+    "market_id": "6173077",
+    "question": "Guangzhou Open: Daria Snigur vs Anna Bondar",
+    "slug": "wta-snigur-bondar-2026-10-26",
+    "open_ts": 1792994061,
+    "open_price": 0.205,
+    "six_h_ago_ts": 1792969257,
+    "six_h_ago_price": 0.655,
+    "dp_6h": -0.45000000000000007,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1793080461,
+    "status": "open",
+    "opened_at_run_ts": 1792994402
   }
 ]
