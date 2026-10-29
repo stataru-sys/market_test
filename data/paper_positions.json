@@ -196689,8 +196689,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1793221702,
-    "status": "open",
-    "opened_at_run_ts": 1793135578
+    "status": "closed",
+    "opened_at_run_ts": 1793135578,
+    "close_ts": 1793256979,
+    "close_price": 0.17,
+    "gross_pnl": -0.11000000000000001
   },
   {
     "id": "381847277420_1793135421",
@@ -196859,8 +196862,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1793235931,
-    "status": "open",
-    "opened_at_run_ts": 1793149839
+    "status": "closed",
+    "opened_at_run_ts": 1793149839,
+    "close_ts": 1793256736,
+    "close_price": 0.445,
+    "gross_pnl": 0.03999999999999998
   },
   {
     "id": "217108588819_1793149611",
@@ -197097,8 +197103,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1793236167,
-    "status": "open",
-    "opened_at_run_ts": 1793149839
+    "status": "closed",
+    "opened_at_run_ts": 1793149839,
+    "close_ts": 1793256735,
+    "close_price": 0.49,
+    "gross_pnl": 0.19500000000000006
   },
   {
     "id": "831697595142_1793149616",
@@ -197114,8 +197123,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1793236016,
-    "status": "open",
-    "opened_at_run_ts": 1793149839
+    "status": "closed",
+    "opened_at_run_ts": 1793149839,
+    "close_ts": 1793256796,
+    "close_price": 0.49,
+    "gross_pnl": 0.18
   },
   {
     "id": "899229469960_1793149768",
@@ -197762,5 +197774,22 @@
     "target_close_ts": 1793321043,
     "status": "open",
     "opened_at_run_ts": 1793234829
+  },
+  {
+    "id": "427705084720_1793256861",
+    "token_id": "42770508472033780309274661393478318337925842999107023537284488885850386752237",
+    "market_id": "6295166",
+    "question": "Guangzhou Open: Jil Teichmann vs Zeynep Sonmez",
+    "slug": "wta-teichma-sonmez-2026-10-27",
+    "open_ts": 1793256861,
+    "open_price": 0.855,
+    "six_h_ago_ts": 1793232000,
+    "six_h_ago_price": 0.335,
+    "dp_6h": 0.52,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1793343261,
+    "status": "open",
+    "opened_at_run_ts": 1793257012
   }
 ]
