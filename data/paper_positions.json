@@ -197930,5 +197930,39 @@
     "target_close_ts": 1793369060,
     "status": "open",
     "opened_at_run_ts": 1793282854
+  },
+  {
+    "id": "348611920147_1793304621",
+    "token_id": "34861192014713250856390722913305277171784288125868822069076438360307351198378",
+    "market_id": "6373553",
+    "question": "Dota 2: OG vs GamerLegion (BO3) - PARI Universe Playoffs",
+    "slug": "dota2-og-gl-2026-10-29",
+    "open_ts": 1793304621,
+    "open_price": 0.295,
+    "six_h_ago_ts": 1793282421,
+    "six_h_ago_price": 0.535,
+    "dp_6h": -0.24000000000000005,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1793391021,
+    "status": "open",
+    "opened_at_run_ts": 1793304713
+  },
+  {
+    "id": "556325311642_1793304451",
+    "token_id": "55632531164259874581532086463096765375675122310464288883906870061905029632548",
+    "market_id": "701726",
+    "question": "Will Hyperliquid reach $100 by December 31, 2026?",
+    "slug": "will-hyperliquid-reach-100-by-december-31-2026",
+    "open_ts": 1793304451,
+    "open_price": 0.85,
+    "six_h_ago_ts": 1793282425,
+    "six_h_ago_price": 0.53,
+    "dp_6h": 0.31999999999999995,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1793390851,
+    "status": "open",
+    "opened_at_run_ts": 1793304713
   }
 ]
