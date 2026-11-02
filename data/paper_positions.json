@@ -200617,5 +200617,22 @@
     "target_close_ts": 1793684718,
     "status": "open",
     "opened_at_run_ts": 1793598584
+  },
+  {
+    "id": "338037569960_1793633539",
+    "token_id": "33803756996081245812393012244656891620529273750460103010702937160751857565974",
+    "market_id": "6476063",
+    "question": "Bitcoin Up or Down on November 2?",
+    "slug": "bitcoin-up-or-down-on-november-2-2026",
+    "open_ts": 1793633539,
+    "open_price": 0.28,
+    "six_h_ago_ts": 1793613622,
+    "six_h_ago_price": 0.485,
+    "dp_6h": -0.20499999999999996,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1793719939,
+    "status": "open",
+    "opened_at_run_ts": 1793633705
   }
 ]
