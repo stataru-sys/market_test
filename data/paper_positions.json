@@ -198581,8 +198581,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1793455032,
-    "status": "open",
-    "opened_at_run_ts": 1793368794
+    "status": "closed",
+    "opened_at_run_ts": 1793368794,
+    "close_ts": 1793880317,
+    "close_price": 0.215,
+    "gross_pnl": -0.060000000000000026
   },
   {
     "id": "774326944054_1793368711",
@@ -201868,8 +201871,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1793868860,
-    "status": "open",
-    "opened_at_run_ts": 1793782740
+    "status": "closed",
+    "opened_at_run_ts": 1793782740,
+    "close_ts": 1793880498,
+    "close_price": 0.465,
+    "gross_pnl": -0.15999999999999998
   },
   {
     "id": "704866164184_1793811862",
@@ -202346,5 +202352,56 @@
     "target_close_ts": 1793935459,
     "status": "open",
     "opened_at_run_ts": 1793849129
+  },
+  {
+    "id": "910951961819_1793880379",
+    "token_id": "91095196181921644423927910551864955949124172008511641704599748205321078421488",
+    "market_id": "6701966",
+    "question": "Rolex Paris Masters: Matteo Berrettini vs Carlos Alcaraz",
+    "slug": "atp-berrett-alcaraz-2026-11-05",
+    "open_ts": 1793880379,
+    "open_price": 0.495,
+    "six_h_ago_ts": 1793858439,
+    "six_h_ago_price": 0.205,
+    "dp_6h": 0.29000000000000004,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1793966779,
+    "status": "open",
+    "opened_at_run_ts": 1793880593
+  },
+  {
+    "id": "321060062594_1793880498",
+    "token_id": "32106006259442330135878501050008850009954485394993159132892430569651336353588",
+    "market_id": "6644137",
+    "question": "Prudential Hong Kong Tennis Open: Tereza Valentova vs Alexandra Eala",
+    "slug": "wta-valento-eala-2026-11-05",
+    "open_ts": 1793880498,
+    "open_price": 0.185,
+    "six_h_ago_ts": 1793858429,
+    "six_h_ago_price": 0.375,
+    "dp_6h": -0.19,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1793966898,
+    "status": "open",
+    "opened_at_run_ts": 1793880593
+  },
+  {
+    "id": "866696686971_1793880432",
+    "token_id": "86669668697144212399723223124840187089714031830288458978074089488262456182496",
+    "market_id": "6659476",
+    "question": "Chennai Open: Simona Waltert vs Lucrezia Stefanini",
+    "slug": "wta-waltert-stefani-2026-11-04",
+    "open_ts": 1793880432,
+    "open_price": 0.195,
+    "six_h_ago_ts": 1793858426,
+    "six_h_ago_price": 0.355,
+    "dp_6h": -0.15999999999999998,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1793966832,
+    "status": "open",
+    "opened_at_run_ts": 1793880593
   }
 ]
