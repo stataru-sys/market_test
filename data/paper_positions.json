@@ -202749,5 +202749,39 @@
     "target_close_ts": 1794014850,
     "status": "open",
     "opened_at_run_ts": 1793928518
+  },
+  {
+    "id": "586910488483_1793956457",
+    "token_id": "58691048848347788927637198129134215088543308012426892344283777001369353528318",
+    "market_id": "6721557",
+    "question": "Prudential Hong Kong Tennis Open: Sorana Cirstea vs Alexandra Shubladze",
+    "slug": "wta-cirstea-shublad-2026-11-06",
+    "open_ts": 1793956457,
+    "open_price": 0.565,
+    "six_h_ago_ts": 1793934019,
+    "six_h_ago_price": 0.735,
+    "dp_6h": -0.17000000000000004,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1794042857,
+    "status": "open",
+    "opened_at_run_ts": 1793956555
+  },
+  {
+    "id": "105876489933_1793956345",
+    "token_id": "105876489933588491389098598594230629449768037502709898926850283756931849848028",
+    "market_id": "6288570",
+    "question": "Will Elon Musk post 300-319 tweets from October 30 to November 6, 2026?",
+    "slug": "elon-musk-of-tweets-october-30-november-6-2026-300-319",
+    "open_ts": 1793956345,
+    "open_price": 0.785,
+    "six_h_ago_ts": 1793934027,
+    "six_h_ago_price": 0.195,
+    "dp_6h": 0.5900000000000001,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1794042745,
+    "status": "open",
+    "opened_at_run_ts": 1793956555
   }
 ]
