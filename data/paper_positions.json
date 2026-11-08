@@ -203897,5 +203897,22 @@
     "target_close_ts": 1794183918,
     "status": "open",
     "opened_at_run_ts": 1794097533
+  },
+  {
+    "id": "766998997083_1794121815",
+    "token_id": "76699899708344647076710339569023057500224637509673205494235579718869366439614",
+    "market_id": "6277175",
+    "question": "Texas State vs. Oregon State: O/U 69.5",
+    "slug": "cfb-txst-oregst-2026-11-07-total-69pt5",
+    "open_ts": 1794121815,
+    "open_price": 0.11,
+    "six_h_ago_ts": 1794099617,
+    "six_h_ago_price": 0.555,
+    "dp_6h": -0.44500000000000006,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1794208215,
+    "status": "open",
+    "opened_at_run_ts": 1794121836
   }
 ]
