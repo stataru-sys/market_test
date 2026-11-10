@@ -204706,8 +204706,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1794290428,
-    "status": "open",
-    "opened_at_run_ts": 1794204204
+    "status": "closed",
+    "opened_at_run_ts": 1794204204,
+    "close_ts": 1794298455,
+    "close_price": 0.3755,
+    "gross_pnl": -0.0025000000000000022
   },
   {
     "id": "711423572293_1794203956",
@@ -204980,5 +204983,56 @@
     "target_close_ts": 1794355517,
     "status": "open",
     "opened_at_run_ts": 1794269311
+  },
+  {
+    "id": "923083929111_1794298276",
+    "token_id": "9230839291114720226686414686806187921162375610725379256969425971673470174972",
+    "market_id": "6731228",
+    "question": "Will Kai Cenat finish his GTA marathon by November 10?",
+    "slug": "will-kai-cenat-finish-his-gta-marathon-by-november-10-20261105",
+    "open_ts": 1794298276,
+    "open_price": 0.2705,
+    "six_h_ago_ts": 1794276020,
+    "six_h_ago_price": 0.025,
+    "dp_6h": 0.24550000000000002,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1794384676,
+    "status": "open",
+    "opened_at_run_ts": 1794298632
+  },
+  {
+    "id": "916507122579_1794298390",
+    "token_id": "9165071225798424594077804190165189714613031792922757013864116687925590207296",
+    "market_id": "6882874",
+    "question": "Will Kai Cenat finish his GTA marathon by November 11, 7:59 AM ET?",
+    "slug": "will-kai-cenat-finish-his-gta-marathon-by-november-11-759-am-et",
+    "open_ts": 1794298390,
+    "open_price": 0.82,
+    "six_h_ago_ts": 1794276017,
+    "six_h_ago_price": 0.25,
+    "dp_6h": 0.57,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1794384790,
+    "status": "open",
+    "opened_at_run_ts": 1794298632
+  },
+  {
+    "id": "107454539899_1794298531",
+    "token_id": "107454539899594267931182587849336382366386034448533288549480601304812378760598",
+    "market_id": "6699332",
+    "question": "Dota 2: HULIGANI vs PuckChamp (BO3) - DreamLeague Division 2 Group B",
+    "slug": "dota2-huliga-pckcp-2026-11-06",
+    "open_ts": 1794298531,
+    "open_price": 0.5315,
+    "six_h_ago_ts": 1794276018,
+    "six_h_ago_price": 0.811,
+    "dp_6h": -0.2795000000000001,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1794384931,
+    "status": "open",
+    "opened_at_run_ts": 1794298632
   }
 ]
