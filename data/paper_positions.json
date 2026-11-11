@@ -130915,8 +130915,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1787459831,
-    "status": "open",
-    "opened_at_run_ts": 1787373735
+    "status": "closed",
+    "opened_at_run_ts": 1787373735,
+    "close_ts": 1794421995,
+    "close_price": 0.765,
+    "gross_pnl": 0.31
   },
   {
     "id": "249005278656_1787376793",
@@ -205092,8 +205095,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1794416232,
-    "status": "open",
-    "opened_at_run_ts": 1794329883
+    "status": "closed",
+    "opened_at_run_ts": 1794329883,
+    "close_ts": 1794421997,
+    "close_price": 0.455,
+    "gross_pnl": -0.03999999999999998
   },
   {
     "id": "584219879721_1794329654",
@@ -205109,8 +205115,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1794416054,
-    "status": "open",
-    "opened_at_run_ts": 1794329883
+    "status": "closed",
+    "opened_at_run_ts": 1794329883,
+    "close_ts": 1794422056,
+    "close_price": 0.535,
+    "gross_pnl": -0.040000000000000036
   },
   {
     "id": "960694176415_1794329656",
@@ -205893,5 +205902,56 @@
     "target_close_ts": 1794480136,
     "status": "open",
     "opened_at_run_ts": 1794393765
+  },
+  {
+    "id": "628338589767_1794421937",
+    "token_id": "62833858976733440393427585384961712066289158940968830497706705465504702252268",
+    "market_id": "6947888",
+    "question": "Lima: Nikolas Sanchez Izquierdo vs Filip Misolic",
+    "slug": "atp-izquier-misolic-2026-11-11",
+    "open_ts": 1794421937,
+    "open_price": 0.665,
+    "six_h_ago_ts": 1794402021,
+    "six_h_ago_price": 0.395,
+    "dp_6h": 0.27,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1794508337,
+    "status": "open",
+    "opened_at_run_ts": 1794422166
+  },
+  {
+    "id": "763917383923_1794421940",
+    "token_id": "76391738392386034192643890176708906312411451084124719553414443201513315376606",
+    "market_id": "6947123",
+    "question": "Counter-Strike: Tulpar vs DNK (BO3) - Exort Fiesta Closed Qualifier: Series #4 Group D",
+    "slug": "cs2-tlpr-dnk2-2026-11-11",
+    "open_ts": 1794421940,
+    "open_price": 0.74,
+    "six_h_ago_ts": 1794402024,
+    "six_h_ago_price": 0.375,
+    "dp_6h": 0.365,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1794508340,
+    "status": "open",
+    "opened_at_run_ts": 1794422166
+  },
+  {
+    "id": "338498042385_1794421939",
+    "token_id": "3384980423851594664206052258990711302154004513334275898069305201998486353085",
+    "market_id": "6947108",
+    "question": "Sopo: Lucia Bronzetti vs Elizabeth Mandlik",
+    "slug": "wta-bronzet-mandlik-2026-11-11",
+    "open_ts": 1794421939,
+    "open_price": 0.145,
+    "six_h_ago_ts": 1794402023,
+    "six_h_ago_price": 0.63,
+    "dp_6h": -0.485,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1794508339,
+    "status": "open",
+    "opened_at_run_ts": 1794422166
   }
 ]
