@@ -206467,8 +206467,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1794562816,
-    "status": "open",
-    "opened_at_run_ts": 1794476498
+    "status": "closed",
+    "opened_at_run_ts": 1794476498,
+    "close_ts": 1794585797,
+    "close_price": 0.1025,
+    "gross_pnl": 0.1825
   },
   {
     "id": "879444405967_1794476476",
@@ -206894,5 +206897,56 @@
     "target_close_ts": 1794642256,
     "status": "open",
     "opened_at_run_ts": 1794556097
+  },
+  {
+    "id": "202129772673_1794585986",
+    "token_id": "20212977267360619555009384424238096316896847209238178446095532941473652629116",
+    "market_id": "6991192",
+    "question": "Sopo: Laura Samson vs Elizabeth Mandlik",
+    "slug": "wta-samson-mandlik-2026-11-13",
+    "open_ts": 1794585986,
+    "open_price": 0.205,
+    "six_h_ago_ts": 1794564029,
+    "six_h_ago_price": 0.655,
+    "dp_6h": -0.45000000000000007,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1794672386,
+    "status": "open",
+    "opened_at_run_ts": 1794586090
+  },
+  {
+    "id": "850431019546_1794585625",
+    "token_id": "85043101954632833366776217713008253527526240281425655340845629774871693945979",
+    "market_id": "2965189",
+    "question": "Will Jensen Huang be the #1 searched person on Google this year?",
+    "slug": "will-jensen-huang-be-the-1-searched-person-on-google-this-year-20260717214426300",
+    "open_ts": 1794585625,
+    "open_price": 0.39,
+    "six_h_ago_ts": 1794564032,
+    "six_h_ago_price": 0.105,
+    "dp_6h": 0.28500000000000003,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1794672025,
+    "status": "open",
+    "opened_at_run_ts": 1794586090
+  },
+  {
+    "id": "897627397807_1794585625",
+    "token_id": "89762739780745161904644112893374146900923762420824707262461157180252930410572",
+    "market_id": "6459732",
+    "question": "Will Saudi Arabia win on 2026-11-13?",
+    "slug": "fif-ksa-kr-2026-11-13-ksa",
+    "open_ts": 1794585625,
+    "open_price": 0.895,
+    "six_h_ago_ts": 1794564031,
+    "six_h_ago_price": 0.185,
+    "dp_6h": 0.71,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1794672025,
+    "status": "open",
+    "opened_at_run_ts": 1794586090
   }
 ]
