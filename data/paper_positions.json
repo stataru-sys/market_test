@@ -206782,8 +206782,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1794642317,
-    "status": "open",
-    "opened_at_run_ts": 1794556097
+    "status": "closed",
+    "opened_at_run_ts": 1794556097,
+    "close_ts": 1794650658,
+    "close_price": 0.4135,
+    "gross_pnl": -0.16249999999999998
   },
   {
     "id": "793244932039_1794555914",
@@ -206833,8 +206836,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1794642437,
-    "status": "open",
-    "opened_at_run_ts": 1794556097
+    "status": "closed",
+    "opened_at_run_ts": 1794556097,
+    "close_ts": 1794650795,
+    "close_price": 0.665,
+    "gross_pnl": -0.16000000000000003
   },
   {
     "id": "208949701064_1794555796",
@@ -207396,5 +207402,56 @@
     "target_close_ts": 1794711624,
     "status": "open",
     "opened_at_run_ts": 1794625390
+  },
+  {
+    "id": "940883386146_1794650840",
+    "token_id": "94088338614685218549244544037020879023023552284529099766973093679797720824968",
+    "market_id": "6959781",
+    "question": "Big Bash League, Women: Perth Scorchers vs Adelaide Strikers",
+    "slug": "cricwbbl-pes-ads-2026-11-14",
+    "open_ts": 1794650840,
+    "open_price": 0.13,
+    "six_h_ago_ts": 1794632421,
+    "six_h_ago_price": 0.595,
+    "dp_6h": -0.46499999999999997,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1794737240,
+    "status": "open",
+    "opened_at_run_ts": 1794650947
+  },
+  {
+    "id": "378174514790_1794650658",
+    "token_id": "37817451479088949184255944993702364352563289226162997304572471941887628021101",
+    "market_id": "6909744",
+    "question": "Will Elon Musk post 65-89 tweets from November 12 to November 14, 2026?",
+    "slug": "elon-musk-of-tweets-november-12-november-14-2026-65-89",
+    "open_ts": 1794650658,
+    "open_price": 0.87,
+    "six_h_ago_ts": 1794632426,
+    "six_h_ago_price": 0.565,
+    "dp_6h": 0.30500000000000005,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1794737058,
+    "status": "open",
+    "opened_at_run_ts": 1794650947
+  },
+  {
+    "id": "373044044247_1794650898",
+    "token_id": "37304404424720723797931632247286335498926380744047567552288596754863266262602",
+    "market_id": "1399397",
+    "question": "Will there be between 120m and 125m votes cast in the 2026 U.S. House of Representatives midterm elections?",
+    "slug": "will-there-be-between-120m-and-125m-votes-cast-in-the-2026-us-house-of-representatives-midterm-elections",
+    "open_ts": 1794650898,
+    "open_price": 0.3255,
+    "six_h_ago_ts": 1794632426,
+    "six_h_ago_price": 0.524,
+    "dp_6h": -0.1985,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1794737298,
+    "status": "open",
+    "opened_at_run_ts": 1794650947
   }
 ]
