@@ -210145,8 +210145,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1795059309,
-    "status": "open",
-    "opened_at_run_ts": 1794973079
+    "status": "closed",
+    "opened_at_run_ts": 1794973079,
+    "close_ts": 1795092445,
+    "close_price": 0.1445,
+    "gross_pnl": -0.34750000000000003
   },
   {
     "id": "108202655564_1794973044",
@@ -210230,8 +210233,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1795059256,
-    "status": "open",
-    "opened_at_run_ts": 1794973079
+    "status": "closed",
+    "opened_at_run_ts": 1794973079,
+    "close_ts": 1795092375,
+    "close_price": 0.849,
+    "gross_pnl": -0.40449999999999997
   },
   {
     "id": "285633831702_1795006453",
@@ -210861,5 +210867,56 @@
     "target_close_ts": 1795144291,
     "status": "open",
     "opened_at_run_ts": 1795057909
+  },
+  {
+    "id": "264056415508_1795092554",
+    "token_id": "26405641550821734762659411408031874837844163869467978992637610781063584019690",
+    "market_id": "7154150",
+    "question": "Counter-Strike: GamerLegion vs Inner Circle Esports (BO3) - Stake Ranked Episode 6 Playoffs",
+    "slug": "cs2-gl1-ice-2026-11-19",
+    "open_ts": 1795092554,
+    "open_price": 0.335,
+    "six_h_ago_ts": 1795071613,
+    "six_h_ago_price": 0.575,
+    "dp_6h": -0.23999999999999994,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1795178954,
+    "status": "open",
+    "opened_at_run_ts": 1795092656
+  },
+  {
+    "id": "366223293960_1795092375",
+    "token_id": "36622329396081099757188534370647978567314329538973141930065716170223080100517",
+    "market_id": "7101622",
+    "question": "Will Carlos Alcaraz win the 2026 Nitto ATP Finals?",
+    "slug": "will-carlos-alcaraz-win-the-2026-nitto-atp-finals",
+    "open_ts": 1795092375,
+    "open_price": 0.415,
+    "six_h_ago_ts": 1795071615,
+    "six_h_ago_price": 0.585,
+    "dp_6h": -0.16999999999999998,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1795178775,
+    "status": "open",
+    "opened_at_run_ts": 1795092656
+  },
+  {
+    "id": "226425774314_1795092555",
+    "token_id": "22642577431489039486993626002306754581632753981156800971573768292589185987309",
+    "market_id": "7147691",
+    "question": "Will IShowSpeed finish GTA VI by November 22?",
+    "slug": "will-ishowspeed-finish-gta-vi-by-november-22",
+    "open_ts": 1795092555,
+    "open_price": 0.615,
+    "six_h_ago_ts": 1795071615,
+    "six_h_ago_price": 0.143,
+    "dp_6h": 0.472,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1795178955,
+    "status": "open",
+    "opened_at_run_ts": 1795092656
   }
 ]
