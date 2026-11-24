@@ -210191,8 +210191,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1795059309,
-    "status": "open",
-    "opened_at_run_ts": 1794973079
+    "status": "closed",
+    "opened_at_run_ts": 1794973079,
+    "close_ts": 1795499352,
+    "close_price": 0.815,
+    "gross_pnl": -0.22499999999999998
   },
   {
     "id": "868151786359_1794972855",
@@ -213191,8 +213194,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1795431853,
-    "status": "open",
-    "opened_at_run_ts": 1795345480
+    "status": "closed",
+    "opened_at_run_ts": 1795345480,
+    "close_ts": 1795499712,
+    "close_price": 0.545,
+    "gross_pnl": 0.22000000000000003
   },
   {
     "id": "314947637051_1795345152",
@@ -214298,5 +214304,73 @@
     "target_close_ts": 1795554619,
     "status": "open",
     "opened_at_run_ts": 1795468368
+  },
+  {
+    "id": "694195112730_1795499592",
+    "token_id": "69419511273023372005578192401576081678116521873381750847003174413114402984188",
+    "market_id": "6989178",
+    "question": "Jensen Huang admits to another affair with a woman by December 31?",
+    "slug": "jensen-huang-admits-to-another-affair-by-december-31",
+    "open_ts": 1795499592,
+    "open_price": 0.7595,
+    "six_h_ago_ts": 1795478418,
+    "six_h_ago_price": 0.265,
+    "dp_6h": 0.49449999999999994,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1795585992,
+    "status": "open",
+    "opened_at_run_ts": 1795499688
+  },
+  {
+    "id": "734843290996_1795499654",
+    "token_id": "73484329099647644979214655253647219479216220375665417571555653144339648746164",
+    "market_id": "7030584",
+    "question": "Will Elon Musk post 280-299 tweets from November 17 to November 24, 2026?",
+    "slug": "elon-musk-of-tweets-november-17-november-24-2026-280-299",
+    "open_ts": 1795499654,
+    "open_price": 0.68,
+    "six_h_ago_ts": 1795478426,
+    "six_h_ago_price": 0.5,
+    "dp_6h": 0.18000000000000005,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1795586054,
+    "status": "open",
+    "opened_at_run_ts": 1795499688
+  },
+  {
+    "id": "734684091332_1795499653",
+    "token_id": "73468409133231189312641297480744281398929084000275037079486466990392504332262",
+    "market_id": "7030585",
+    "question": "Will Elon Musk post 300-319 tweets from November 17 to November 24, 2026?",
+    "slug": "elon-musk-of-tweets-november-17-november-24-2026-300-319",
+    "open_ts": 1795499653,
+    "open_price": 0.155,
+    "six_h_ago_ts": 1795478422,
+    "six_h_ago_price": 0.345,
+    "dp_6h": -0.18999999999999997,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1795586053,
+    "status": "open",
+    "opened_at_run_ts": 1795499688
+  },
+  {
+    "id": "171457729701_1795499591",
+    "token_id": "17145772970155534292361119294361327854815463253910054833411588868182255113499",
+    "market_id": "6999516",
+    "question": "Will 4 Jensen Huang affairs be reported by December 31?",
+    "slug": "will-4-jensen-huang-affairs-be-reported-by-december-31",
+    "open_ts": 1795499591,
+    "open_price": 0.465,
+    "six_h_ago_ts": 1795478412,
+    "six_h_ago_price": 0.13,
+    "dp_6h": 0.335,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1795585991,
+    "status": "open",
+    "opened_at_run_ts": 1795499688
   }
 ]
