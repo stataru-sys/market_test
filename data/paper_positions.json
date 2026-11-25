@@ -214240,8 +214240,11 @@
     "shock_dir": "down",
     "fade_side": "YES",
     "target_close_ts": 1795554554,
-    "status": "open",
-    "opened_at_run_ts": 1795468368
+    "status": "closed",
+    "opened_at_run_ts": 1795468368,
+    "close_ts": 1795645214,
+    "close_price": 0.205,
+    "gross_pnl": -0.18000000000000002
   },
   {
     "id": "832456679781_1795468334",
@@ -214705,8 +214708,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1795521635,
-    "status": "open",
-    "opened_at_run_ts": 1795610200
+    "status": "closed",
+    "opened_at_run_ts": 1795610200,
+    "close_ts": 1795435235,
+    "close_price": 0.475,
+    "gross_pnl": -0.0
   },
   {
     "id": "937056958129_1795610054",
@@ -214741,5 +214747,73 @@
     "target_close_ts": 1795696574,
     "status": "open",
     "opened_at_run_ts": 1795610200
+  },
+  {
+    "id": "106392442654_1795435235",
+    "token_id": "106392442654853938189704788423920924653285452522462604595526081508997627433097",
+    "market_id": "7222313",
+    "question": "Yokohama: Ryo Ono vs Lennon Roark Jones",
+    "slug": "atp-ono-lennonr-2026-11-22",
+    "open_ts": 1795435235,
+    "open_price": 0.475,
+    "six_h_ago_ts": 1795413627,
+    "six_h_ago_price": 0.315,
+    "dp_6h": 0.15999999999999998,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1795521635,
+    "status": "open",
+    "opened_at_run_ts": 1795645486
+  },
+  {
+    "id": "868182147163_1795645212",
+    "token_id": "86818214716339720623824297871888907455819034267198335174718592093543870031596",
+    "market_id": "6507392",
+    "question": "Will Bitcoin dip to $55,000 in November?",
+    "slug": "will-bitcoin-dip-to-55k-in-november-2026",
+    "open_ts": 1795645212,
+    "open_price": 0.1775,
+    "six_h_ago_ts": 1795622415,
+    "six_h_ago_price": 0.4215,
+    "dp_6h": -0.244,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1795731612,
+    "status": "open",
+    "opened_at_run_ts": 1795645486
+  },
+  {
+    "id": "115462087336_1795645395",
+    "token_id": "115462087336983275104521488923966022755348986822352694745153736621832003960847",
+    "market_id": "701501",
+    "question": "Will Bitcoin dip to $55,000 by December 31, 2026?",
+    "slug": "will-bitcoin-dip-to-55000-by-december-31-2026-527-627-868-745-188-361-314-673-612-946-821-624-855-557-684-381-884-939-182-939-516",
+    "open_ts": 1795645395,
+    "open_price": 0.525,
+    "six_h_ago_ts": 1795622416,
+    "six_h_ago_price": 0.685,
+    "dp_6h": -0.16000000000000003,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1795731795,
+    "status": "open",
+    "opened_at_run_ts": 1795645486
+  },
+  {
+    "id": "655223007839_1795645455",
+    "token_id": "65522300783941941195397216501000123212688046781591407741543360908052351838166",
+    "market_id": "7288834",
+    "question": "Will Bitcoin reach $62,500 in November?",
+    "slug": "will-bitcoin-reach-62pt5k-in-november-2026-from-november-23",
+    "open_ts": 1795645455,
+    "open_price": 0.505,
+    "six_h_ago_ts": 1795622418,
+    "six_h_ago_price": 0.285,
+    "dp_6h": 0.22000000000000003,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1795731855,
+    "status": "open",
+    "opened_at_run_ts": 1795645486
   }
 ]
