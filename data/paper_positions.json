@@ -214481,8 +214481,11 @@
     "shock_dir": "up",
     "fade_side": "NO",
     "target_close_ts": 1795521635,
-    "status": "open",
-    "opened_at_run_ts": 1795572966
+    "status": "closed",
+    "opened_at_run_ts": 1795572966,
+    "close_ts": 1795435235,
+    "close_price": 0.475,
+    "gross_pnl": -0.0
   },
   {
     "id": "497614862554_1795572849",
@@ -214687,5 +214690,56 @@
     "target_close_ts": 1795659249,
     "status": "open",
     "opened_at_run_ts": 1795572966
+  },
+  {
+    "id": "106392442654_1795435235",
+    "token_id": "106392442654853938189704788423920924653285452522462604595526081508997627433097",
+    "market_id": "7222313",
+    "question": "Yokohama: Ryo Ono vs Lennon Roark Jones",
+    "slug": "atp-ono-lennonr-2026-11-22",
+    "open_ts": 1795435235,
+    "open_price": 0.475,
+    "six_h_ago_ts": 1795413627,
+    "six_h_ago_price": 0.315,
+    "dp_6h": 0.15999999999999998,
+    "shock_dir": "up",
+    "fade_side": "NO",
+    "target_close_ts": 1795521635,
+    "status": "open",
+    "opened_at_run_ts": 1795610200
+  },
+  {
+    "id": "937056958129_1795610054",
+    "token_id": "93705695812980755394432345255317263427280895893178637404050965717437284536021",
+    "market_id": "7309873",
+    "question": "Counter-Strike: GOSH vs Chinggis Warriors (BO3) - PGL Major Singapore Stage 1",
+    "slug": "cs2-gosh-cw-2026-11-25",
+    "open_ts": 1795610054,
+    "open_price": 0.21,
+    "six_h_ago_ts": 1795590015,
+    "six_h_ago_price": 0.825,
+    "dp_6h": -0.615,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1795696454,
+    "status": "open",
+    "opened_at_run_ts": 1795610200
+  },
+  {
+    "id": "290486522107_1795610174",
+    "token_id": "29048652210722892055244650157411599442202308588081567644811482487309661474182",
+    "market_id": "7288717",
+    "question": "Ethereum Up or Down on November 25?",
+    "slug": "eth-updown-1d-1795539600",
+    "open_ts": 1795610174,
+    "open_price": 0.235,
+    "six_h_ago_ts": 1795590014,
+    "six_h_ago_price": 0.395,
+    "dp_6h": -0.16000000000000003,
+    "shock_dir": "down",
+    "fade_side": "YES",
+    "target_close_ts": 1795696574,
+    "status": "open",
+    "opened_at_run_ts": 1795610200
   }
 ]
